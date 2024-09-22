@@ -1,0 +1,2795 @@
+"origin_iso2","origin_iso3","origin_name","destination_iso2","destination_iso3","destination_name","year","count"
+"DZ","DZA","Algeria","DZ","DZA","Algeria",2017,48539.0576923077
+"AO","AGO","Angola","DZ","DZA","Algeria",2017,8.21153846153846
+"BJ","BEN","Benin","DZ","DZA","Algeria",2017,8.98076923076923
+"BW","BWA","Botswana","DZ","DZA","Algeria",2017,0.942307692307692
+"BF","BFA","Burkina Faso","DZ","DZA","Algeria",2017,69.0192307692308
+"BI","BDI","Burundi","DZ","DZA","Algeria",2017,0.769230769230769
+"CM","CMR","Cameroon","DZ","DZA","Algeria",2017,24.9038461538462
+"CV","CPV","Cape Verde","DZ","DZA","Algeria",2017,0.942307692307692
+"CF","CAF","Central African Republic","DZ","DZA","Algeria",2017,1.34615384615385
+"TD","TCD","Chad","DZ","DZA","Algeria",2017,12.8269230769231
+"KM","COM","Comoros","DZ","DZA","Algeria",2017,0.173076923076923
+"CG","COG","Congo","DZ","DZA","Algeria",2017,14.4038461538462
+"CI","CIV","Côte d’Ivoire","DZ","DZA","Algeria",2017,61.4038461538462
+"CD","COD","Democratic Republic of Congo","DZ","DZA","Algeria",2017,6.55769230769231
+"DJ","DJI","Djibouti","DZ","DZA","Algeria",2017,10.1346153846154
+"EG","EGY","Egypt","DZ","DZA","Algeria",2017,1121.63461538462
+"GQ","GNQ","Equatorial Guinea","DZ","DZA","Algeria",2017,1.88461538461538
+"ER","ERI","Eritrea","DZ","DZA","Algeria",2017,1.30769230769231
+"SZ","SWZ","Eswatini","DZ","DZA","Algeria",2017,1.28846153846154
+"ET","ETH","Ethiopia","DZ","DZA","Algeria",2017,26.5
+"GA","GAB","Gabon","DZ","DZA","Algeria",2017,11.2115384615385
+"GM","GMB","Gambia","DZ","DZA","Algeria",2017,3.65384615384615
+"GH","GHA","Ghana","DZ","DZA","Algeria",2017,15.8269230769231
+"GN","GIN","Guinea","DZ","DZA","Algeria",2017,14.9038461538462
+"GW","GNB","Guinea-Bissau","DZ","DZA","Algeria",2017,3.26923076923077
+"KE","KEN","Kenya","DZ","DZA","Algeria",2017,15.6730769230769
+"LS","LSO","Lesotho","DZ","DZA","Algeria",2017,1.05769230769231
+"LR","LBR","Liberia","DZ","DZA","Algeria",2017,5.46153846153846
+"LY","LBY","Libya","DZ","DZA","Algeria",2017,75.9807692307692
+"MG","MDG","Madagascar","DZ","DZA","Algeria",2017,5.28846153846154
+"MW","MWI","Malawi","DZ","DZA","Algeria",2017,0.5
+"ML","MLI","Mali","DZ","DZA","Algeria",2017,174.769230769231
+"MR","MRT","Mauritania","DZ","DZA","Algeria",2017,103.211538461538
+"MU","MUS","Mauritius","DZ","DZA","Algeria",2017,7.23076923076923
+"MA","MAR","Morocco","DZ","DZA","Algeria",2017,2722.05769230769
+"MZ","MOZ","Mozambique","DZ","DZA","Algeria",2017,7
+"NA","NAM","Namibia","DZ","DZA","Algeria",2017,2.78846153846154
+"NE","NER","Niger","DZ","DZA","Algeria",2017,73.7884615384615
+"NG","NGA","Nigeria","DZ","DZA","Algeria",2017,22.75
+"RW","RWA","Rwanda","DZ","DZA","Algeria",2017,4.59615384615385
+"ST","STP","São Tomé & Príncipe","DZ","DZA","Algeria",2017,0.0384615384615385
+"SN","SEN","Senegal","DZ","DZA","Algeria",2017,110.692307692308
+"SC","SYC","Seychelles","DZ","DZA","Algeria",2017,2.65384615384615
+"SL","SLE","Sierra Leone","DZ","DZA","Algeria",2017,3.69230769230769
+"SO","SOM","Somalia","DZ","DZA","Algeria",2017,0.519230769230769
+"ZA","ZAF","South Africa","DZ","DZA","Algeria",2017,75.4038461538462
+"SS","SSD","South Sudan","DZ","DZA","Algeria",2017,0.384615384615385
+"SD","SDN","Sudan","DZ","DZA","Algeria",2017,46.7692307692308
+"TZ","TZA","Tanzania","DZ","DZA","Algeria",2017,11.6346153846154
+"TG","TGO","Togo","DZ","DZA","Algeria",2017,4.86538461538461
+"TN","TUN","Tunisia","DZ","DZA","Algeria",2017,2828.67307692308
+"UG","UGA","Uganda","DZ","DZA","Algeria",2017,7.53846153846154
+"ZM","ZMB","Zambia","DZ","DZA","Algeria",2017,5.84615384615385
+"ZW","ZWE","Zimbabwe","DZ","DZA","Algeria",2017,7.42307692307692
+"DZ","DZA","Algeria","AO","AGO","Angola",2017,24.8846153846154
+"AO","AGO","Angola","AO","AGO","Angola",2017,18078.0384615385
+"BJ","BEN","Benin","AO","AGO","Angola",2017,7.28846153846154
+"BW","BWA","Botswana","AO","AGO","Angola",2017,20.7692307692308
+"BF","BFA","Burkina Faso","AO","AGO","Angola",2017,2.13461538461538
+"BI","BDI","Burundi","AO","AGO","Angola",2017,1.55769230769231
+"CM","CMR","Cameroon","AO","AGO","Angola",2017,69.5961538461538
+"CV","CPV","Cape Verde","AO","AGO","Angola",2017,28.6153846153846
+"CF","CAF","Central African Republic","AO","AGO","Angola",2017,3.05769230769231
+"TD","TCD","Chad","AO","AGO","Angola",2017,2.25
+"KM","COM","Comoros","AO","AGO","Angola",2017,0.115384615384615
+"CG","COG","Congo","AO","AGO","Angola",2017,146.230769230769
+"CI","CIV","Côte d’Ivoire","AO","AGO","Angola",2017,22.7692307692308
+"CD","COD","Democratic Republic of Congo","AO","AGO","Angola",2017,121
+"DJ","DJI","Djibouti","AO","AGO","Angola",2017,0.634615384615385
+"EG","EGY","Egypt","AO","AGO","Angola",2017,40.7115384615385
+"GQ","GNQ","Equatorial Guinea","AO","AGO","Angola",2017,8.23076923076923
+"ER","ERI","Eritrea","AO","AGO","Angola",2017,0.269230769230769
+"SZ","SWZ","Eswatini","AO","AGO","Angola",2017,2.65384615384615
+"ET","ETH","Ethiopia","AO","AGO","Angola",2017,43.1923076923077
+"GA","GAB","Gabon","AO","AGO","Angola",2017,12.0192307692308
+"GM","GMB","Gambia","AO","AGO","Angola",2017,5.42307692307692
+"GH","GHA","Ghana","AO","AGO","Angola",2017,25.5576923076923
+"GN","GIN","Guinea","AO","AGO","Angola",2017,44.9038461538462
+"GW","GNB","Guinea-Bissau","AO","AGO","Angola",2017,8.86538461538461
+"KE","KEN","Kenya","AO","AGO","Angola",2017,56.3846153846154
+"LS","LSO","Lesotho","AO","AGO","Angola",2017,3.03846153846154
+"LR","LBR","Liberia","AO","AGO","Angola",2017,0.423076923076923
+"MG","MDG","Madagascar","AO","AGO","Angola",2017,4.65384615384615
+"MW","MWI","Malawi","AO","AGO","Angola",2017,2.5
+"ML","MLI","Mali","AO","AGO","Angola",2017,30.4807692307692
+"MR","MRT","Mauritania","AO","AGO","Angola",2017,37.2115384615385
+"MU","MUS","Mauritius","AO","AGO","Angola",2017,11.0769230769231
+"MA","MAR","Morocco","AO","AGO","Angola",2017,55.5769230769231
+"MZ","MOZ","Mozambique","AO","AGO","Angola",2017,119.673076923077
+"NA","NAM","Namibia","AO","AGO","Angola",2017,709.442307692308
+"NE","NER","Niger","AO","AGO","Angola",2017,0.480769230769231
+"NG","NGA","Nigeria","AO","AGO","Angola",2017,90.0961538461538
+"RW","RWA","Rwanda","AO","AGO","Angola",2017,4.84615384615385
+"ST","STP","São Tomé & Príncipe","AO","AGO","Angola",2017,220.980769230769
+"SN","SEN","Senegal","AO","AGO","Angola",2017,19.8076923076923
+"SC","SYC","Seychelles","AO","AGO","Angola",2017,1.28846153846154
+"SL","SLE","Sierra Leone","AO","AGO","Angola",2017,8.86538461538461
+"SO","SOM","Somalia","AO","AGO","Angola",2017,0.153846153846154
+"ZA","ZAF","South Africa","AO","AGO","Angola",2017,1753.17307692308
+"SS","SSD","South Sudan","AO","AGO","Angola",2017,0.269230769230769
+"SD","SDN","Sudan","AO","AGO","Angola",2017,16.2884615384615
+"TZ","TZA","Tanzania","AO","AGO","Angola",2017,29.4423076923077
+"TG","TGO","Togo","AO","AGO","Angola",2017,1.34615384615385
+"TN","TUN","Tunisia","AO","AGO","Angola",2017,14.7692307692308
+"UG","UGA","Uganda","AO","AGO","Angola",2017,7.84615384615385
+"ZM","ZMB","Zambia","AO","AGO","Angola",2017,86.7692307692308
+"ZW","ZWE","Zimbabwe","AO","AGO","Angola",2017,93.6153846153846
+"DZ","DZA","Algeria","BJ","BEN","Benin",2017,13.0769230769231
+"AO","AGO","Angola","BJ","BEN","Benin",2017,5.73076923076923
+"BW","BWA","Botswana","BJ","BEN","Benin",2017,3.07692307692308
+"BF","BFA","Burkina Faso","BJ","BEN","Benin",2017,160.519230769231
+"BI","BDI","Burundi","BJ","BEN","Benin",2017,5.98076923076923
+"CM","CMR","Cameroon","BJ","BEN","Benin",2017,851.25
+"CV","CPV","Cape Verde","BJ","BEN","Benin",2017,2.23076923076923
+"CF","CAF","Central African Republic","BJ","BEN","Benin",2017,75.3269230769231
+"TD","TCD","Chad","BJ","BEN","Benin",2017,38.4423076923077
+"KM","COM","Comoros","BJ","BEN","Benin",2017,2.30769230769231
+"CG","COG","Congo","BJ","BEN","Benin",2017,558.211538461538
+"CI","CIV","Côte d’Ivoire","BJ","BEN","Benin",2017,610.346153846154
+"CD","COD","Democratic Republic of Congo","BJ","BEN","Benin",2017,52.4615384615385
+"DJ","DJI","Djibouti","BJ","BEN","Benin",2017,1.19230769230769
+"EG","EGY","Egypt","BJ","BEN","Benin",2017,10.8846153846154
+"GQ","GNQ","Equatorial Guinea","BJ","BEN","Benin",2017,439.019230769231
+"SZ","SWZ","Eswatini","BJ","BEN","Benin",2017,0.173076923076923
+"ET","ETH","Ethiopia","BJ","BEN","Benin",2017,35.7307692307692
+"GA","GAB","Gabon","BJ","BEN","Benin",2017,816.057692307692
+"GM","GMB","Gambia","BJ","BEN","Benin",2017,20.0769230769231
+"GH","GHA","Ghana","BJ","BEN","Benin",2017,81.3846153846154
+"GN","GIN","Guinea","BJ","BEN","Benin",2017,59.9038461538462
+"GW","GNB","Guinea-Bissau","BJ","BEN","Benin",2017,5.61538461538461
+"KE","KEN","Kenya","BJ","BEN","Benin",2017,25.2307692307692
+"LS","LSO","Lesotho","BJ","BEN","Benin",2017,0.25
+"LR","LBR","Liberia","BJ","BEN","Benin",2017,10
+"LY","LBY","Libya","BJ","BEN","Benin",2017,0.134615384615385
+"MG","MDG","Madagascar","BJ","BEN","Benin",2017,4.92307692307692
+"MW","MWI","Malawi","BJ","BEN","Benin",2017,2.78846153846154
+"ML","MLI","Mali","BJ","BEN","Benin",2017,147.615384615385
+"MR","MRT","Mauritania","BJ","BEN","Benin",2017,12.75
+"MU","MUS","Mauritius","BJ","BEN","Benin",2017,5.48076923076923
+"MA","MAR","Morocco","BJ","BEN","Benin",2017,97.0769230769231
+"MZ","MOZ","Mozambique","BJ","BEN","Benin",2017,3.23076923076923
+"NA","NAM","Namibia","BJ","BEN","Benin",2017,1.34615384615385
+"NE","NER","Niger","BJ","BEN","Benin",2017,74.3269230769231
+"NG","NGA","Nigeria","BJ","BEN","Benin",2017,320.846153846154
+"RW","RWA","Rwanda","BJ","BEN","Benin",2017,29.6538461538462
+"ST","STP","São Tomé & Príncipe","BJ","BEN","Benin",2017,0.269230769230769
+"SN","SEN","Senegal","BJ","BEN","Benin",2017,359.153846153846
+"SC","SYC","Seychelles","BJ","BEN","Benin",2017,0.480769230769231
+"SL","SLE","Sierra Leone","BJ","BEN","Benin",2017,4.82692307692308
+"SO","SOM","Somalia","BJ","BEN","Benin",2017,0.0769230769230769
+"ZA","ZAF","South Africa","BJ","BEN","Benin",2017,101.019230769231
+"SS","SSD","South Sudan","BJ","BEN","Benin",2017,0.346153846153846
+"SD","SDN","Sudan","BJ","BEN","Benin",2017,3.17307692307692
+"TZ","TZA","Tanzania","BJ","BEN","Benin",2017,13.5192307692308
+"TG","TGO","Togo","BJ","BEN","Benin",2017,92.0769230769231
+"TN","TUN","Tunisia","BJ","BEN","Benin",2017,22.0384615384615
+"UG","UGA","Uganda","BJ","BEN","Benin",2017,13.0769230769231
+"ZM","ZMB","Zambia","BJ","BEN","Benin",2017,4.69230769230769
+"ZW","ZWE","Zimbabwe","BJ","BEN","Benin",2017,3.17307692307692
+"DZ","DZA","Algeria","BW","BWA","Botswana",2017,0.807692307692308
+"AO","AGO","Angola","BW","BWA","Botswana",2017,29.7115384615385
+"BJ","BEN","Benin","BW","BWA","Botswana",2017,10.1923076923077
+"BW","BWA","Botswana","BW","BWA","Botswana",2017,1616.48076923077
+"BF","BFA","Burkina Faso","BW","BWA","Botswana",2017,2.92307692307692
+"BI","BDI","Burundi","BW","BWA","Botswana",2017,1.32692307692308
+"CM","CMR","Cameroon","BW","BWA","Botswana",2017,3.96153846153846
+"CV","CPV","Cape Verde","BW","BWA","Botswana",2017,0.0961538461538462
+"CF","CAF","Central African Republic","BW","BWA","Botswana",2017,0.211538461538462
+"TD","TCD","Chad","BW","BWA","Botswana",2017,0.25
+"KM","COM","Comoros","BW","BWA","Botswana",2017,1.21153846153846
+"CG","COG","Congo","BW","BWA","Botswana",2017,7.84615384615385
+"CI","CIV","Côte d’Ivoire","BW","BWA","Botswana",2017,5.05769230769231
+"CD","COD","Democratic Republic of Congo","BW","BWA","Botswana",2017,17.4807692307692
+"DJ","DJI","Djibouti","BW","BWA","Botswana",2017,1.96153846153846
+"EG","EGY","Egypt","BW","BWA","Botswana",2017,10.1730769230769
+"GQ","GNQ","Equatorial Guinea","BW","BWA","Botswana",2017,0.423076923076923
+"ER","ERI","Eritrea","BW","BWA","Botswana",2017,0.423076923076923
+"SZ","SWZ","Eswatini","BW","BWA","Botswana",2017,19.8461538461538
+"ET","ETH","Ethiopia","BW","BWA","Botswana",2017,24.3269230769231
+"GA","GAB","Gabon","BW","BWA","Botswana",2017,5.69230769230769
+"GM","GMB","Gambia","BW","BWA","Botswana",2017,0.615384615384615
+"GH","GHA","Ghana","BW","BWA","Botswana",2017,20.8269230769231
+"GN","GIN","Guinea","BW","BWA","Botswana",2017,1.23076923076923
+"KE","KEN","Kenya","BW","BWA","Botswana",2017,100.653846153846
+"LS","LSO","Lesotho","BW","BWA","Botswana",2017,24.8846153846154
+"LR","LBR","Liberia","BW","BWA","Botswana",2017,0.730769230769231
+"MG","MDG","Madagascar","BW","BWA","Botswana",2017,13.0576923076923
+"MW","MWI","Malawi","BW","BWA","Botswana",2017,53.2692307692308
+"ML","MLI","Mali","BW","BWA","Botswana",2017,0.961538461538462
+"MR","MRT","Mauritania","BW","BWA","Botswana",2017,0.153846153846154
+"MU","MUS","Mauritius","BW","BWA","Botswana",2017,21.4423076923077
+"MA","MAR","Morocco","BW","BWA","Botswana",2017,3.07692307692308
+"MZ","MOZ","Mozambique","BW","BWA","Botswana",2017,55.0192307692308
+"NA","NAM","Namibia","BW","BWA","Botswana",2017,237.115384615385
+"NE","NER","Niger","BW","BWA","Botswana",2017,0.615384615384615
+"NG","NGA","Nigeria","BW","BWA","Botswana",2017,29.5384615384615
+"RW","RWA","Rwanda","BW","BWA","Botswana",2017,6.07692307692308
+"ST","STP","São Tomé & Príncipe","BW","BWA","Botswana",2017,0.423076923076923
+"SN","SEN","Senegal","BW","BWA","Botswana",2017,9.46153846153846
+"SC","SYC","Seychelles","BW","BWA","Botswana",2017,3.55769230769231
+"SL","SLE","Sierra Leone","BW","BWA","Botswana",2017,0.980769230769231
+"SO","SOM","Somalia","BW","BWA","Botswana",2017,0.173076923076923
+"ZA","ZAF","South Africa","BW","BWA","Botswana",2017,3065.17307692308
+"SS","SSD","South Sudan","BW","BWA","Botswana",2017,1.23076923076923
+"SD","SDN","Sudan","BW","BWA","Botswana",2017,1.84615384615385
+"TZ","TZA","Tanzania","BW","BWA","Botswana",2017,56.6153846153846
+"TG","TGO","Togo","BW","BWA","Botswana",2017,0.846153846153846
+"TN","TUN","Tunisia","BW","BWA","Botswana",2017,1.96153846153846
+"UG","UGA","Uganda","BW","BWA","Botswana",2017,29.75
+"ZM","ZMB","Zambia","BW","BWA","Botswana",2017,87.1538461538462
+"ZW","ZWE","Zimbabwe","BW","BWA","Botswana",2017,117.5
+"DZ","DZA","Algeria","BF","BFA","Burkina Faso",2017,97.3653846153846
+"AO","AGO","Angola","BF","BFA","Burkina Faso",2017,5.05769230769231
+"BJ","BEN","Benin","BF","BFA","Burkina Faso",2017,150.692307692308
+"BW","BWA","Botswana","BF","BFA","Burkina Faso",2017,3.25
+"BF","BFA","Burkina Faso","BF","BFA","Burkina Faso",2017,70.5384615384615
+"BI","BDI","Burundi","BF","BFA","Burkina Faso",2017,6.40384615384615
+"CM","CMR","Cameroon","BF","BFA","Burkina Faso",2017,75.75
+"CV","CPV","Cape Verde","BF","BFA","Burkina Faso",2017,3.13461538461538
+"CF","CAF","Central African Republic","BF","BFA","Burkina Faso",2017,12.2307692307692
+"TD","TCD","Chad","BF","BFA","Burkina Faso",2017,26.6153846153846
+"KM","COM","Comoros","BF","BFA","Burkina Faso",2017,0.980769230769231
+"CG","COG","Congo","BF","BFA","Burkina Faso",2017,51
+"CI","CIV","Côte d’Ivoire","BF","BFA","Burkina Faso",2017,577.865384615385
+"CD","COD","Democratic Republic of Congo","BF","BFA","Burkina Faso",2017,23.1923076923077
+"DJ","DJI","Djibouti","BF","BFA","Burkina Faso",2017,1.26923076923077
+"EG","EGY","Egypt","BF","BFA","Burkina Faso",2017,20.2692307692308
+"GQ","GNQ","Equatorial Guinea","BF","BFA","Burkina Faso",2017,1.73076923076923
+"ER","ERI","Eritrea","BF","BFA","Burkina Faso",2017,0.269230769230769
+"SZ","SWZ","Eswatini","BF","BFA","Burkina Faso",2017,0.134615384615385
+"ET","ETH","Ethiopia","BF","BFA","Burkina Faso",2017,87.5769230769231
+"GA","GAB","Gabon","BF","BFA","Burkina Faso",2017,43.5769230769231
+"GM","GMB","Gambia","BF","BFA","Burkina Faso",2017,9.26923076923077
+"GH","GHA","Ghana","BF","BFA","Burkina Faso",2017,162.615384615385
+"GN","GIN","Guinea","BF","BFA","Burkina Faso",2017,63.5192307692308
+"GW","GNB","Guinea-Bissau","BF","BFA","Burkina Faso",2017,14.3269230769231
+"KE","KEN","Kenya","BF","BFA","Burkina Faso",2017,39.0961538461538
+"LS","LSO","Lesotho","BF","BFA","Burkina Faso",2017,0.173076923076923
+"LR","LBR","Liberia","BF","BFA","Burkina Faso",2017,6.30769230769231
+"LY","LBY","Libya","BF","BFA","Burkina Faso",2017,1.15384615384615
+"MG","MDG","Madagascar","BF","BFA","Burkina Faso",2017,6.21153846153846
+"MW","MWI","Malawi","BF","BFA","Burkina Faso",2017,1.26923076923077
+"ML","MLI","Mali","BF","BFA","Burkina Faso",2017,220.480769230769
+"MR","MRT","Mauritania","BF","BFA","Burkina Faso",2017,15.9423076923077
+"MU","MUS","Mauritius","BF","BFA","Burkina Faso",2017,1.96153846153846
+"MA","MAR","Morocco","BF","BFA","Burkina Faso",2017,143.788461538462
+"MZ","MOZ","Mozambique","BF","BFA","Burkina Faso",2017,3.86538461538462
+"NA","NAM","Namibia","BF","BFA","Burkina Faso",2017,1.03846153846154
+"NE","NER","Niger","BF","BFA","Burkina Faso",2017,188.576923076923
+"NG","NGA","Nigeria","BF","BFA","Burkina Faso",2017,58.25
+"RW","RWA","Rwanda","BF","BFA","Burkina Faso",2017,15.6538461538462
+"ST","STP","São Tomé & Príncipe","BF","BFA","Burkina Faso",2017,0.596153846153846
+"SN","SEN","Senegal","BF","BFA","Burkina Faso",2017,300.211538461538
+"SC","SYC","Seychelles","BF","BFA","Burkina Faso",2017,0.442307692307692
+"SL","SLE","Sierra Leone","BF","BFA","Burkina Faso",2017,6.13461538461539
+"SO","SOM","Somalia","BF","BFA","Burkina Faso",2017,0.0961538461538462
+"ZA","ZAF","South Africa","BF","BFA","Burkina Faso",2017,46.4038461538462
+"SS","SSD","South Sudan","BF","BFA","Burkina Faso",2017,1.19230769230769
+"SD","SDN","Sudan","BF","BFA","Burkina Faso",2017,15.0769230769231
+"TZ","TZA","Tanzania","BF","BFA","Burkina Faso",2017,11.5
+"TG","TGO","Togo","BF","BFA","Burkina Faso",2017,118.884615384615
+"TN","TUN","Tunisia","BF","BFA","Burkina Faso",2017,60.6153846153846
+"UG","UGA","Uganda","BF","BFA","Burkina Faso",2017,13.2307692307692
+"ZM","ZMB","Zambia","BF","BFA","Burkina Faso",2017,5.36538461538461
+"ZW","ZWE","Zimbabwe","BF","BFA","Burkina Faso",2017,3.21153846153846
+"DZ","DZA","Algeria","BI","BDI","Burundi",2017,0.942307692307692
+"AO","AGO","Angola","BI","BDI","Burundi",2017,1.73076923076923
+"BJ","BEN","Benin","BI","BDI","Burundi",2017,19.3461538461538
+"BW","BWA","Botswana","BI","BDI","Burundi",2017,0.807692307692308
+"BF","BFA","Burkina Faso","BI","BDI","Burundi",2017,4.84615384615385
+"CM","CMR","Cameroon","BI","BDI","Burundi",2017,24.8076923076923
+"CF","CAF","Central African Republic","BI","BDI","Burundi",2017,7.59615384615385
+"TD","TCD","Chad","BI","BDI","Burundi",2017,4.13461538461539
+"KM","COM","Comoros","BI","BDI","Burundi",2017,0.557692307692308
+"CG","COG","Congo","BI","BDI","Burundi",2017,9.07692307692308
+"CI","CIV","Côte d’Ivoire","BI","BDI","Burundi",2017,25.2115384615385
+"CD","COD","Democratic Republic of Congo","BI","BDI","Burundi",2017,19.8269230769231
+"DJ","DJI","Djibouti","BI","BDI","Burundi",2017,10.4038461538462
+"EG","EGY","Egypt","BI","BDI","Burundi",2017,24.8461538461538
+"GQ","GNQ","Equatorial Guinea","BI","BDI","Burundi",2017,0.538461538461538
+"ER","ERI","Eritrea","BI","BDI","Burundi",2017,0.192307692307692
+"SZ","SWZ","Eswatini","BI","BDI","Burundi",2017,0.288461538461538
+"ET","ETH","Ethiopia","BI","BDI","Burundi",2017,65.4423076923077
+"GA","GAB","Gabon","BI","BDI","Burundi",2017,8.46153846153846
+"GM","GMB","Gambia","BI","BDI","Burundi",2017,0.153846153846154
+"GH","GHA","Ghana","BI","BDI","Burundi",2017,8.75
+"GN","GIN","Guinea","BI","BDI","Burundi",2017,2.44230769230769
+"KE","KEN","Kenya","BI","BDI","Burundi",2017,264.423076923077
+"LS","LSO","Lesotho","BI","BDI","Burundi",2017,0.230769230769231
+"LR","LBR","Liberia","BI","BDI","Burundi",2017,0.192307692307692
+"MG","MDG","Madagascar","BI","BDI","Burundi",2017,3.46153846153846
+"MW","MWI","Malawi","BI","BDI","Burundi",2017,2.32692307692308
+"ML","MLI","Mali","BI","BDI","Burundi",2017,8.11538461538461
+"MR","MRT","Mauritania","BI","BDI","Burundi",2017,0.326923076923077
+"MU","MUS","Mauritius","BI","BDI","Burundi",2017,1.90384615384615
+"MA","MAR","Morocco","BI","BDI","Burundi",2017,3.42307692307692
+"MZ","MOZ","Mozambique","BI","BDI","Burundi",2017,4.78846153846154
+"NA","NAM","Namibia","BI","BDI","Burundi",2017,0.634615384615385
+"NE","NER","Niger","BI","BDI","Burundi",2017,5.15384615384615
+"NG","NGA","Nigeria","BI","BDI","Burundi",2017,6.01923076923077
+"RW","RWA","Rwanda","BI","BDI","Burundi",2017,418.576923076923
+"SN","SEN","Senegal","BI","BDI","Burundi",2017,13.9230769230769
+"SC","SYC","Seychelles","BI","BDI","Burundi",2017,1.48076923076923
+"SL","SLE","Sierra Leone","BI","BDI","Burundi",2017,0.442307692307692
+"SO","SOM","Somalia","BI","BDI","Burundi",2017,0.326923076923077
+"ZA","ZAF","South Africa","BI","BDI","Burundi",2017,68.9807692307692
+"SS","SSD","South Sudan","BI","BDI","Burundi",2017,2.90384615384615
+"SD","SDN","Sudan","BI","BDI","Burundi",2017,13.6538461538462
+"TZ","TZA","Tanzania","BI","BDI","Burundi",2017,180.461538461538
+"TG","TGO","Togo","BI","BDI","Burundi",2017,4.59615384615385
+"TN","TUN","Tunisia","BI","BDI","Burundi",2017,5.34615384615385
+"UG","UGA","Uganda","BI","BDI","Burundi",2017,98.4807692307692
+"ZM","ZMB","Zambia","BI","BDI","Burundi",2017,26.75
+"ZW","ZWE","Zimbabwe","BI","BDI","Burundi",2017,11.7884615384615
+"DZ","DZA","Algeria","CM","CMR","Cameroon",2017,38.2692307692308
+"AO","AGO","Angola","CM","CMR","Cameroon",2017,44.9230769230769
+"BJ","BEN","Benin","CM","CMR","Cameroon",2017,772.307692307692
+"BW","BWA","Botswana","CM","CMR","Cameroon",2017,4.76923076923077
+"BF","BFA","Burkina Faso","CM","CMR","Cameroon",2017,67.8076923076923
+"BI","BDI","Burundi","CM","CMR","Cameroon",2017,19.25
+"CM","CMR","Cameroon","CM","CMR","Cameroon",2017,3574.03846153846
+"CV","CPV","Cape Verde","CM","CMR","Cameroon",2017,4.07692307692308
+"CF","CAF","Central African Republic","CM","CMR","Cameroon",2017,438.711538461538
+"TD","TCD","Chad","CM","CMR","Cameroon",2017,411.634615384615
+"KM","COM","Comoros","CM","CMR","Cameroon",2017,3.17307692307692
+"CG","COG","Congo","CM","CMR","Cameroon",2017,472.076923076923
+"CI","CIV","Côte d’Ivoire","CM","CMR","Cameroon",2017,504.365384615385
+"CD","COD","Democratic Republic of Congo","CM","CMR","Cameroon",2017,88.9038461538462
+"DJ","DJI","Djibouti","CM","CMR","Cameroon",2017,6.34615384615385
+"EG","EGY","Egypt","CM","CMR","Cameroon",2017,70.0384615384615
+"GQ","GNQ","Equatorial Guinea","CM","CMR","Cameroon",2017,391.5
+"ER","ERI","Eritrea","CM","CMR","Cameroon",2017,0.442307692307692
+"SZ","SWZ","Eswatini","CM","CMR","Cameroon",2017,1.34615384615385
+"ET","ETH","Ethiopia","CM","CMR","Cameroon",2017,82.8653846153846
+"GA","GAB","Gabon","CM","CMR","Cameroon",2017,708.307692307692
+"GM","GMB","Gambia","CM","CMR","Cameroon",2017,3.19230769230769
+"GH","GHA","Ghana","CM","CMR","Cameroon",2017,130.634615384615
+"GN","GIN","Guinea","CM","CMR","Cameroon",2017,37.8461538461538
+"GW","GNB","Guinea-Bissau","CM","CMR","Cameroon",2017,2.03846153846154
+"KE","KEN","Kenya","CM","CMR","Cameroon",2017,127.057692307692
+"LS","LSO","Lesotho","CM","CMR","Cameroon",2017,3.46153846153846
+"LR","LBR","Liberia","CM","CMR","Cameroon",2017,12.1923076923077
+"LY","LBY","Libya","CM","CMR","Cameroon",2017,0.634615384615385
+"MG","MDG","Madagascar","CM","CMR","Cameroon",2017,16.8076923076923
+"MW","MWI","Malawi","CM","CMR","Cameroon",2017,12.8461538461538
+"ML","MLI","Mali","CM","CMR","Cameroon",2017,95.9615384615385
+"MR","MRT","Mauritania","CM","CMR","Cameroon",2017,9.19230769230769
+"MU","MUS","Mauritius","CM","CMR","Cameroon",2017,11.1730769230769
+"MA","MAR","Morocco","CM","CMR","Cameroon",2017,216.230769230769
+"MZ","MOZ","Mozambique","CM","CMR","Cameroon",2017,20.8653846153846
+"NA","NAM","Namibia","CM","CMR","Cameroon",2017,4.67307692307692
+"NE","NER","Niger","CM","CMR","Cameroon",2017,35.1153846153846
+"NG","NGA","Nigeria","CM","CMR","Cameroon",2017,467.596153846154
+"RW","RWA","Rwanda","CM","CMR","Cameroon",2017,78.2307692307692
+"ST","STP","São Tomé & Príncipe","CM","CMR","Cameroon",2017,13.8461538461538
+"SN","SEN","Senegal","CM","CMR","Cameroon",2017,207.423076923077
+"SC","SYC","Seychelles","CM","CMR","Cameroon",2017,4.59615384615385
+"SL","SLE","Sierra Leone","CM","CMR","Cameroon",2017,7.11538461538461
+"SO","SOM","Somalia","CM","CMR","Cameroon",2017,0.230769230769231
+"ZA","ZAF","South Africa","CM","CMR","Cameroon",2017,246.076923076923
+"SS","SSD","South Sudan","CM","CMR","Cameroon",2017,2.92307692307692
+"SD","SDN","Sudan","CM","CMR","Cameroon",2017,18.5769230769231
+"TZ","TZA","Tanzania","CM","CMR","Cameroon",2017,49.0769230769231
+"TG","TGO","Togo","CM","CMR","Cameroon",2017,73.9038461538462
+"TN","TUN","Tunisia","CM","CMR","Cameroon",2017,72.1923076923077
+"UG","UGA","Uganda","CM","CMR","Cameroon",2017,33.6923076923077
+"ZM","ZMB","Zambia","CM","CMR","Cameroon",2017,16.6923076923077
+"ZW","ZWE","Zimbabwe","CM","CMR","Cameroon",2017,17.2307692307692
+"DZ","DZA","Algeria","CV","CPV","Cape Verde",2017,0.788461538461538
+"AO","AGO","Angola","CV","CPV","Cape Verde",2017,29.4038461538462
+"BJ","BEN","Benin","CV","CPV","Cape Verde",2017,1.71153846153846
+"BF","BFA","Burkina Faso","CV","CPV","Cape Verde",2017,2.51923076923077
+"CM","CMR","Cameroon","CV","CPV","Cape Verde",2017,3.28846153846154
+"CV","CPV","Cape Verde","CV","CPV","Cape Verde",2017,9123.53846153846
+"CF","CAF","Central African Republic","CV","CPV","Cape Verde",2017,0.0961538461538462
+"TD","TCD","Chad","CV","CPV","Cape Verde",2017,0.0769230769230769
+"CG","COG","Congo","CV","CPV","Cape Verde",2017,28.1923076923077
+"CI","CIV","Côte d’Ivoire","CV","CPV","Cape Verde",2017,7.73076923076923
+"CD","COD","Democratic Republic of Congo","CV","CPV","Cape Verde",2017,0.25
+"DJ","DJI","Djibouti","CV","CPV","Cape Verde",2017,0.211538461538462
+"EG","EGY","Egypt","CV","CPV","Cape Verde",2017,2.28846153846154
+"GQ","GNQ","Equatorial Guinea","CV","CPV","Cape Verde",2017,0.692307692307692
+"ET","ETH","Ethiopia","CV","CPV","Cape Verde",2017,1.44230769230769
+"GA","GAB","Gabon","CV","CPV","Cape Verde",2017,0.346153846153846
+"GM","GMB","Gambia","CV","CPV","Cape Verde",2017,6.36538461538461
+"GH","GHA","Ghana","CV","CPV","Cape Verde",2017,5.59615384615385
+"GN","GIN","Guinea","CV","CPV","Cape Verde",2017,2.28846153846154
+"GW","GNB","Guinea-Bissau","CV","CPV","Cape Verde",2017,47.4230769230769
+"KE","KEN","Kenya","CV","CPV","Cape Verde",2017,2.26923076923077
+"LR","LBR","Liberia","CV","CPV","Cape Verde",2017,1.46153846153846
+"LY","LBY","Libya","CV","CPV","Cape Verde",2017,0.0192307692307692
+"MG","MDG","Madagascar","CV","CPV","Cape Verde",2017,0.0576923076923077
+"MW","MWI","Malawi","CV","CPV","Cape Verde",2017,0.0961538461538462
+"ML","MLI","Mali","CV","CPV","Cape Verde",2017,2.23076923076923
+"MR","MRT","Mauritania","CV","CPV","Cape Verde",2017,1.76923076923077
+"MU","MUS","Mauritius","CV","CPV","Cape Verde",2017,0.384615384615385
+"MA","MAR","Morocco","CV","CPV","Cape Verde",2017,86.0769230769231
+"MZ","MOZ","Mozambique","CV","CPV","Cape Verde",2017,5.5
+"NA","NAM","Namibia","CV","CPV","Cape Verde",2017,0.0384615384615385
+"NE","NER","Niger","CV","CPV","Cape Verde",2017,1.28846153846154
+"NG","NGA","Nigeria","CV","CPV","Cape Verde",2017,6.98076923076923
+"RW","RWA","Rwanda","CV","CPV","Cape Verde",2017,0.365384615384615
+"ST","STP","São Tomé & Príncipe","CV","CPV","Cape Verde",2017,3.05769230769231
+"SN","SEN","Senegal","CV","CPV","Cape Verde",2017,203.076923076923
+"SC","SYC","Seychelles","CV","CPV","Cape Verde",2017,0.25
+"SL","SLE","Sierra Leone","CV","CPV","Cape Verde",2017,1.55769230769231
+"ZA","ZAF","South Africa","CV","CPV","Cape Verde",2017,18.0384615384615
+"SD","SDN","Sudan","CV","CPV","Cape Verde",2017,0.0961538461538462
+"TZ","TZA","Tanzania","CV","CPV","Cape Verde",2017,0.0769230769230769
+"TG","TGO","Togo","CV","CPV","Cape Verde",2017,1.55769230769231
+"TN","TUN","Tunisia","CV","CPV","Cape Verde",2017,2.01923076923077
+"UG","UGA","Uganda","CV","CPV","Cape Verde",2017,0.115384615384615
+"ZM","ZMB","Zambia","CV","CPV","Cape Verde",2017,0.0384615384615385
+"ZW","ZWE","Zimbabwe","CV","CPV","Cape Verde",2017,0.134615384615385
+"DZ","DZA","Algeria","CF","CAF","Central African Republic",2017,3.57692307692308
+"AO","AGO","Angola","CF","CAF","Central African Republic",2017,4.07692307692308
+"BJ","BEN","Benin","CF","CAF","Central African Republic",2017,57.5961538461538
+"BW","BWA","Botswana","CF","CAF","Central African Republic",2017,0.230769230769231
+"BF","BFA","Burkina Faso","CF","CAF","Central African Republic",2017,11.4423076923077
+"BI","BDI","Burundi","CF","CAF","Central African Republic",2017,7.73076923076923
+"CM","CMR","Cameroon","CF","CAF","Central African Republic",2017,510.134615384615
+"CV","CPV","Cape Verde","CF","CAF","Central African Republic",2017,1.09615384615385
+"TD","TCD","Chad","CF","CAF","Central African Republic",2017,43.4807692307692
+"KM","COM","Comoros","CF","CAF","Central African Republic",2017,0.0384615384615385
+"CG","COG","Congo","CF","CAF","Central African Republic",2017,80.5384615384615
+"CI","CIV","Côte d’Ivoire","CF","CAF","Central African Republic",2017,20.75
+"CD","COD","Democratic Republic of Congo","CF","CAF","Central African Republic",2017,14.8653846153846
+"DJ","DJI","Djibouti","CF","CAF","Central African Republic",2017,0.788461538461538
+"EG","EGY","Egypt","CF","CAF","Central African Republic",2017,2.78846153846154
+"GQ","GNQ","Equatorial Guinea","CF","CAF","Central African Republic",2017,0.442307692307692
+"SZ","SWZ","Eswatini","CF","CAF","Central African Republic",2017,0.0576923076923077
+"ET","ETH","Ethiopia","CF","CAF","Central African Republic",2017,5.75
+"GA","GAB","Gabon","CF","CAF","Central African Republic",2017,14.9423076923077
+"GM","GMB","Gambia","CF","CAF","Central African Republic",2017,0.211538461538462
+"GH","GHA","Ghana","CF","CAF","Central African Republic",2017,1.03846153846154
+"GN","GIN","Guinea","CF","CAF","Central African Republic",2017,3.21153846153846
+"KE","KEN","Kenya","CF","CAF","Central African Republic",2017,57.1538461538462
+"LS","LSO","Lesotho","CF","CAF","Central African Republic",2017,0.0384615384615385
+"LR","LBR","Liberia","CF","CAF","Central African Republic",2017,0.25
+"MG","MDG","Madagascar","CF","CAF","Central African Republic",2017,1.75
+"MW","MWI","Malawi","CF","CAF","Central African Republic",2017,0.288461538461538
+"ML","MLI","Mali","CF","CAF","Central African Republic",2017,9.59615384615385
+"MR","MRT","Mauritania","CF","CAF","Central African Republic",2017,3.75
+"MU","MUS","Mauritius","CF","CAF","Central African Republic",2017,0.480769230769231
+"MA","MAR","Morocco","CF","CAF","Central African Republic",2017,25.6730769230769
+"MZ","MOZ","Mozambique","CF","CAF","Central African Republic",2017,0.576923076923077
+"NA","NAM","Namibia","CF","CAF","Central African Republic",2017,0.307692307692308
+"NE","NER","Niger","CF","CAF","Central African Republic",2017,5.90384615384615
+"NG","NGA","Nigeria","CF","CAF","Central African Republic",2017,4.05769230769231
+"RW","RWA","Rwanda","CF","CAF","Central African Republic",2017,14.8653846153846
+"SN","SEN","Senegal","CF","CAF","Central African Republic",2017,23.3653846153846
+"SC","SYC","Seychelles","CF","CAF","Central African Republic",2017,0.0961538461538462
+"SL","SLE","Sierra Leone","CF","CAF","Central African Republic",2017,0.153846153846154
+"ZA","ZAF","South Africa","CF","CAF","Central African Republic",2017,24.1730769230769
+"SS","SSD","South Sudan","CF","CAF","Central African Republic",2017,1.25
+"SD","SDN","Sudan","CF","CAF","Central African Republic",2017,5.13461538461539
+"TZ","TZA","Tanzania","CF","CAF","Central African Republic",2017,3.36538461538462
+"TG","TGO","Togo","CF","CAF","Central African Republic",2017,16.1923076923077
+"TN","TUN","Tunisia","CF","CAF","Central African Republic",2017,3.57692307692308
+"UG","UGA","Uganda","CF","CAF","Central African Republic",2017,28.6923076923077
+"ZM","ZMB","Zambia","CF","CAF","Central African Republic",2017,2.82692307692308
+"ZW","ZWE","Zimbabwe","CF","CAF","Central African Republic",2017,1.15384615384615
+"DZ","DZA","Algeria","TD","TCD","Chad",2017,11.4230769230769
+"AO","AGO","Angola","TD","TCD","Chad",2017,2.65384615384615
+"BJ","BEN","Benin","TD","TCD","Chad",2017,38.6538461538462
+"BW","BWA","Botswana","TD","TCD","Chad",2017,0.192307692307692
+"BF","BFA","Burkina Faso","TD","TCD","Chad",2017,27.5961538461538
+"BI","BDI","Burundi","TD","TCD","Chad",2017,14.4807692307692
+"CM","CMR","Cameroon","TD","TCD","Chad",2017,616.173076923077
+"CV","CPV","Cape Verde","TD","TCD","Chad",2017,0.0769230769230769
+"CF","CAF","Central African Republic","TD","TCD","Chad",2017,27.8269230769231
+"KM","COM","Comoros","TD","TCD","Chad",2017,0.75
+"CG","COG","Congo","TD","TCD","Chad",2017,20.4038461538462
+"CI","CIV","Côte d’Ivoire","TD","TCD","Chad",2017,52.75
+"CD","COD","Democratic Republic of Congo","TD","TCD","Chad",2017,15.1153846153846
+"DJ","DJI","Djibouti","TD","TCD","Chad",2017,2.05769230769231
+"EG","EGY","Egypt","TD","TCD","Chad",2017,230.134615384615
+"GQ","GNQ","Equatorial Guinea","TD","TCD","Chad",2017,1.34615384615385
+"ER","ERI","Eritrea","TD","TCD","Chad",2017,0.480769230769231
+"SZ","SWZ","Eswatini","TD","TCD","Chad",2017,0.0384615384615385
+"ET","ETH","Ethiopia","TD","TCD","Chad",2017,49.5769230769231
+"GA","GAB","Gabon","TD","TCD","Chad",2017,20.7692307692308
+"GM","GMB","Gambia","TD","TCD","Chad",2017,0.230769230769231
+"GH","GHA","Ghana","TD","TCD","Chad",2017,10.3076923076923
+"GN","GIN","Guinea","TD","TCD","Chad",2017,7.69230769230769
+"GW","GNB","Guinea-Bissau","TD","TCD","Chad",2017,0.480769230769231
+"KE","KEN","Kenya","TD","TCD","Chad",2017,47.4807692307692
+"LS","LSO","Lesotho","TD","TCD","Chad",2017,0.211538461538462
+"LR","LBR","Liberia","TD","TCD","Chad",2017,0.923076923076923
+"LY","LBY","Libya","TD","TCD","Chad",2017,0.0192307692307692
+"MG","MDG","Madagascar","TD","TCD","Chad",2017,2.73076923076923
+"MW","MWI","Malawi","TD","TCD","Chad",2017,0.865384615384615
+"ML","MLI","Mali","TD","TCD","Chad",2017,46.8076923076923
+"MR","MRT","Mauritania","TD","TCD","Chad",2017,4.90384615384615
+"MU","MUS","Mauritius","TD","TCD","Chad",2017,1.82692307692308
+"MA","MAR","Morocco","TD","TCD","Chad",2017,67.2692307692308
+"MZ","MOZ","Mozambique","TD","TCD","Chad",2017,0.961538461538462
+"NA","NAM","Namibia","TD","TCD","Chad",2017,0.25
+"NE","NER","Niger","TD","TCD","Chad",2017,36.5769230769231
+"NG","NGA","Nigeria","TD","TCD","Chad",2017,71.2115384615385
+"RW","RWA","Rwanda","TD","TCD","Chad",2017,10.5
+"ST","STP","São Tomé & Príncipe","TD","TCD","Chad",2017,0.461538461538462
+"SN","SEN","Senegal","TD","TCD","Chad",2017,61.8076923076923
+"SC","SYC","Seychelles","TD","TCD","Chad",2017,0.211538461538462
+"SL","SLE","Sierra Leone","TD","TCD","Chad",2017,0.5
+"ZA","ZAF","South Africa","TD","TCD","Chad",2017,30.8846153846154
+"SS","SSD","South Sudan","TD","TCD","Chad",2017,1.07692307692308
+"SD","SDN","Sudan","TD","TCD","Chad",2017,108.711538461538
+"TZ","TZA","Tanzania","TD","TCD","Chad",2017,13.8076923076923
+"TG","TGO","Togo","TD","TCD","Chad",2017,24.2692307692308
+"TN","TUN","Tunisia","TD","TCD","Chad",2017,39.5576923076923
+"UG","UGA","Uganda","TD","TCD","Chad",2017,9.94230769230769
+"ZM","ZMB","Zambia","TD","TCD","Chad",2017,1.34615384615385
+"ZW","ZWE","Zimbabwe","TD","TCD","Chad",2017,1.38461538461538
+"DZ","DZA","Algeria","KM","COM","Comoros",2017,0.153846153846154
+"AO","AGO","Angola","KM","COM","Comoros",2017,0.115384615384615
+"BJ","BEN","Benin","KM","COM","Comoros",2017,1.65384615384615
+"BW","BWA","Botswana","KM","COM","Comoros",2017,1.13461538461538
+"BF","BFA","Burkina Faso","KM","COM","Comoros",2017,1.15384615384615
+"BI","BDI","Burundi","KM","COM","Comoros",2017,0.769230769230769
+"CM","CMR","Cameroon","KM","COM","Comoros",2017,6.80769230769231
+"CF","CAF","Central African Republic","KM","COM","Comoros",2017,0.134615384615385
+"TD","TCD","Chad","KM","COM","Comoros",2017,0.769230769230769
+"KM","COM","Comoros","KM","COM","Comoros",2017,781.730769230769
+"CG","COG","Congo","KM","COM","Comoros",2017,1.98076923076923
+"CI","CIV","Côte d’Ivoire","KM","COM","Comoros",2017,4.46153846153846
+"CD","COD","Democratic Republic of Congo","KM","COM","Comoros",2017,1.75
+"DJ","DJI","Djibouti","KM","COM","Comoros",2017,99.1923076923077
+"EG","EGY","Egypt","KM","COM","Comoros",2017,32.4230769230769
+"GQ","GNQ","Equatorial Guinea","KM","COM","Comoros",2017,0.923076923076923
+"ER","ERI","Eritrea","KM","COM","Comoros",2017,0.0961538461538462
+"SZ","SWZ","Eswatini","KM","COM","Comoros",2017,0.0384615384615385
+"ET","ETH","Ethiopia","KM","COM","Comoros",2017,116.634615384615
+"GA","GAB","Gabon","KM","COM","Comoros",2017,0.923076923076923
+"GH","GHA","Ghana","KM","COM","Comoros",2017,2.96153846153846
+"GN","GIN","Guinea","KM","COM","Comoros",2017,1.26923076923077
+"GW","GNB","Guinea-Bissau","KM","COM","Comoros",2017,0.0192307692307692
+"KE","KEN","Kenya","KM","COM","Comoros",2017,221.192307692308
+"LS","LSO","Lesotho","KM","COM","Comoros",2017,0.153846153846154
+"MG","MDG","Madagascar","KM","COM","Comoros",2017,456.019230769231
+"MW","MWI","Malawi","KM","COM","Comoros",2017,0.615384615384615
+"ML","MLI","Mali","KM","COM","Comoros",2017,2.05769230769231
+"MR","MRT","Mauritania","KM","COM","Comoros",2017,0.0769230769230769
+"MU","MUS","Mauritius","KM","COM","Comoros",2017,71.5384615384615
+"MA","MAR","Morocco","KM","COM","Comoros",2017,5.21153846153846
+"MZ","MOZ","Mozambique","KM","COM","Comoros",2017,1.28846153846154
+"NA","NAM","Namibia","KM","COM","Comoros",2017,0.634615384615385
+"NE","NER","Niger","KM","COM","Comoros",2017,1.46153846153846
+"NG","NGA","Nigeria","KM","COM","Comoros",2017,0.442307692307692
+"RW","RWA","Rwanda","KM","COM","Comoros",2017,4.19230769230769
+"ST","STP","São Tomé & Príncipe","KM","COM","Comoros",2017,0.0384615384615385
+"SN","SEN","Senegal","KM","COM","Comoros",2017,9.38461538461539
+"SC","SYC","Seychelles","KM","COM","Comoros",2017,2.96153846153846
+"SL","SLE","Sierra Leone","KM","COM","Comoros",2017,0.0384615384615385
+"SO","SOM","Somalia","KM","COM","Comoros",2017,0.0192307692307692
+"ZA","ZAF","South Africa","KM","COM","Comoros",2017,19.8653846153846
+"SS","SSD","South Sudan","KM","COM","Comoros",2017,0.0576923076923077
+"SD","SDN","Sudan","KM","COM","Comoros",2017,23.9615384615385
+"TZ","TZA","Tanzania","KM","COM","Comoros",2017,434.846153846154
+"TG","TGO","Togo","KM","COM","Comoros",2017,0.961538461538462
+"TN","TUN","Tunisia","KM","COM","Comoros",2017,1.19230769230769
+"UG","UGA","Uganda","KM","COM","Comoros",2017,12.8076923076923
+"ZM","ZMB","Zambia","KM","COM","Comoros",2017,4.84615384615385
+"ZW","ZWE","Zimbabwe","KM","COM","Comoros",2017,1
+"DZ","DZA","Algeria","CG","COG","Congo",2017,21.6346153846154
+"AO","AGO","Angola","CG","COG","Congo",2017,104.461538461538
+"BJ","BEN","Benin","CG","COG","Congo",2017,563.769230769231
+"BW","BWA","Botswana","CG","COG","Congo",2017,4.48076923076923
+"BF","BFA","Burkina Faso","CG","COG","Congo",2017,58.6346153846154
+"BI","BDI","Burundi","CG","COG","Congo",2017,8.73076923076923
+"CM","CMR","Cameroon","CG","COG","Congo",2017,479.211538461538
+"CV","CPV","Cape Verde","CG","COG","Congo",2017,0.961538461538462
+"CF","CAF","Central African Republic","CG","COG","Congo",2017,73.4807692307692
+"TD","TCD","Chad","CG","COG","Congo",2017,24.1153846153846
+"KM","COM","Comoros","CG","COG","Congo",2017,0.865384615384615
+"CG","COG","Congo","CG","COG","Congo",2017,7009.42307692308
+"CI","CIV","Côte d’Ivoire","CG","COG","Congo",2017,232.038461538462
+"CD","COD","Democratic Republic of Congo","CG","COG","Congo",2017,75.5769230769231
+"DJ","DJI","Djibouti","CG","COG","Congo",2017,1.46153846153846
+"EG","EGY","Egypt","CG","COG","Congo",2017,18.9230769230769
+"GQ","GNQ","Equatorial Guinea","CG","COG","Congo",2017,58.3846153846154
+"ER","ERI","Eritrea","CG","COG","Congo",2017,0.519230769230769
+"SZ","SWZ","Eswatini","CG","COG","Congo",2017,1.09615384615385
+"ET","ETH","Ethiopia","CG","COG","Congo",2017,101.538461538462
+"GA","GAB","Gabon","CG","COG","Congo",2017,402.288461538462
+"GM","GMB","Gambia","CG","COG","Congo",2017,0.307692307692308
+"GH","GHA","Ghana","CG","COG","Congo",2017,43
+"GN","GIN","Guinea","CG","COG","Congo",2017,27.5192307692308
+"GW","GNB","Guinea-Bissau","CG","COG","Congo",2017,1.07692307692308
+"KE","KEN","Kenya","CG","COG","Congo",2017,44.5769230769231
+"LS","LSO","Lesotho","CG","COG","Congo",2017,0.5
+"LR","LBR","Liberia","CG","COG","Congo",2017,1.46153846153846
+"MG","MDG","Madagascar","CG","COG","Congo",2017,9.98076923076923
+"MW","MWI","Malawi","CG","COG","Congo",2017,1.55769230769231
+"ML","MLI","Mali","CG","COG","Congo",2017,237.365384615385
+"MR","MRT","Mauritania","CG","COG","Congo",2017,44.0192307692308
+"MU","MUS","Mauritius","CG","COG","Congo",2017,2.69230769230769
+"MA","MAR","Morocco","CG","COG","Congo",2017,252.634615384615
+"MZ","MOZ","Mozambique","CG","COG","Congo",2017,7.59615384615385
+"NA","NAM","Namibia","CG","COG","Congo",2017,7.13461538461539
+"NE","NER","Niger","CG","COG","Congo",2017,8.55769230769231
+"NG","NGA","Nigeria","CG","COG","Congo",2017,37.2692307692308
+"RW","RWA","Rwanda","CG","COG","Congo",2017,44.3461538461538
+"ST","STP","São Tomé & Príncipe","CG","COG","Congo",2017,2.48076923076923
+"SN","SEN","Senegal","CG","COG","Congo",2017,159.326923076923
+"SC","SYC","Seychelles","CG","COG","Congo",2017,1.75
+"SL","SLE","Sierra Leone","CG","COG","Congo",2017,1.86538461538462
+"SO","SOM","Somalia","CG","COG","Congo",2017,0.211538461538462
+"ZA","ZAF","South Africa","CG","COG","Congo",2017,278.788461538462
+"SS","SSD","South Sudan","CG","COG","Congo",2017,2.26923076923077
+"SD","SDN","Sudan","CG","COG","Congo",2017,17.5384615384615
+"TZ","TZA","Tanzania","CG","COG","Congo",2017,27.7884615384615
+"TG","TGO","Togo","CG","COG","Congo",2017,40.1730769230769
+"TN","TUN","Tunisia","CG","COG","Congo",2017,32.1538461538462
+"UG","UGA","Uganda","CG","COG","Congo",2017,16.7692307692308
+"ZM","ZMB","Zambia","CG","COG","Congo",2017,6.71153846153846
+"ZW","ZWE","Zimbabwe","CG","COG","Congo",2017,13.6730769230769
+"DZ","DZA","Algeria","CI","CIV","Côte d’Ivoire",2017,89.3846153846154
+"AO","AGO","Angola","CI","CIV","Côte d’Ivoire",2017,40.3269230769231
+"BJ","BEN","Benin","CI","CIV","Côte d’Ivoire",2017,619.192307692308
+"BW","BWA","Botswana","CI","CIV","Côte d’Ivoire",2017,5.61538461538461
+"BF","BFA","Burkina Faso","CI","CIV","Côte d’Ivoire",2017,569.326923076923
+"BI","BDI","Burundi","CI","CIV","Côte d’Ivoire",2017,13.1730769230769
+"CM","CMR","Cameroon","CI","CIV","Côte d’Ivoire",2017,473.769230769231
+"CV","CPV","Cape Verde","CI","CIV","Côte d’Ivoire",2017,10.6153846153846
+"CF","CAF","Central African Republic","CI","CIV","Côte d’Ivoire",2017,35.2692307692308
+"TD","TCD","Chad","CI","CIV","Côte d’Ivoire",2017,55.7115384615385
+"KM","COM","Comoros","CI","CIV","Côte d’Ivoire",2017,5.75
+"CG","COG","Congo","CI","CIV","Côte d’Ivoire",2017,191.230769230769
+"CI","CIV","Côte d’Ivoire","CI","CIV","Côte d’Ivoire",2017,1558.26923076923
+"CD","COD","Democratic Republic of Congo","CI","CIV","Côte d’Ivoire",2017,87.5769230769231
+"DJ","DJI","Djibouti","CI","CIV","Côte d’Ivoire",2017,5.92307692307692
+"EG","EGY","Egypt","CI","CIV","Côte d’Ivoire",2017,55.3653846153846
+"GQ","GNQ","Equatorial Guinea","CI","CIV","Côte d’Ivoire",2017,36.9615384615385
+"ER","ERI","Eritrea","CI","CIV","Côte d’Ivoire",2017,0.730769230769231
+"SZ","SWZ","Eswatini","CI","CIV","Côte d’Ivoire",2017,2.21153846153846
+"ET","ETH","Ethiopia","CI","CIV","Côte d’Ivoire",2017,65.5576923076923
+"GA","GAB","Gabon","CI","CIV","Côte d’Ivoire",2017,351.903846153846
+"GM","GMB","Gambia","CI","CIV","Côte d’Ivoire",2017,19.1730769230769
+"GH","GHA","Ghana","CI","CIV","Côte d’Ivoire",2017,986.653846153846
+"GN","GIN","Guinea","CI","CIV","Côte d’Ivoire",2017,442.211538461538
+"GW","GNB","Guinea-Bissau","CI","CIV","Côte d’Ivoire",2017,32.1730769230769
+"KE","KEN","Kenya","CI","CIV","Côte d’Ivoire",2017,110.442307692308
+"LS","LSO","Lesotho","CI","CIV","Côte d’Ivoire",2017,1.44230769230769
+"LR","LBR","Liberia","CI","CIV","Côte d’Ivoire",2017,90.8269230769231
+"LY","LBY","Libya","CI","CIV","Côte d’Ivoire",2017,52.4230769230769
+"MG","MDG","Madagascar","CI","CIV","Côte d’Ivoire",2017,21.6153846153846
+"MW","MWI","Malawi","CI","CIV","Côte d’Ivoire",2017,9.71153846153846
+"ML","MLI","Mali","CI","CIV","Côte d’Ivoire",2017,641.673076923077
+"MR","MRT","Mauritania","CI","CIV","Côte d’Ivoire",2017,91.8846153846154
+"MU","MUS","Mauritius","CI","CIV","Côte d’Ivoire",2017,25.5384615384615
+"MA","MAR","Morocco","CI","CIV","Côte d’Ivoire",2017,817.615384615385
+"MZ","MOZ","Mozambique","CI","CIV","Côte d’Ivoire",2017,16.2692307692308
+"NA","NAM","Namibia","CI","CIV","Côte d’Ivoire",2017,6.88461538461539
+"NE","NER","Niger","CI","CIV","Côte d’Ivoire",2017,134.384615384615
+"NG","NGA","Nigeria","CI","CIV","Côte d’Ivoire",2017,578.980769230769
+"RW","RWA","Rwanda","CI","CIV","Côte d’Ivoire",2017,38.3653846153846
+"ST","STP","São Tomé & Príncipe","CI","CIV","Côte d’Ivoire",2017,1.76923076923077
+"SN","SEN","Senegal","CI","CIV","Côte d’Ivoire",2017,921.5
+"SC","SYC","Seychelles","CI","CIV","Côte d’Ivoire",2017,42.5
+"SL","SLE","Sierra Leone","CI","CIV","Côte d’Ivoire",2017,51.0384615384615
+"SO","SOM","Somalia","CI","CIV","Côte d’Ivoire",2017,1.59615384615385
+"ZA","ZAF","South Africa","CI","CIV","Côte d’Ivoire",2017,306.634615384615
+"SS","SSD","South Sudan","CI","CIV","Côte d’Ivoire",2017,2.11538461538462
+"SD","SDN","Sudan","CI","CIV","Côte d’Ivoire",2017,10.8461538461538
+"TZ","TZA","Tanzania","CI","CIV","Côte d’Ivoire",2017,32.5961538461538
+"TG","TGO","Togo","CI","CIV","Côte d’Ivoire",2017,342.692307692308
+"TN","TUN","Tunisia","CI","CIV","Côte d’Ivoire",2017,306.288461538462
+"UG","UGA","Uganda","CI","CIV","Côte d’Ivoire",2017,29.7307692307692
+"ZM","ZMB","Zambia","CI","CIV","Côte d’Ivoire",2017,20.9038461538462
+"ZW","ZWE","Zimbabwe","CI","CIV","Côte d’Ivoire",2017,12.5
+"DZ","DZA","Algeria","CD","COD","Democratic Republic of Congo",2017,6.38461538461539
+"AO","AGO","Angola","CD","COD","Democratic Republic of Congo",2017,136.5
+"BJ","BEN","Benin","CD","COD","Democratic Republic of Congo",2017,51.3461538461538
+"BW","BWA","Botswana","CD","COD","Democratic Republic of Congo",2017,16.8653846153846
+"BF","BFA","Burkina Faso","CD","COD","Democratic Republic of Congo",2017,22.6923076923077
+"BI","BDI","Burundi","CD","COD","Democratic Republic of Congo",2017,29.3846153846154
+"CM","CMR","Cameroon","CD","COD","Democratic Republic of Congo",2017,132.634615384615
+"CV","CPV","Cape Verde","CD","COD","Democratic Republic of Congo",2017,0.442307692307692
+"CF","CAF","Central African Republic","CD","COD","Democratic Republic of Congo",2017,18.0384615384615
+"TD","TCD","Chad","CD","COD","Democratic Republic of Congo",2017,16.7884615384615
+"KM","COM","Comoros","CD","COD","Democratic Republic of Congo",2017,0.576923076923077
+"CG","COG","Congo","CD","COD","Democratic Republic of Congo",2017,49.9423076923077
+"CI","CIV","Côte d’Ivoire","CD","COD","Democratic Republic of Congo",2017,105.326923076923
+"CD","COD","Democratic Republic of Congo","CD","COD","Democratic Republic of Congo",2017,8525.51923076923
+"ZR","COD","Democratic Republic of Congo","CD","COD","Democratic Republic of Congo",2017,6.51923076923077
+"DJ","DJI","Djibouti","CD","COD","Democratic Republic of Congo",2017,2.26923076923077
+"EG","EGY","Egypt","CD","COD","Democratic Republic of Congo",2017,35.8461538461538
+"GQ","GNQ","Equatorial Guinea","CD","COD","Democratic Republic of Congo",2017,2.80769230769231
+"ER","ERI","Eritrea","CD","COD","Democratic Republic of Congo",2017,0.288461538461538
+"SZ","SWZ","Eswatini","CD","COD","Democratic Republic of Congo",2017,2.63461538461538
+"ET","ETH","Ethiopia","CD","COD","Democratic Republic of Congo",2017,124.576923076923
+"GA","GAB","Gabon","CD","COD","Democratic Republic of Congo",2017,105.134615384615
+"GM","GMB","Gambia","CD","COD","Democratic Republic of Congo",2017,1.21153846153846
+"GH","GHA","Ghana","CD","COD","Democratic Republic of Congo",2017,30.3076923076923
+"GN","GIN","Guinea","CD","COD","Democratic Republic of Congo",2017,17.7307692307692
+"GW","GNB","Guinea-Bissau","CD","COD","Democratic Republic of Congo",2017,1.01923076923077
+"KE","KEN","Kenya","CD","COD","Democratic Republic of Congo",2017,316.346153846154
+"LS","LSO","Lesotho","CD","COD","Democratic Republic of Congo",2017,3.17307692307692
+"LR","LBR","Liberia","CD","COD","Democratic Republic of Congo",2017,5.69230769230769
+"MG","MDG","Madagascar","CD","COD","Democratic Republic of Congo",2017,15.3461538461538
+"MW","MWI","Malawi","CD","COD","Democratic Republic of Congo",2017,9.84615384615385
+"ML","MLI","Mali","CD","COD","Democratic Republic of Congo",2017,26.1346153846154
+"MR","MRT","Mauritania","CD","COD","Democratic Republic of Congo",2017,6.21153846153846
+"MU","MUS","Mauritius","CD","COD","Democratic Republic of Congo",2017,16.6538461538462
+"MA","MAR","Morocco","CD","COD","Democratic Republic of Congo",2017,109.673076923077
+"MZ","MOZ","Mozambique","CD","COD","Democratic Republic of Congo",2017,19.6153846153846
+"NA","NAM","Namibia","CD","COD","Democratic Republic of Congo",2017,16.1730769230769
+"NE","NER","Niger","CD","COD","Democratic Republic of Congo",2017,10.6346153846154
+"NG","NGA","Nigeria","CD","COD","Democratic Republic of Congo",2017,55.4615384615385
+"RW","RWA","Rwanda","CD","COD","Democratic Republic of Congo",2017,62.0192307692308
+"ST","STP","São Tomé & Príncipe","CD","COD","Democratic Republic of Congo",2017,0.153846153846154
+"SN","SEN","Senegal","CD","COD","Democratic Republic of Congo",2017,62.2884615384615
+"SC","SYC","Seychelles","CD","COD","Democratic Republic of Congo",2017,1.53846153846154
+"SL","SLE","Sierra Leone","CD","COD","Democratic Republic of Congo",2017,3.19230769230769
+"SO","SOM","Somalia","CD","COD","Democratic Republic of Congo",2017,0.711538461538462
+"ZA","ZAF","South Africa","CD","COD","Democratic Republic of Congo",2017,1087.78846153846
+"SS","SSD","South Sudan","CD","COD","Democratic Republic of Congo",2017,2.55769230769231
+"SD","SDN","Sudan","CD","COD","Democratic Republic of Congo",2017,37.9423076923077
+"TZ","TZA","Tanzania","CD","COD","Democratic Republic of Congo",2017,109.173076923077
+"TG","TGO","Togo","CD","COD","Democratic Republic of Congo",2017,22.4038461538462
+"TN","TUN","Tunisia","CD","COD","Democratic Republic of Congo",2017,43.5769230769231
+"UG","UGA","Uganda","CD","COD","Democratic Republic of Congo",2017,113.903846153846
+"ZM","ZMB","Zambia","CD","COD","Democratic Republic of Congo",2017,77.0576923076923
+"ZW","ZWE","Zimbabwe","CD","COD","Democratic Republic of Congo",2017,24.8461538461538
+"CD","COD","Democratic Republic of Congo","ZR","COD","Democratic Republic of Congo",2017,6.51923076923077
+"DZ","DZA","Algeria","DJ","DJI","Djibouti",2017,1.94230769230769
+"AO","AGO","Angola","DJ","DJI","Djibouti",2017,1.09615384615385
+"BJ","BEN","Benin","DJ","DJI","Djibouti",2017,1.11538461538462
+"BW","BWA","Botswana","DJ","DJI","Djibouti",2017,1.36538461538462
+"BF","BFA","Burkina Faso","DJ","DJI","Djibouti",2017,1.5
+"BI","BDI","Burundi","DJ","DJI","Djibouti",2017,5.25
+"CM","CMR","Cameroon","DJ","DJI","Djibouti",2017,4.42307692307692
+"CV","CPV","Cape Verde","DJ","DJI","Djibouti",2017,0.173076923076923
+"CF","CAF","Central African Republic","DJ","DJI","Djibouti",2017,0.403846153846154
+"TD","TCD","Chad","DJ","DJI","Djibouti",2017,2.73076923076923
+"KM","COM","Comoros","DJ","DJI","Djibouti",2017,29.9615384615385
+"CG","COG","Congo","DJ","DJI","Djibouti",2017,0.480769230769231
+"CI","CIV","Côte d’Ivoire","DJ","DJI","Djibouti",2017,6.05769230769231
+"CD","COD","Democratic Republic of Congo","DJ","DJI","Djibouti",2017,3.07692307692308
+"EG","EGY","Egypt","DJ","DJI","Djibouti",2017,90.5
+"GQ","GNQ","Equatorial Guinea","DJ","DJI","Djibouti",2017,0.0769230769230769
+"ER","ERI","Eritrea","DJ","DJI","Djibouti",2017,0.788461538461538
+"SZ","SWZ","Eswatini","DJ","DJI","Djibouti",2017,0.134615384615385
+"ET","ETH","Ethiopia","DJ","DJI","Djibouti",2017,1094.63461538462
+"GA","GAB","Gabon","DJ","DJI","Djibouti",2017,1.53846153846154
+"GM","GMB","Gambia","DJ","DJI","Djibouti",2017,0.0384615384615385
+"GH","GHA","Ghana","DJ","DJI","Djibouti",2017,1.76923076923077
+"GN","GIN","Guinea","DJ","DJI","Djibouti",2017,0.576923076923077
+"KE","KEN","Kenya","DJ","DJI","Djibouti",2017,180.903846153846
+"LS","LSO","Lesotho","DJ","DJI","Djibouti",2017,0.0384615384615385
+"LR","LBR","Liberia","DJ","DJI","Djibouti",2017,0.0384615384615385
+"MG","MDG","Madagascar","DJ","DJI","Djibouti",2017,2.94230769230769
+"MW","MWI","Malawi","DJ","DJI","Djibouti",2017,0.961538461538462
+"ML","MLI","Mali","DJ","DJI","Djibouti",2017,2.01923076923077
+"MR","MRT","Mauritania","DJ","DJI","Djibouti",2017,1.21153846153846
+"MU","MUS","Mauritius","DJ","DJI","Djibouti",2017,1.94230769230769
+"MA","MAR","Morocco","DJ","DJI","Djibouti",2017,19.1153846153846
+"MZ","MOZ","Mozambique","DJ","DJI","Djibouti",2017,1.13461538461538
+"NA","NAM","Namibia","DJ","DJI","Djibouti",2017,0.0576923076923077
+"NE","NER","Niger","DJ","DJI","Djibouti",2017,1.46153846153846
+"NG","NGA","Nigeria","DJ","DJI","Djibouti",2017,2.92307692307692
+"RW","RWA","Rwanda","DJ","DJI","Djibouti",2017,16.5576923076923
+"ST","STP","São Tomé & Príncipe","DJ","DJI","Djibouti",2017,0.0384615384615385
+"SN","SEN","Senegal","DJ","DJI","Djibouti",2017,10.6153846153846
+"SC","SYC","Seychelles","DJ","DJI","Djibouti",2017,2.5
+"SL","SLE","Sierra Leone","DJ","DJI","Djibouti",2017,0.0769230769230769
+"SO","SOM","Somalia","DJ","DJI","Djibouti",2017,631
+"ZA","ZAF","South Africa","DJ","DJI","Djibouti",2017,31.0192307692308
+"SS","SSD","South Sudan","DJ","DJI","Djibouti",2017,10.0192307692308
+"SD","SDN","Sudan","DJ","DJI","Djibouti",2017,112.192307692308
+"TZ","TZA","Tanzania","DJ","DJI","Djibouti",2017,53.1538461538462
+"TG","TGO","Togo","DJ","DJI","Djibouti",2017,1.80769230769231
+"TN","TUN","Tunisia","DJ","DJI","Djibouti",2017,14.5769230769231
+"UG","UGA","Uganda","DJ","DJI","Djibouti",2017,51.7307692307692
+"ZM","ZMB","Zambia","DJ","DJI","Djibouti",2017,12.9807692307692
+"ZW","ZWE","Zimbabwe","DJ","DJI","Djibouti",2017,8.71153846153846
+"DZ","DZA","Algeria","EG","EGY","Egypt",2017,1079.07692307692
+"AO","AGO","Angola","EG","EGY","Egypt",2017,43.8461538461538
+"BJ","BEN","Benin","EG","EGY","Egypt",2017,11.4615384615385
+"BW","BWA","Botswana","EG","EGY","Egypt",2017,11.25
+"BF","BFA","Burkina Faso","EG","EGY","Egypt",2017,21.5961538461538
+"BI","BDI","Burundi","EG","EGY","Egypt",2017,24.9230769230769
+"CM","CMR","Cameroon","EG","EGY","Egypt",2017,53.4807692307692
+"CV","CPV","Cape Verde","EG","EGY","Egypt",2017,2.30769230769231
+"CF","CAF","Central African Republic","EG","EGY","Egypt",2017,7.36538461538461
+"TD","TCD","Chad","EG","EGY","Egypt",2017,229.461538461538
+"KM","COM","Comoros","EG","EGY","Egypt",2017,27.4807692307692
+"CG","COG","Congo","EG","EGY","Egypt",2017,17.3461538461538
+"CI","CIV","Côte d’Ivoire","EG","EGY","Egypt",2017,81.1923076923077
+"CD","COD","Democratic Republic of Congo","EG","EGY","Egypt",2017,30.7115384615385
+"DJ","DJI","Djibouti","EG","EGY","Egypt",2017,51.4423076923077
+"EG","EGY","Egypt","EG","EGY","Egypt",2017,26347.75
+"GQ","GNQ","Equatorial Guinea","EG","EGY","Egypt",2017,20.8846153846154
+"ER","ERI","Eritrea","EG","EGY","Egypt",2017,60.1153846153846
+"SZ","SWZ","Eswatini","EG","EGY","Egypt",2017,1.34615384615385
+"ET","ETH","Ethiopia","EG","EGY","Egypt",2017,229.173076923077
+"GA","GAB","Gabon","EG","EGY","Egypt",2017,20.2884615384615
+"GM","GMB","Gambia","EG","EGY","Egypt",2017,4.90384615384615
+"GH","GHA","Ghana","EG","EGY","Egypt",2017,152.365384615385
+"GN","GIN","Guinea","EG","EGY","Egypt",2017,32.0769230769231
+"GW","GNB","Guinea-Bissau","EG","EGY","Egypt",2017,0.730769230769231
+"KE","KEN","Kenya","EG","EGY","Egypt",2017,345.980769230769
+"LS","LSO","Lesotho","EG","EGY","Egypt",2017,0.942307692307692
+"LR","LBR","Liberia","EG","EGY","Egypt",2017,8
+"LY","LBY","Libya","EG","EGY","Egypt",2017,2390.05769230769
+"MG","MDG","Madagascar","EG","EGY","Egypt",2017,14.9038461538462
+"MW","MWI","Malawi","EG","EGY","Egypt",2017,11.7692307692308
+"ML","MLI","Mali","EG","EGY","Egypt",2017,21.3076923076923
+"MR","MRT","Mauritania","EG","EGY","Egypt",2017,32.5384615384615
+"MU","MUS","Mauritius","EG","EGY","Egypt",2017,17.1153846153846
+"MA","MAR","Morocco","EG","EGY","Egypt",2017,881.865384615385
+"MZ","MOZ","Mozambique","EG","EGY","Egypt",2017,20.5576923076923
+"NA","NAM","Namibia","EG","EGY","Egypt",2017,26.1346153846154
+"NE","NER","Niger","EG","EGY","Egypt",2017,17.4807692307692
+"NG","NGA","Nigeria","EG","EGY","Egypt",2017,341.076923076923
+"RW","RWA","Rwanda","EG","EGY","Egypt",2017,37.9807692307692
+"ST","STP","São Tomé & Príncipe","EG","EGY","Egypt",2017,0.115384615384615
+"SN","SEN","Senegal","EG","EGY","Egypt",2017,60.2692307692308
+"SC","SYC","Seychelles","EG","EGY","Egypt",2017,21.0576923076923
+"SL","SLE","Sierra Leone","EG","EGY","Egypt",2017,9.63461538461539
+"SO","SOM","Somalia","EG","EGY","Egypt",2017,28.0384615384615
+"ZA","ZAF","South Africa","EG","EGY","Egypt",2017,469.596153846154
+"SS","SSD","South Sudan","EG","EGY","Egypt",2017,179.596153846154
+"SD","SDN","Sudan","EG","EGY","Egypt",2017,4036.05769230769
+"TZ","TZA","Tanzania","EG","EGY","Egypt",2017,186.173076923077
+"TG","TGO","Togo","EG","EGY","Egypt",2017,10.8461538461538
+"TN","TUN","Tunisia","EG","EGY","Egypt",2017,792.307692307692
+"UG","UGA","Uganda","EG","EGY","Egypt",2017,103.634615384615
+"ZM","ZMB","Zambia","EG","EGY","Egypt",2017,50.9807692307692
+"ZW","ZWE","Zimbabwe","EG","EGY","Egypt",2017,34.8846153846154
+"DZ","DZA","Algeria","GQ","GNQ","Equatorial Guinea",2017,2.76923076923077
+"AO","AGO","Angola","GQ","GNQ","Equatorial Guinea",2017,8.40384615384615
+"BJ","BEN","Benin","GQ","GNQ","Equatorial Guinea",2017,442.211538461538
+"BW","BWA","Botswana","GQ","GNQ","Equatorial Guinea",2017,0.634615384615385
+"BF","BFA","Burkina Faso","GQ","GNQ","Equatorial Guinea",2017,1.75
+"BI","BDI","Burundi","GQ","GNQ","Equatorial Guinea",2017,0.269230769230769
+"CM","CMR","Cameroon","GQ","GNQ","Equatorial Guinea",2017,331.75
+"CV","CPV","Cape Verde","GQ","GNQ","Equatorial Guinea",2017,0.519230769230769
+"CF","CAF","Central African Republic","GQ","GNQ","Equatorial Guinea",2017,0.307692307692308
+"TD","TCD","Chad","GQ","GNQ","Equatorial Guinea",2017,1.5
+"KM","COM","Comoros","GQ","GNQ","Equatorial Guinea",2017,1.05769230769231
+"CG","COG","Congo","GQ","GNQ","Equatorial Guinea",2017,63.6346153846154
+"CI","CIV","Côte d’Ivoire","GQ","GNQ","Equatorial Guinea",2017,3.42307692307692
+"CD","COD","Democratic Republic of Congo","GQ","GNQ","Equatorial Guinea",2017,2.23076923076923
+"DJ","DJI","Djibouti","GQ","GNQ","Equatorial Guinea",2017,0.5
+"EG","EGY","Egypt","GQ","GNQ","Equatorial Guinea",2017,16.0961538461538
+"GQ","GNQ","Equatorial Guinea","GQ","GNQ","Equatorial Guinea",2017,7790.94230769231
+"ER","ERI","Eritrea","GQ","GNQ","Equatorial Guinea",2017,0.0576923076923077
+"SZ","SWZ","Eswatini","GQ","GNQ","Equatorial Guinea",2017,1.15384615384615
+"ET","ETH","Ethiopia","GQ","GNQ","Equatorial Guinea",2017,20.3653846153846
+"GA","GAB","Gabon","GQ","GNQ","Equatorial Guinea",2017,67.6923076923077
+"GM","GMB","Gambia","GQ","GNQ","Equatorial Guinea",2017,0.134615384615385
+"GH","GHA","Ghana","GQ","GNQ","Equatorial Guinea",2017,55.1538461538462
+"GN","GIN","Guinea","GQ","GNQ","Equatorial Guinea",2017,1.63461538461538
+"GW","GNB","Guinea-Bissau","GQ","GNQ","Equatorial Guinea",2017,0.115384615384615
+"KE","KEN","Kenya","GQ","GNQ","Equatorial Guinea",2017,3.69230769230769
+"LS","LSO","Lesotho","GQ","GNQ","Equatorial Guinea",2017,0.0384615384615385
+"LR","LBR","Liberia","GQ","GNQ","Equatorial Guinea",2017,0.153846153846154
+"MG","MDG","Madagascar","GQ","GNQ","Equatorial Guinea",2017,2.11538461538462
+"MW","MWI","Malawi","GQ","GNQ","Equatorial Guinea",2017,0.0384615384615385
+"ML","MLI","Mali","GQ","GNQ","Equatorial Guinea",2017,0.538461538461538
+"MR","MRT","Mauritania","GQ","GNQ","Equatorial Guinea",2017,0.807692307692308
+"MU","MUS","Mauritius","GQ","GNQ","Equatorial Guinea",2017,0.692307692307692
+"MA","MAR","Morocco","GQ","GNQ","Equatorial Guinea",2017,77.1923076923077
+"MZ","MOZ","Mozambique","GQ","GNQ","Equatorial Guinea",2017,2.19230769230769
+"NA","NAM","Namibia","GQ","GNQ","Equatorial Guinea",2017,0.653846153846154
+"NE","NER","Niger","GQ","GNQ","Equatorial Guinea",2017,0.730769230769231
+"NG","NGA","Nigeria","GQ","GNQ","Equatorial Guinea",2017,137.384615384615
+"RW","RWA","Rwanda","GQ","GNQ","Equatorial Guinea",2017,0.807692307692308
+"ST","STP","São Tomé & Príncipe","GQ","GNQ","Equatorial Guinea",2017,37.6538461538462
+"SN","SEN","Senegal","GQ","GNQ","Equatorial Guinea",2017,32.6538461538462
+"SC","SYC","Seychelles","GQ","GNQ","Equatorial Guinea",2017,0.115384615384615
+"SL","SLE","Sierra Leone","GQ","GNQ","Equatorial Guinea",2017,0.25
+"ZA","ZAF","South Africa","GQ","GNQ","Equatorial Guinea",2017,23.7307692307692
+"SS","SSD","South Sudan","GQ","GNQ","Equatorial Guinea",2017,0.403846153846154
+"SD","SDN","Sudan","GQ","GNQ","Equatorial Guinea",2017,1.28846153846154
+"TZ","TZA","Tanzania","GQ","GNQ","Equatorial Guinea",2017,1.90384615384615
+"TG","TGO","Togo","GQ","GNQ","Equatorial Guinea",2017,114.730769230769
+"TN","TUN","Tunisia","GQ","GNQ","Equatorial Guinea",2017,1.5
+"UG","UGA","Uganda","GQ","GNQ","Equatorial Guinea",2017,3.59615384615385
+"ZM","ZMB","Zambia","GQ","GNQ","Equatorial Guinea",2017,1.78846153846154
+"ZW","ZWE","Zimbabwe","GQ","GNQ","Equatorial Guinea",2017,1.69230769230769
+"DZ","DZA","Algeria","ER","ERI","Eritrea",2017,1.17307692307692
+"AO","AGO","Angola","ER","ERI","Eritrea",2017,0.596153846153846
+"BW","BWA","Botswana","ER","ERI","Eritrea",2017,0.615384615384615
+"BF","BFA","Burkina Faso","ER","ERI","Eritrea",2017,0.134615384615385
+"BI","BDI","Burundi","ER","ERI","Eritrea",2017,0.0961538461538462
+"CM","CMR","Cameroon","ER","ERI","Eritrea",2017,0.461538461538462
+"CV","CPV","Cape Verde","ER","ERI","Eritrea",2017,0.0384615384615385
+"TD","TCD","Chad","ER","ERI","Eritrea",2017,0.0769230769230769
+"KM","COM","Comoros","ER","ERI","Eritrea",2017,0.0576923076923077
+"CG","COG","Congo","ER","ERI","Eritrea",2017,0.288461538461538
+"CI","CIV","Côte d’Ivoire","ER","ERI","Eritrea",2017,0.5
+"CD","COD","Democratic Republic of Congo","ER","ERI","Eritrea",2017,0.0961538461538462
+"DJ","DJI","Djibouti","ER","ERI","Eritrea",2017,0.865384615384615
+"EG","EGY","Egypt","ER","ERI","Eritrea",2017,88.4615384615385
+"SZ","SWZ","Eswatini","ER","ERI","Eritrea",2017,0.173076923076923
+"ET","ETH","Ethiopia","ER","ERI","Eritrea",2017,8.07692307692308
+"GM","GMB","Gambia","ER","ERI","Eritrea",2017,0.0576923076923077
+"GH","GHA","Ghana","ER","ERI","Eritrea",2017,2.51923076923077
+"GN","GIN","Guinea","ER","ERI","Eritrea",2017,0.173076923076923
+"KE","KEN","Kenya","ER","ERI","Eritrea",2017,40.4807692307692
+"LS","LSO","Lesotho","ER","ERI","Eritrea",2017,0.0769230769230769
+"LR","LBR","Liberia","ER","ERI","Eritrea",2017,0.0769230769230769
+"LY","LBY","Libya","ER","ERI","Eritrea",2017,0.173076923076923
+"MG","MDG","Madagascar","ER","ERI","Eritrea",2017,0.0961538461538462
+"MW","MWI","Malawi","ER","ERI","Eritrea",2017,0.423076923076923
+"ML","MLI","Mali","ER","ERI","Eritrea",2017,0.0192307692307692
+"MR","MRT","Mauritania","ER","ERI","Eritrea",2017,0.307692307692308
+"MU","MUS","Mauritius","ER","ERI","Eritrea",2017,0.423076923076923
+"MA","MAR","Morocco","ER","ERI","Eritrea",2017,0.769230769230769
+"MZ","MOZ","Mozambique","ER","ERI","Eritrea",2017,0.788461538461538
+"NA","NAM","Namibia","ER","ERI","Eritrea",2017,0.423076923076923
+"NE","NER","Niger","ER","ERI","Eritrea",2017,0.153846153846154
+"NG","NGA","Nigeria","ER","ERI","Eritrea",2017,1.15384615384615
+"RW","RWA","Rwanda","ER","ERI","Eritrea",2017,1.48076923076923
+"SN","SEN","Senegal","ER","ERI","Eritrea",2017,0.403846153846154
+"SC","SYC","Seychelles","ER","ERI","Eritrea",2017,0.326923076923077
+"SL","SLE","Sierra Leone","ER","ERI","Eritrea",2017,0.115384615384615
+"SO","SOM","Somalia","ER","ERI","Eritrea",2017,0.115384615384615
+"ZA","ZAF","South Africa","ER","ERI","Eritrea",2017,24.9230769230769
+"SS","SSD","South Sudan","ER","ERI","Eritrea",2017,15.1346153846154
+"SD","SDN","Sudan","ER","ERI","Eritrea",2017,268.269230769231
+"TZ","TZA","Tanzania","ER","ERI","Eritrea",2017,3.19230769230769
+"TG","TGO","Togo","ER","ERI","Eritrea",2017,0.115384615384615
+"TN","TUN","Tunisia","ER","ERI","Eritrea",2017,3.78846153846154
+"UG","UGA","Uganda","ER","ERI","Eritrea",2017,20.0961538461538
+"ZM","ZMB","Zambia","ER","ERI","Eritrea",2017,2.61538461538462
+"ZW","ZWE","Zimbabwe","ER","ERI","Eritrea",2017,4.36538461538461
+"DZ","DZA","Algeria","SZ","SWZ","Eswatini",2017,0.192307692307692
+"AO","AGO","Angola","SZ","SWZ","Eswatini",2017,3.17307692307692
+"BJ","BEN","Benin","SZ","SWZ","Eswatini",2017,0.153846153846154
+"BW","BWA","Botswana","SZ","SWZ","Eswatini",2017,19.3653846153846
+"BF","BFA","Burkina Faso","SZ","SWZ","Eswatini",2017,0.25
+"BI","BDI","Burundi","SZ","SWZ","Eswatini",2017,0.25
+"CM","CMR","Cameroon","SZ","SWZ","Eswatini",2017,1.38461538461538
+"CF","CAF","Central African Republic","SZ","SWZ","Eswatini",2017,0.0769230769230769
+"TD","TCD","Chad","SZ","SWZ","Eswatini",2017,0.115384615384615
+"KM","COM","Comoros","SZ","SWZ","Eswatini",2017,0.0576923076923077
+"CG","COG","Congo","SZ","SWZ","Eswatini",2017,0.884615384615385
+"CI","CIV","Côte d’Ivoire","SZ","SWZ","Eswatini",2017,1.55769230769231
+"CD","COD","Democratic Republic of Congo","SZ","SWZ","Eswatini",2017,3.17307692307692
+"DJ","DJI","Djibouti","SZ","SWZ","Eswatini",2017,0.153846153846154
+"EG","EGY","Egypt","SZ","SWZ","Eswatini",2017,1.44230769230769
+"GQ","GNQ","Equatorial Guinea","SZ","SWZ","Eswatini",2017,1.23076923076923
+"ER","ERI","Eritrea","SZ","SWZ","Eswatini",2017,0.0961538461538462
+"ET","ETH","Ethiopia","SZ","SWZ","Eswatini",2017,5.38461538461539
+"GA","GAB","Gabon","SZ","SWZ","Eswatini",2017,0.153846153846154
+"GM","GMB","Gambia","SZ","SWZ","Eswatini",2017,0.153846153846154
+"GH","GHA","Ghana","SZ","SWZ","Eswatini",2017,4.90384615384615
+"KE","KEN","Kenya","SZ","SWZ","Eswatini",2017,14.4038461538462
+"LS","LSO","Lesotho","SZ","SWZ","Eswatini",2017,7.67307692307692
+"LR","LBR","Liberia","SZ","SWZ","Eswatini",2017,0.115384615384615
+"MG","MDG","Madagascar","SZ","SWZ","Eswatini",2017,0.903846153846154
+"MW","MWI","Malawi","SZ","SWZ","Eswatini",2017,8.25
+"ML","MLI","Mali","SZ","SWZ","Eswatini",2017,0.153846153846154
+"MR","MRT","Mauritania","SZ","SWZ","Eswatini",2017,0.192307692307692
+"MU","MUS","Mauritius","SZ","SWZ","Eswatini",2017,2.71153846153846
+"MA","MAR","Morocco","SZ","SWZ","Eswatini",2017,0.903846153846154
+"MZ","MOZ","Mozambique","SZ","SWZ","Eswatini",2017,3.55769230769231
+"NA","NAM","Namibia","SZ","SWZ","Eswatini",2017,12.0769230769231
+"NE","NER","Niger","SZ","SWZ","Eswatini",2017,0.25
+"NG","NGA","Nigeria","SZ","SWZ","Eswatini",2017,6.96153846153846
+"RW","RWA","Rwanda","SZ","SWZ","Eswatini",2017,1.40384615384615
+"SN","SEN","Senegal","SZ","SWZ","Eswatini",2017,1
+"SC","SYC","Seychelles","SZ","SWZ","Eswatini",2017,1.26923076923077
+"SL","SLE","Sierra Leone","SZ","SWZ","Eswatini",2017,0.153846153846154
+"SO","SOM","Somalia","SZ","SWZ","Eswatini",2017,0.0769230769230769
+"ZA","ZAF","South Africa","SZ","SWZ","Eswatini",2017,263.173076923077
+"SS","SSD","South Sudan","SZ","SWZ","Eswatini",2017,0.519230769230769
+"SD","SDN","Sudan","SZ","SWZ","Eswatini",2017,0.519230769230769
+"TZ","TZA","Tanzania","SZ","SWZ","Eswatini",2017,11.2115384615385
+"TG","TGO","Togo","SZ","SWZ","Eswatini",2017,0.0769230769230769
+"TN","TUN","Tunisia","SZ","SWZ","Eswatini",2017,0.0769230769230769
+"UG","UGA","Uganda","SZ","SWZ","Eswatini",2017,10.4230769230769
+"ZM","ZMB","Zambia","SZ","SWZ","Eswatini",2017,15.25
+"ZW","ZWE","Zimbabwe","SZ","SWZ","Eswatini",2017,21.0192307692308
+"DZ","DZA","Algeria","ET","ETH","Ethiopia",2017,26.3461538461538
+"AO","AGO","Angola","ET","ETH","Ethiopia",2017,91.5961538461538
+"BJ","BEN","Benin","ET","ETH","Ethiopia",2017,46.7115384615385
+"BW","BWA","Botswana","ET","ETH","Ethiopia",2017,33.9038461538462
+"BF","BFA","Burkina Faso","ET","ETH","Ethiopia",2017,97.8653846153846
+"BI","BDI","Burundi","ET","ETH","Ethiopia",2017,55.7115384615385
+"CM","CMR","Cameroon","ET","ETH","Ethiopia",2017,99.1730769230769
+"CV","CPV","Cape Verde","ET","ETH","Ethiopia",2017,1.48076923076923
+"CF","CAF","Central African Republic","ET","ETH","Ethiopia",2017,6.82692307692308
+"TD","TCD","Chad","ET","ETH","Ethiopia",2017,77.3269230769231
+"KM","COM","Comoros","ET","ETH","Ethiopia",2017,38.7884615384615
+"CG","COG","Congo","ET","ETH","Ethiopia",2017,100.038461538462
+"CI","CIV","Côte d’Ivoire","ET","ETH","Ethiopia",2017,95.8846153846154
+"CD","COD","Democratic Republic of Congo","ET","ETH","Ethiopia",2017,144.480769230769
+"DJ","DJI","Djibouti","ET","ETH","Ethiopia",2017,1107.73076923077
+"EG","EGY","Egypt","ET","ETH","Ethiopia",2017,225.865384615385
+"GQ","GNQ","Equatorial Guinea","ET","ETH","Ethiopia",2017,24.0384615384615
+"ER","ERI","Eritrea","ET","ETH","Ethiopia",2017,8.13461538461539
+"SZ","SWZ","Eswatini","ET","ETH","Ethiopia",2017,6.15384615384615
+"ET","ETH","Ethiopia","ET","ETH","Ethiopia",2017,30476.4038461538
+"GA","GAB","Gabon","ET","ETH","Ethiopia",2017,28.8269230769231
+"GM","GMB","Gambia","ET","ETH","Ethiopia",2017,11.3653846153846
+"GH","GHA","Ghana","ET","ETH","Ethiopia",2017,118.192307692308
+"GN","GIN","Guinea","ET","ETH","Ethiopia",2017,25.2884615384615
+"GW","GNB","Guinea-Bissau","ET","ETH","Ethiopia",2017,1.59615384615385
+"KE","KEN","Kenya","ET","ETH","Ethiopia",2017,1778.80769230769
+"LS","LSO","Lesotho","ET","ETH","Ethiopia",2017,8.03846153846154
+"LR","LBR","Liberia","ET","ETH","Ethiopia",2017,9.55769230769231
+"LY","LBY","Libya","ET","ETH","Ethiopia",2017,5.32692307692308
+"MG","MDG","Madagascar","ET","ETH","Ethiopia",2017,46.0384615384615
+"MW","MWI","Malawi","ET","ETH","Ethiopia",2017,64.0576923076923
+"ML","MLI","Mali","ET","ETH","Ethiopia",2017,61.2307692307692
+"MR","MRT","Mauritania","ET","ETH","Ethiopia",2017,3.5
+"MU","MUS","Mauritius","ET","ETH","Ethiopia",2017,11.8461538461538
+"MA","MAR","Morocco","ET","ETH","Ethiopia",2017,45.8461538461538
+"MZ","MOZ","Mozambique","ET","ETH","Ethiopia",2017,95.4807692307692
+"NA","NAM","Namibia","ET","ETH","Ethiopia",2017,62.0576923076923
+"NE","NER","Niger","ET","ETH","Ethiopia",2017,55.6538461538462
+"NG","NGA","Nigeria","ET","ETH","Ethiopia",2017,389.538461538462
+"RW","RWA","Rwanda","ET","ETH","Ethiopia",2017,213.307692307692
+"ST","STP","São Tomé & Príncipe","ET","ETH","Ethiopia",2017,0.673076923076923
+"SN","SEN","Senegal","ET","ETH","Ethiopia",2017,80.4038461538462
+"SC","SYC","Seychelles","ET","ETH","Ethiopia",2017,84.5384615384615
+"SL","SLE","Sierra Leone","ET","ETH","Ethiopia",2017,12.9038461538462
+"SO","SOM","Somalia","ET","ETH","Ethiopia",2017,217.423076923077
+"ZA","ZAF","South Africa","ET","ETH","Ethiopia",2017,581.192307692308
+"SS","SSD","South Sudan","ET","ETH","Ethiopia",2017,205.153846153846
+"SD","SDN","Sudan","ET","ETH","Ethiopia",2017,527.5
+"TZ","TZA","Tanzania","ET","ETH","Ethiopia",2017,361.826923076923
+"TG","TGO","Togo","ET","ETH","Ethiopia",2017,65.4038461538462
+"TN","TUN","Tunisia","ET","ETH","Ethiopia",2017,30.5769230769231
+"UG","UGA","Uganda","ET","ETH","Ethiopia",2017,508.442307692308
+"ZM","ZMB","Zambia","ET","ETH","Ethiopia",2017,161.634615384615
+"ZW","ZWE","Zimbabwe","ET","ETH","Ethiopia",2017,128.884615384615
+"DZ","DZA","Algeria","GA","GAB","Gabon",2017,16.2692307692308
+"AO","AGO","Angola","GA","GAB","Gabon",2017,13
+"BJ","BEN","Benin","GA","GAB","Gabon",2017,857.961538461538
+"BW","BWA","Botswana","GA","GAB","Gabon",2017,2.48076923076923
+"BF","BFA","Burkina Faso","GA","GAB","Gabon",2017,46.6730769230769
+"BI","BDI","Burundi","GA","GAB","Gabon",2017,8.86538461538461
+"CM","CMR","Cameroon","GA","GAB","Gabon",2017,711.307692307692
+"CV","CPV","Cape Verde","GA","GAB","Gabon",2017,0.730769230769231
+"CF","CAF","Central African Republic","GA","GAB","Gabon",2017,13.6538461538462
+"TD","TCD","Chad","GA","GAB","Gabon",2017,34.5384615384615
+"KM","COM","Comoros","GA","GAB","Gabon",2017,0.673076923076923
+"CG","COG","Congo","GA","GAB","Gabon",2017,403.480769230769
+"CI","CIV","Côte d’Ivoire","GA","GAB","Gabon",2017,380.057692307692
+"CD","COD","Democratic Republic of Congo","GA","GAB","Gabon",2017,105.5
+"DJ","DJI","Djibouti","GA","GAB","Gabon",2017,2.07692307692308
+"EG","EGY","Egypt","GA","GAB","Gabon",2017,20.8076923076923
+"GQ","GNQ","Equatorial Guinea","GA","GAB","Gabon",2017,96
+"ER","ERI","Eritrea","GA","GAB","Gabon",2017,0.269230769230769
+"SZ","SWZ","Eswatini","GA","GAB","Gabon",2017,0.153846153846154
+"ET","ETH","Ethiopia","GA","GAB","Gabon",2017,27.5192307692308
+"GA","GAB","Gabon","GA","GAB","Gabon",2017,3225.82692307692
+"GM","GMB","Gambia","GA","GAB","Gabon",2017,1.65384615384615
+"GH","GHA","Ghana","GA","GAB","Gabon",2017,54.8653846153846
+"GN","GIN","Guinea","GA","GAB","Gabon",2017,23.7307692307692
+"GW","GNB","Guinea-Bissau","GA","GAB","Gabon",2017,0.75
+"KE","KEN","Kenya","GA","GAB","Gabon",2017,20.7307692307692
+"LS","LSO","Lesotho","GA","GAB","Gabon",2017,0.0961538461538462
+"LR","LBR","Liberia","GA","GAB","Gabon",2017,1.51923076923077
+"LY","LBY","Libya","GA","GAB","Gabon",2017,0.0192307692307692
+"MG","MDG","Madagascar","GA","GAB","Gabon",2017,8.80769230769231
+"MW","MWI","Malawi","GA","GAB","Gabon",2017,0.730769230769231
+"ML","MLI","Mali","GA","GAB","Gabon",2017,141.692307692308
+"MR","MRT","Mauritania","GA","GAB","Gabon",2017,12.0576923076923
+"MU","MUS","Mauritius","GA","GAB","Gabon",2017,7.42307692307692
+"MA","MAR","Morocco","GA","GAB","Gabon",2017,230.615384615385
+"MZ","MOZ","Mozambique","GA","GAB","Gabon",2017,4.82692307692308
+"NA","NAM","Namibia","GA","GAB","Gabon",2017,2.15384615384615
+"NE","NER","Niger","GA","GAB","Gabon",2017,8.25
+"NG","NGA","Nigeria","GA","GAB","Gabon",2017,285.134615384615
+"RW","RWA","Rwanda","GA","GAB","Gabon",2017,81.1346153846154
+"ST","STP","São Tomé & Príncipe","GA","GAB","Gabon",2017,208.461538461538
+"SN","SEN","Senegal","GA","GAB","Gabon",2017,217.403846153846
+"SC","SYC","Seychelles","GA","GAB","Gabon",2017,0.288461538461538
+"SL","SLE","Sierra Leone","GA","GAB","Gabon",2017,3.94230769230769
+"SO","SOM","Somalia","GA","GAB","Gabon",2017,0.192307692307692
+"ZA","ZAF","South Africa","GA","GAB","Gabon",2017,331.903846153846
+"SS","SSD","South Sudan","GA","GAB","Gabon",2017,0.634615384615385
+"SD","SDN","Sudan","GA","GAB","Gabon",2017,1.28846153846154
+"TZ","TZA","Tanzania","GA","GAB","Gabon",2017,13.7692307692308
+"TG","TGO","Togo","GA","GAB","Gabon",2017,85.3846153846154
+"TN","TUN","Tunisia","GA","GAB","Gabon",2017,42.8846153846154
+"UG","UGA","Uganda","GA","GAB","Gabon",2017,12.0576923076923
+"ZM","ZMB","Zambia","GA","GAB","Gabon",2017,5.98076923076923
+"ZW","ZWE","Zimbabwe","GA","GAB","Gabon",2017,3
+"DZ","DZA","Algeria","GM","GMB","Gambia",2017,1.25
+"AO","AGO","Angola","GM","GMB","Gambia",2017,5.38461538461539
+"BJ","BEN","Benin","GM","GMB","Gambia",2017,18.3076923076923
+"BW","BWA","Botswana","GM","GMB","Gambia",2017,0.788461538461538
+"BF","BFA","Burkina Faso","GM","GMB","Gambia",2017,11.4423076923077
+"BI","BDI","Burundi","GM","GMB","Gambia",2017,0.0769230769230769
+"CM","CMR","Cameroon","GM","GMB","Gambia",2017,2.63461538461538
+"CV","CPV","Cape Verde","GM","GMB","Gambia",2017,8.73076923076923
+"CF","CAF","Central African Republic","GM","GMB","Gambia",2017,0.25
+"TD","TCD","Chad","GM","GMB","Gambia",2017,0.5
+"CG","COG","Congo","GM","GMB","Gambia",2017,0.75
+"CI","CIV","Côte d’Ivoire","GM","GMB","Gambia",2017,24.4038461538462
+"CD","COD","Democratic Republic of Congo","GM","GMB","Gambia",2017,1.23076923076923
+"EG","EGY","Egypt","GM","GMB","Gambia",2017,3.53846153846154
+"GQ","GNQ","Equatorial Guinea","GM","GMB","Gambia",2017,0.461538461538462
+"ER","ERI","Eritrea","GM","GMB","Gambia",2017,0.0576923076923077
+"SZ","SWZ","Eswatini","GM","GMB","Gambia",2017,0.0576923076923077
+"ET","ETH","Ethiopia","GM","GMB","Gambia",2017,6.05769230769231
+"GA","GAB","Gabon","GM","GMB","Gambia",2017,0.615384615384615
+"GH","GHA","Ghana","GM","GMB","Gambia",2017,158.307692307692
+"GN","GIN","Guinea","GM","GMB","Gambia",2017,24.4807692307692
+"GW","GNB","Guinea-Bissau","GM","GMB","Gambia",2017,10.4423076923077
+"KE","KEN","Kenya","GM","GMB","Gambia",2017,9.51923076923077
+"LR","LBR","Liberia","GM","GMB","Gambia",2017,6.25
+"LY","LBY","Libya","GM","GMB","Gambia",2017,0.615384615384615
+"MG","MDG","Madagascar","GM","GMB","Gambia",2017,0.0192307692307692
+"MW","MWI","Malawi","GM","GMB","Gambia",2017,0.769230769230769
+"ML","MLI","Mali","GM","GMB","Gambia",2017,8.28846153846154
+"MR","MRT","Mauritania","GM","GMB","Gambia",2017,4.59615384615385
+"MU","MUS","Mauritius","GM","GMB","Gambia",2017,0.365384615384615
+"MA","MAR","Morocco","GM","GMB","Gambia",2017,51.1730769230769
+"MZ","MOZ","Mozambique","GM","GMB","Gambia",2017,1.42307692307692
+"NA","NAM","Namibia","GM","GMB","Gambia",2017,0.134615384615385
+"NE","NER","Niger","GM","GMB","Gambia",2017,10.6730769230769
+"NG","NGA","Nigeria","GM","GMB","Gambia",2017,147.903846153846
+"RW","RWA","Rwanda","GM","GMB","Gambia",2017,1.34615384615385
+"ST","STP","São Tomé & Príncipe","GM","GMB","Gambia",2017,0.0384615384615385
+"SN","SEN","Senegal","GM","GMB","Gambia",2017,784.230769230769
+"SC","SYC","Seychelles","GM","GMB","Gambia",2017,0.153846153846154
+"SL","SLE","Sierra Leone","GM","GMB","Gambia",2017,69.7884615384615
+"ZA","ZAF","South Africa","GM","GMB","Gambia",2017,15.2307692307692
+"SS","SSD","South Sudan","GM","GMB","Gambia",2017,0.826923076923077
+"SD","SDN","Sudan","GM","GMB","Gambia",2017,3.03846153846154
+"TZ","TZA","Tanzania","GM","GMB","Gambia",2017,2.23076923076923
+"TG","TGO","Togo","GM","GMB","Gambia",2017,6.61538461538461
+"TN","TUN","Tunisia","GM","GMB","Gambia",2017,9.5
+"UG","UGA","Uganda","GM","GMB","Gambia",2017,3.55769230769231
+"ZM","ZMB","Zambia","GM","GMB","Gambia",2017,1.17307692307692
+"ZW","ZWE","Zimbabwe","GM","GMB","Gambia",2017,0.673076923076923
+"DZ","DZA","Algeria","GH","GHA","Ghana",2017,18.3076923076923
+"AO","AGO","Angola","GH","GHA","Ghana",2017,46.4615384615385
+"BJ","BEN","Benin","GH","GHA","Ghana",2017,106.634615384615
+"BW","BWA","Botswana","GH","GHA","Ghana",2017,24.2692307692308
+"BF","BFA","Burkina Faso","GH","GHA","Ghana",2017,142.980769230769
+"BI","BDI","Burundi","GH","GHA","Ghana",2017,4.30769230769231
+"CM","CMR","Cameroon","GH","GHA","Ghana",2017,176.519230769231
+"CV","CPV","Cape Verde","GH","GHA","Ghana",2017,6.13461538461539
+"CF","CAF","Central African Republic","GH","GHA","Ghana",2017,2.90384615384615
+"TD","TCD","Chad","GH","GHA","Ghana",2017,17.5
+"KM","COM","Comoros","GH","GHA","Ghana",2017,1.26923076923077
+"CG","COG","Congo","GH","GHA","Ghana",2017,33.5576923076923
+"CI","CIV","Côte d’Ivoire","GH","GHA","Ghana",2017,971
+"CD","COD","Democratic Republic of Congo","GH","GHA","Ghana",2017,30.7115384615385
+"DJ","DJI","Djibouti","GH","GHA","Ghana",2017,1.59615384615385
+"EG","EGY","Egypt","GH","GHA","Ghana",2017,163.192307692308
+"GQ","GNQ","Equatorial Guinea","GH","GHA","Ghana",2017,51.2692307692308
+"ER","ERI","Eritrea","GH","GHA","Ghana",2017,3.21153846153846
+"SZ","SWZ","Eswatini","GH","GHA","Ghana",2017,6.42307692307692
+"ET","ETH","Ethiopia","GH","GHA","Ghana",2017,117.096153846154
+"GA","GAB","Gabon","GH","GHA","Ghana",2017,73.2307692307692
+"GM","GMB","Gambia","GH","GHA","Ghana",2017,379.615384615385
+"GH","GHA","Ghana","GH","GHA","Ghana",2017,10718.2692307692
+"GN","GIN","Guinea","GH","GHA","Ghana",2017,77.2692307692308
+"GW","GNB","Guinea-Bissau","GH","GHA","Ghana",2017,6.26923076923077
+"KE","KEN","Kenya","GH","GHA","Ghana",2017,272.653846153846
+"LS","LSO","Lesotho","GH","GHA","Ghana",2017,5.65384615384615
+"LR","LBR","Liberia","GH","GHA","Ghana",2017,234.346153846154
+"LY","LBY","Libya","GH","GHA","Ghana",2017,84.8461538461538
+"MG","MDG","Madagascar","GH","GHA","Ghana",2017,8.25
+"MW","MWI","Malawi","GH","GHA","Ghana",2017,23.3653846153846
+"ML","MLI","Mali","GH","GHA","Ghana",2017,119.326923076923
+"MR","MRT","Mauritania","GH","GHA","Ghana",2017,14.3461538461538
+"MU","MUS","Mauritius","GH","GHA","Ghana",2017,21.4807692307692
+"MA","MAR","Morocco","GH","GHA","Ghana",2017,121.730769230769
+"MZ","MOZ","Mozambique","GH","GHA","Ghana",2017,25.6346153846154
+"NA","NAM","Namibia","GH","GHA","Ghana",2017,24.5576923076923
+"NE","NER","Niger","GH","GHA","Ghana",2017,33.9807692307692
+"NG","NGA","Nigeria","GH","GHA","Ghana",2017,2934.01923076923
+"RW","RWA","Rwanda","GH","GHA","Ghana",2017,64.1346153846154
+"ST","STP","São Tomé & Príncipe","GH","GHA","Ghana",2017,77.7307692307692
+"SN","SEN","Senegal","GH","GHA","Ghana",2017,279.846153846154
+"SC","SYC","Seychelles","GH","GHA","Ghana",2017,9.07692307692308
+"SL","SLE","Sierra Leone","GH","GHA","Ghana",2017,257
+"SO","SOM","Somalia","GH","GHA","Ghana",2017,0.788461538461538
+"ZA","ZAF","South Africa","GH","GHA","Ghana",2017,969.673076923077
+"SS","SSD","South Sudan","GH","GHA","Ghana",2017,6.28846153846154
+"SD","SDN","Sudan","GH","GHA","Ghana",2017,42.7692307692308
+"TZ","TZA","Tanzania","GH","GHA","Ghana",2017,87.0769230769231
+"TG","TGO","Togo","GH","GHA","Ghana",2017,42.25
+"TN","TUN","Tunisia","GH","GHA","Ghana",2017,21.1923076923077
+"UG","UGA","Uganda","GH","GHA","Ghana",2017,83.5192307692308
+"ZM","ZMB","Zambia","GH","GHA","Ghana",2017,51.9423076923077
+"ZW","ZWE","Zimbabwe","GH","GHA","Ghana",2017,43.8653846153846
+"DZ","DZA","Algeria","GN","GIN","Guinea",2017,12.8076923076923
+"AO","AGO","Angola","GN","GIN","Guinea",2017,79.9038461538462
+"BJ","BEN","Benin","GN","GIN","Guinea",2017,50.1346153846154
+"BW","BWA","Botswana","GN","GIN","Guinea",2017,1.51923076923077
+"BF","BFA","Burkina Faso","GN","GIN","Guinea",2017,70.4807692307692
+"BI","BDI","Burundi","GN","GIN","Guinea",2017,2.19230769230769
+"CM","CMR","Cameroon","GN","GIN","Guinea",2017,44.5192307692308
+"CV","CPV","Cape Verde","GN","GIN","Guinea",2017,2.17307692307692
+"CF","CAF","Central African Republic","GN","GIN","Guinea",2017,4.07692307692308
+"TD","TCD","Chad","GN","GIN","Guinea",2017,8.55769230769231
+"KM","COM","Comoros","GN","GIN","Guinea",2017,1.17307692307692
+"CG","COG","Congo","GN","GIN","Guinea",2017,22.1153846153846
+"CI","CIV","Côte d’Ivoire","GN","GIN","Guinea",2017,432.788461538462
+"CD","COD","Democratic Republic of Congo","GN","GIN","Guinea",2017,20.2692307692308
+"DJ","DJI","Djibouti","GN","GIN","Guinea",2017,0.730769230769231
+"EG","EGY","Egypt","GN","GIN","Guinea",2017,28.5576923076923
+"GQ","GNQ","Equatorial Guinea","GN","GIN","Guinea",2017,2.57692307692308
+"SZ","SWZ","Eswatini","GN","GIN","Guinea",2017,0.0961538461538462
+"ET","ETH","Ethiopia","GN","GIN","Guinea",2017,24.2307692307692
+"GA","GAB","Gabon","GN","GIN","Guinea",2017,32.1346153846154
+"GM","GMB","Gambia","GN","GIN","Guinea",2017,24.1730769230769
+"GH","GHA","Ghana","GN","GIN","Guinea",2017,53.0961538461538
+"GW","GNB","Guinea-Bissau","GN","GIN","Guinea",2017,4.5
+"KE","KEN","Kenya","GN","GIN","Guinea",2017,16.1153846153846
+"LS","LSO","Lesotho","GN","GIN","Guinea",2017,0.0576923076923077
+"LR","LBR","Liberia","GN","GIN","Guinea",2017,8.30769230769231
+"LY","LBY","Libya","GN","GIN","Guinea",2017,0.903846153846154
+"MG","MDG","Madagascar","GN","GIN","Guinea",2017,6.07692307692308
+"MW","MWI","Malawi","GN","GIN","Guinea",2017,0.769230769230769
+"ML","MLI","Mali","GN","GIN","Guinea",2017,417.403846153846
+"MR","MRT","Mauritania","GN","GIN","Guinea",2017,23.9038461538462
+"MU","MUS","Mauritius","GN","GIN","Guinea",2017,1.38461538461538
+"MA","MAR","Morocco","GN","GIN","Guinea",2017,364.692307692308
+"MZ","MOZ","Mozambique","GN","GIN","Guinea",2017,18.1153846153846
+"NA","NAM","Namibia","GN","GIN","Guinea",2017,0.326923076923077
+"NE","NER","Niger","GN","GIN","Guinea",2017,19.3653846153846
+"NG","NGA","Nigeria","GN","GIN","Guinea",2017,55.7884615384615
+"RW","RWA","Rwanda","GN","GIN","Guinea",2017,11.3846153846154
+"ST","STP","São Tomé & Príncipe","GN","GIN","Guinea",2017,0.0961538461538462
+"SN","SEN","Senegal","GN","GIN","Guinea",2017,725.403846153846
+"SC","SYC","Seychelles","GN","GIN","Guinea",2017,0.25
+"SL","SLE","Sierra Leone","GN","GIN","Guinea",2017,23.1923076923077
+"SO","SOM","Somalia","GN","GIN","Guinea",2017,0
+"ZA","ZAF","South Africa","GN","GIN","Guinea",2017,41.4807692307692
+"SS","SSD","South Sudan","GN","GIN","Guinea",2017,0.153846153846154
+"SD","SDN","Sudan","GN","GIN","Guinea",2017,2.34615384615385
+"TZ","TZA","Tanzania","GN","GIN","Guinea",2017,4.25
+"TG","TGO","Togo","GN","GIN","Guinea",2017,33.8076923076923
+"TN","TUN","Tunisia","GN","GIN","Guinea",2017,45.1346153846154
+"UG","UGA","Uganda","GN","GIN","Guinea",2017,5.05769230769231
+"ZM","ZMB","Zambia","GN","GIN","Guinea",2017,2.86538461538462
+"ZW","ZWE","Zimbabwe","GN","GIN","Guinea",2017,2
+"DZ","DZA","Algeria","GW","GNB","Guinea-Bissau",2017,0.442307692307692
+"AO","AGO","Angola","GW","GNB","Guinea-Bissau",2017,7.03846153846154
+"BJ","BEN","Benin","GW","GNB","Guinea-Bissau",2017,4.44230769230769
+"BF","BFA","Burkina Faso","GW","GNB","Guinea-Bissau",2017,12.3846153846154
+"BI","BDI","Burundi","GW","GNB","Guinea-Bissau",2017,0.0384615384615385
+"CM","CMR","Cameroon","GW","GNB","Guinea-Bissau",2017,1.94230769230769
+"CV","CPV","Cape Verde","GW","GNB","Guinea-Bissau",2017,44.75
+"CF","CAF","Central African Republic","GW","GNB","Guinea-Bissau",2017,0.0769230769230769
+"TD","TCD","Chad","GW","GNB","Guinea-Bissau",2017,0.634615384615385
+"CG","COG","Congo","GW","GNB","Guinea-Bissau",2017,1.15384615384615
+"CI","CIV","Côte d’Ivoire","GW","GNB","Guinea-Bissau",2017,27.4038461538462
+"CD","COD","Democratic Republic of Congo","GW","GNB","Guinea-Bissau",2017,1.07692307692308
+"EG","EGY","Egypt","GW","GNB","Guinea-Bissau",2017,0.75
+"GQ","GNQ","Equatorial Guinea","GW","GNB","Guinea-Bissau",2017,0.153846153846154
+"ET","ETH","Ethiopia","GW","GNB","Guinea-Bissau",2017,1.61538461538462
+"GA","GAB","Gabon","GW","GNB","Guinea-Bissau",2017,0.576923076923077
+"GM","GMB","Gambia","GW","GNB","Guinea-Bissau",2017,1.75
+"GH","GHA","Ghana","GW","GNB","Guinea-Bissau",2017,5.96153846153846
+"GN","GIN","Guinea","GW","GNB","Guinea-Bissau",2017,6.53846153846154
+"KE","KEN","Kenya","GW","GNB","Guinea-Bissau",2017,2.65384615384615
+"LR","LBR","Liberia","GW","GNB","Guinea-Bissau",2017,1.34615384615385
+"LY","LBY","Libya","GW","GNB","Guinea-Bissau",2017,0.942307692307692
+"MG","MDG","Madagascar","GW","GNB","Guinea-Bissau",2017,0.134615384615385
+"MW","MWI","Malawi","GW","GNB","Guinea-Bissau",2017,0.115384615384615
+"ML","MLI","Mali","GW","GNB","Guinea-Bissau",2017,3.76923076923077
+"MR","MRT","Mauritania","GW","GNB","Guinea-Bissau",2017,4.13461538461539
+"MU","MUS","Mauritius","GW","GNB","Guinea-Bissau",2017,0.0769230769230769
+"MA","MAR","Morocco","GW","GNB","Guinea-Bissau",2017,40.8269230769231
+"MZ","MOZ","Mozambique","GW","GNB","Guinea-Bissau",2017,2.5
+"NE","NER","Niger","GW","GNB","Guinea-Bissau",2017,2.63461538461538
+"NG","NGA","Nigeria","GW","GNB","Guinea-Bissau",2017,7.53846153846154
+"RW","RWA","Rwanda","GW","GNB","Guinea-Bissau",2017,0.442307692307692
+"ST","STP","São Tomé & Príncipe","GW","GNB","Guinea-Bissau",2017,0.173076923076923
+"SN","SEN","Senegal","GW","GNB","Guinea-Bissau",2017,303.884615384615
+"SC","SYC","Seychelles","GW","GNB","Guinea-Bissau",2017,0.115384615384615
+"SL","SLE","Sierra Leone","GW","GNB","Guinea-Bissau",2017,1.17307692307692
+"ZA","ZAF","South Africa","GW","GNB","Guinea-Bissau",2017,1.40384615384615
+"SD","SDN","Sudan","GW","GNB","Guinea-Bissau",2017,0.326923076923077
+"TZ","TZA","Tanzania","GW","GNB","Guinea-Bissau",2017,0.653846153846154
+"TG","TGO","Togo","GW","GNB","Guinea-Bissau",2017,21.6346153846154
+"TN","TUN","Tunisia","GW","GNB","Guinea-Bissau",2017,7.01923076923077
+"UG","UGA","Uganda","GW","GNB","Guinea-Bissau",2017,0.692307692307692
+"ZM","ZMB","Zambia","GW","GNB","Guinea-Bissau",2017,0.0384615384615385
+"ZW","ZWE","Zimbabwe","GW","GNB","Guinea-Bissau",2017,0.115384615384615
+"DZ","DZA","Algeria","KE","KEN","Kenya",2017,13.1153846153846
+"AO","AGO","Angola","KE","KEN","Kenya",2017,92.5192307692308
+"BJ","BEN","Benin","KE","KEN","Kenya",2017,27.6153846153846
+"BW","BWA","Botswana","KE","KEN","Kenya",2017,100.846153846154
+"BF","BFA","Burkina Faso","KE","KEN","Kenya",2017,44.5192307692308
+"BI","BDI","Burundi","KE","KEN","Kenya",2017,283.788461538462
+"CM","CMR","Cameroon","KE","KEN","Kenya",2017,131.442307692308
+"CV","CPV","Cape Verde","KE","KEN","Kenya",2017,2.19230769230769
+"CF","CAF","Central African Republic","KE","KEN","Kenya",2017,64.9807692307692
+"TD","TCD","Chad","KE","KEN","Kenya",2017,40.8653846153846
+"KM","COM","Comoros","KE","KEN","Kenya",2017,205.884615384615
+"CG","COG","Congo","KE","KEN","Kenya",2017,39.8461538461538
+"CI","CIV","Côte d’Ivoire","KE","KEN","Kenya",2017,110.403846153846
+"CD","COD","Democratic Republic of Congo","KE","KEN","Kenya",2017,323.134615384615
+"DJ","DJI","Djibouti","KE","KEN","Kenya",2017,188.865384615385
+"EG","EGY","Egypt","KE","KEN","Kenya",2017,336.365384615385
+"GQ","GNQ","Equatorial Guinea","KE","KEN","Kenya",2017,5.48076923076923
+"ER","ERI","Eritrea","KE","KEN","Kenya",2017,38.2692307692308
+"SZ","SWZ","Eswatini","KE","KEN","Kenya",2017,14.5769230769231
+"ET","ETH","Ethiopia","KE","KEN","Kenya",2017,1864.51923076923
+"GA","GAB","Gabon","KE","KEN","Kenya",2017,21.3269230769231
+"GM","GMB","Gambia","KE","KEN","Kenya",2017,21.5576923076923
+"GH","GHA","Ghana","KE","KEN","Kenya",2017,259.961538461538
+"GN","GIN","Guinea","KE","KEN","Kenya",2017,13.5384615384615
+"GW","GNB","Guinea-Bissau","KE","KEN","Kenya",2017,2.17307692307692
+"KE","KEN","Kenya","KE","KEN","Kenya",2017,48528.5576923077
+"LS","LSO","Lesotho","KE","KEN","Kenya",2017,26.1346153846154
+"LR","LBR","Liberia","KE","KEN","Kenya",2017,39.0576923076923
+"LY","LBY","Libya","KE","KEN","Kenya",2017,0.653846153846154
+"MG","MDG","Madagascar","KE","KEN","Kenya",2017,228.134615384615
+"MW","MWI","Malawi","KE","KEN","Kenya",2017,533.384615384615
+"ML","MLI","Mali","KE","KEN","Kenya",2017,56.4230769230769
+"MR","MRT","Mauritania","KE","KEN","Kenya",2017,4.42307692307692
+"MU","MUS","Mauritius","KE","KEN","Kenya",2017,215.923076923077
+"MA","MAR","Morocco","KE","KEN","Kenya",2017,152.461538461538
+"MZ","MOZ","Mozambique","KE","KEN","Kenya",2017,245.153846153846
+"NA","NAM","Namibia","KE","KEN","Kenya",2017,62.9423076923077
+"NE","NER","Niger","KE","KEN","Kenya",2017,27.7307692307692
+"NG","NGA","Nigeria","KE","KEN","Kenya",2017,520.115384615385
+"RW","RWA","Rwanda","KE","KEN","Kenya",2017,1245.98076923077
+"ST","STP","São Tomé & Príncipe","KE","KEN","Kenya",2017,1.11538461538462
+"SN","SEN","Senegal","KE","KEN","Kenya",2017,111.461538461538
+"SC","SYC","Seychelles","KE","KEN","Kenya",2017,158.096153846154
+"SL","SLE","Sierra Leone","KE","KEN","Kenya",2017,60.9230769230769
+"SO","SOM","Somalia","KE","KEN","Kenya",2017,1141.32692307692
+"ZA","ZAF","South Africa","KE","KEN","Kenya",2017,2420
+"SS","SSD","South Sudan","KE","KEN","Kenya",2017,876.980769230769
+"SD","SDN","Sudan","KE","KEN","Kenya",2017,266.730769230769
+"TZ","TZA","Tanzania","KE","KEN","Kenya",2017,2800.19230769231
+"TG","TGO","Togo","KE","KEN","Kenya",2017,20.6346153846154
+"TN","TUN","Tunisia","KE","KEN","Kenya",2017,42.2692307692308
+"UG","UGA","Uganda","KE","KEN","Kenya",2017,2811.38461538462
+"ZM","ZMB","Zambia","KE","KEN","Kenya",2017,468.076923076923
+"ZW","ZWE","Zimbabwe","KE","KEN","Kenya",2017,337.730769230769
+"DZ","DZA","Algeria","LS","LSO","Lesotho",2017,0.538461538461538
+"AO","AGO","Angola","LS","LSO","Lesotho",2017,2.61538461538462
+"BJ","BEN","Benin","LS","LSO","Lesotho",2017,0.192307692307692
+"BW","BWA","Botswana","LS","LSO","Lesotho",2017,21.5769230769231
+"BF","BFA","Burkina Faso","LS","LSO","Lesotho",2017,0.25
+"BI","BDI","Burundi","LS","LSO","Lesotho",2017,0.153846153846154
+"CM","CMR","Cameroon","LS","LSO","Lesotho",2017,3.84615384615385
+"CV","CPV","Cape Verde","LS","LSO","Lesotho",2017,0.0576923076923077
+"TD","TCD","Chad","LS","LSO","Lesotho",2017,0.230769230769231
+"KM","COM","Comoros","LS","LSO","Lesotho",2017,0.115384615384615
+"CG","COG","Congo","LS","LSO","Lesotho",2017,0.538461538461538
+"CI","CIV","Côte d’Ivoire","LS","LSO","Lesotho",2017,1.44230769230769
+"CD","COD","Democratic Republic of Congo","LS","LSO","Lesotho",2017,2.59615384615385
+"DJ","DJI","Djibouti","LS","LSO","Lesotho",2017,0.326923076923077
+"EG","EGY","Egypt","LS","LSO","Lesotho",2017,1.34615384615385
+"GQ","GNQ","Equatorial Guinea","LS","LSO","Lesotho",2017,0.0192307692307692
+"ER","ERI","Eritrea","LS","LSO","Lesotho",2017,0.115384615384615
+"SZ","SWZ","Eswatini","LS","LSO","Lesotho",2017,7.71153846153846
+"ET","ETH","Ethiopia","LS","LSO","Lesotho",2017,7.73076923076923
+"GA","GAB","Gabon","LS","LSO","Lesotho",2017,0.134615384615385
+"GM","GMB","Gambia","LS","LSO","Lesotho",2017,0.0576923076923077
+"GH","GHA","Ghana","LS","LSO","Lesotho",2017,3
+"GN","GIN","Guinea","LS","LSO","Lesotho",2017,0.0384615384615385
+"KE","KEN","Kenya","LS","LSO","Lesotho",2017,22.1346153846154
+"LR","LBR","Liberia","LS","LSO","Lesotho",2017,0.0769230769230769
+"MG","MDG","Madagascar","LS","LSO","Lesotho",2017,0.673076923076923
+"MW","MWI","Malawi","LS","LSO","Lesotho",2017,13.0384615384615
+"ML","MLI","Mali","LS","LSO","Lesotho",2017,0.288461538461538
+"MR","MRT","Mauritania","LS","LSO","Lesotho",2017,0.115384615384615
+"MU","MUS","Mauritius","LS","LSO","Lesotho",2017,1.88461538461538
+"MA","MAR","Morocco","LS","LSO","Lesotho",2017,1.13461538461538
+"MZ","MOZ","Mozambique","LS","LSO","Lesotho",2017,7.55769230769231
+"NA","NAM","Namibia","LS","LSO","Lesotho",2017,20.0384615384615
+"NE","NER","Niger","LS","LSO","Lesotho",2017,0.230769230769231
+"NG","NGA","Nigeria","LS","LSO","Lesotho",2017,4.65384615384615
+"RW","RWA","Rwanda","LS","LSO","Lesotho",2017,2.21153846153846
+"SN","SEN","Senegal","LS","LSO","Lesotho",2017,1.30769230769231
+"SC","SYC","Seychelles","LS","LSO","Lesotho",2017,0.403846153846154
+"SL","SLE","Sierra Leone","LS","LSO","Lesotho",2017,0.288461538461538
+"ZA","ZAF","South Africa","LS","LSO","Lesotho",2017,367.942307692308
+"SS","SSD","South Sudan","LS","LSO","Lesotho",2017,0.5
+"SD","SDN","Sudan","LS","LSO","Lesotho",2017,0.865384615384615
+"TZ","TZA","Tanzania","LS","LSO","Lesotho",2017,11.0192307692308
+"TG","TGO","Togo","LS","LSO","Lesotho",2017,0.230769230769231
+"TN","TUN","Tunisia","LS","LSO","Lesotho",2017,0.75
+"UG","UGA","Uganda","LS","LSO","Lesotho",2017,6.59615384615385
+"ZM","ZMB","Zambia","LS","LSO","Lesotho",2017,13.1730769230769
+"ZW","ZWE","Zimbabwe","LS","LSO","Lesotho",2017,16.9038461538462
+"DZ","DZA","Algeria","LR","LBR","Liberia",2017,2.94230769230769
+"AO","AGO","Angola","LR","LBR","Liberia",2017,0.403846153846154
+"BJ","BEN","Benin","LR","LBR","Liberia",2017,7.90384615384615
+"BW","BWA","Botswana","LR","LBR","Liberia",2017,1.34615384615385
+"BF","BFA","Burkina Faso","LR","LBR","Liberia",2017,4.82692307692308
+"BI","BDI","Burundi","LR","LBR","Liberia",2017,0.384615384615385
+"CM","CMR","Cameroon","LR","LBR","Liberia",2017,9.15384615384615
+"CV","CPV","Cape Verde","LR","LBR","Liberia",2017,1.69230769230769
+"CF","CAF","Central African Republic","LR","LBR","Liberia",2017,0.730769230769231
+"TD","TCD","Chad","LR","LBR","Liberia",2017,0.884615384615385
+"CG","COG","Congo","LR","LBR","Liberia",2017,3.36538461538462
+"CI","CIV","Côte d’Ivoire","LR","LBR","Liberia",2017,90.1153846153846
+"CD","COD","Democratic Republic of Congo","LR","LBR","Liberia",2017,4.78846153846154
+"DJ","DJI","Djibouti","LR","LBR","Liberia",2017,0.192307692307692
+"EG","EGY","Egypt","LR","LBR","Liberia",2017,4.90384615384615
+"GQ","GNQ","Equatorial Guinea","LR","LBR","Liberia",2017,0.346153846153846
+"SZ","SWZ","Eswatini","LR","LBR","Liberia",2017,0.192307692307692
+"ET","ETH","Ethiopia","LR","LBR","Liberia",2017,10.2115384615385
+"GA","GAB","Gabon","LR","LBR","Liberia",2017,8.96153846153846
+"GM","GMB","Gambia","LR","LBR","Liberia",2017,6.17307692307692
+"GH","GHA","Ghana","LR","LBR","Liberia",2017,241.903846153846
+"GN","GIN","Guinea","LR","LBR","Liberia",2017,9.15384615384615
+"GW","GNB","Guinea-Bissau","LR","LBR","Liberia",2017,1.36538461538462
+"KE","KEN","Kenya","LR","LBR","Liberia",2017,28.7115384615385
+"LS","LSO","Lesotho","LR","LBR","Liberia",2017,0.115384615384615
+"LY","LBY","Libya","LR","LBR","Liberia",2017,0.0769230769230769
+"MG","MDG","Madagascar","LR","LBR","Liberia",2017,0.134615384615385
+"MW","MWI","Malawi","LR","LBR","Liberia",2017,1.55769230769231
+"ML","MLI","Mali","LR","LBR","Liberia",2017,7.17307692307692
+"MR","MRT","Mauritania","LR","LBR","Liberia",2017,1.28846153846154
+"MU","MUS","Mauritius","LR","LBR","Liberia",2017,0.538461538461538
+"MA","MAR","Morocco","LR","LBR","Liberia",2017,86.4423076923077
+"MZ","MOZ","Mozambique","LR","LBR","Liberia",2017,3.34615384615385
+"NA","NAM","Namibia","LR","LBR","Liberia",2017,0.807692307692308
+"NE","NER","Niger","LR","LBR","Liberia",2017,7.38461538461539
+"NG","NGA","Nigeria","LR","LBR","Liberia",2017,147.461538461538
+"RW","RWA","Rwanda","LR","LBR","Liberia",2017,4.03846153846154
+"ST","STP","São Tomé & Príncipe","LR","LBR","Liberia",2017,0.0192307692307692
+"SN","SEN","Senegal","LR","LBR","Liberia",2017,34.5384615384615
+"SC","SYC","Seychelles","LR","LBR","Liberia",2017,0.403846153846154
+"SL","SLE","Sierra Leone","LR","LBR","Liberia",2017,119.269230769231
+"SO","SOM","Somalia","LR","LBR","Liberia",2017,0.0384615384615385
+"ZA","ZAF","South Africa","LR","LBR","Liberia",2017,25.6153846153846
+"SS","SSD","South Sudan","LR","LBR","Liberia",2017,2.32692307692308
+"SD","SDN","Sudan","LR","LBR","Liberia",2017,1.53846153846154
+"TZ","TZA","Tanzania","LR","LBR","Liberia",2017,8.73076923076923
+"TG","TGO","Togo","LR","LBR","Liberia",2017,7.96153846153846
+"TN","TUN","Tunisia","LR","LBR","Liberia",2017,4.76923076923077
+"UG","UGA","Uganda","LR","LBR","Liberia",2017,12.9423076923077
+"ZM","ZMB","Zambia","LR","LBR","Liberia",2017,2.36538461538462
+"ZW","ZWE","Zimbabwe","LR","LBR","Liberia",2017,3.05769230769231
+"DZ","DZA","Algeria","LY","LBY","Libya",2017,45.6153846153846
+"BJ","BEN","Benin","LY","LBY","Libya",2017,14
+"BW","BWA","Botswana","LY","LBY","Libya",2017,0.0192307692307692
+"BF","BFA","Burkina Faso","LY","LBY","Libya",2017,18.2884615384615
+"BI","BDI","Burundi","LY","LBY","Libya",2017,0.0384615384615385
+"CM","CMR","Cameroon","LY","LBY","Libya",2017,22.4615384615385
+"TD","TCD","Chad","LY","LBY","Libya",2017,0.192307692307692
+"CG","COG","Congo","LY","LBY","Libya",2017,0.153846153846154
+"CI","CIV","Côte d’Ivoire","LY","LBY","Libya",2017,31.2115384615385
+"CD","COD","Democratic Republic of Congo","LY","LBY","Libya",2017,0.0192307692307692
+"EG","EGY","Egypt","LY","LBY","Libya",2017,2374.65384615385
+"ER","ERI","Eritrea","LY","LBY","Libya",2017,0.230769230769231
+"ET","ETH","Ethiopia","LY","LBY","Libya",2017,1.15384615384615
+"GA","GAB","Gabon","LY","LBY","Libya",2017,0.576923076923077
+"GM","GMB","Gambia","LY","LBY","Libya",2017,0.153846153846154
+"GH","GHA","Ghana","LY","LBY","Libya",2017,74.5384615384615
+"GN","GIN","Guinea","LY","LBY","Libya",2017,0.211538461538462
+"KE","KEN","Kenya","LY","LBY","Libya",2017,2.03846153846154
+"LY","LBY","Libya","LY","LBY","Libya",2017,3882.71153846154
+"ML","MLI","Mali","LY","LBY","Libya",2017,22.5
+"MR","MRT","Mauritania","LY","LBY","Libya",2017,4.46153846153846
+"MU","MUS","Mauritius","LY","LBY","Libya",2017,0.0576923076923077
+"MA","MAR","Morocco","LY","LBY","Libya",2017,45.1538461538462
+"NE","NER","Niger","LY","LBY","Libya",2017,113.884615384615
+"NG","NGA","Nigeria","LY","LBY","Libya",2017,35.6730769230769
+"RW","RWA","Rwanda","LY","LBY","Libya",2017,0.0961538461538462
+"SN","SEN","Senegal","LY","LBY","Libya",2017,16.0192307692308
+"SL","SLE","Sierra Leone","LY","LBY","Libya",2017,0.0384615384615385
+"SO","SOM","Somalia","LY","LBY","Libya",2017,0
+"ZA","ZAF","South Africa","LY","LBY","Libya",2017,10
+"SD","SDN","Sudan","LY","LBY","Libya",2017,334.307692307692
+"TZ","TZA","Tanzania","LY","LBY","Libya",2017,1.53846153846154
+"TG","TGO","Togo","LY","LBY","Libya",2017,52.8846153846154
+"TN","TUN","Tunisia","LY","LBY","Libya",2017,6953.15384615385
+"UG","UGA","Uganda","LY","LBY","Libya",2017,0.519230769230769
+"ZM","ZMB","Zambia","LY","LBY","Libya",2017,0.596153846153846
+"DZ","DZA","Algeria","MG","MDG","Madagascar",2017,5.59615384615385
+"AO","AGO","Angola","MG","MDG","Madagascar",2017,2.26923076923077
+"BJ","BEN","Benin","MG","MDG","Madagascar",2017,5.67307692307692
+"BW","BWA","Botswana","MG","MDG","Madagascar",2017,12.6153846153846
+"BF","BFA","Burkina Faso","MG","MDG","Madagascar",2017,5.13461538461539
+"BI","BDI","Burundi","MG","MDG","Madagascar",2017,7.30769230769231
+"CM","CMR","Cameroon","MG","MDG","Madagascar",2017,24.6538461538462
+"CV","CPV","Cape Verde","MG","MDG","Madagascar",2017,0.576923076923077
+"CF","CAF","Central African Republic","MG","MDG","Madagascar",2017,6.36538461538461
+"TD","TCD","Chad","MG","MDG","Madagascar",2017,3.59615384615385
+"KM","COM","Comoros","MG","MDG","Madagascar",2017,409.807692307692
+"CG","COG","Congo","MG","MDG","Madagascar",2017,8.21153846153846
+"CI","CIV","Côte d’Ivoire","MG","MDG","Madagascar",2017,23.4038461538462
+"CD","COD","Democratic Republic of Congo","MG","MDG","Madagascar",2017,27.8461538461538
+"DJ","DJI","Djibouti","MG","MDG","Madagascar",2017,6.01923076923077
+"EG","EGY","Egypt","MG","MDG","Madagascar",2017,22.4038461538462
+"GQ","GNQ","Equatorial Guinea","MG","MDG","Madagascar",2017,2.51923076923077
+"ER","ERI","Eritrea","MG","MDG","Madagascar",2017,0.0192307692307692
+"SZ","SWZ","Eswatini","MG","MDG","Madagascar",2017,0.884615384615385
+"ET","ETH","Ethiopia","MG","MDG","Madagascar",2017,85.6346153846154
+"GA","GAB","Gabon","MG","MDG","Madagascar",2017,13.4038461538462
+"GM","GMB","Gambia","MG","MDG","Madagascar",2017,0.25
+"GH","GHA","Ghana","MG","MDG","Madagascar",2017,7.36538461538461
+"GN","GIN","Guinea","MG","MDG","Madagascar",2017,5.03846153846154
+"GW","GNB","Guinea-Bissau","MG","MDG","Madagascar",2017,0.115384615384615
+"KE","KEN","Kenya","MG","MDG","Madagascar",2017,201.807692307692
+"LS","LSO","Lesotho","MG","MDG","Madagascar",2017,1.75
+"LR","LBR","Liberia","MG","MDG","Madagascar",2017,0.673076923076923
+"MG","MDG","Madagascar","MG","MDG","Madagascar",2017,4677.5
+"MW","MWI","Malawi","MG","MDG","Madagascar",2017,5.23076923076923
+"ML","MLI","Mali","MG","MDG","Madagascar",2017,7.63461538461539
+"MR","MRT","Mauritania","MG","MDG","Madagascar",2017,1.11538461538462
+"MU","MUS","Mauritius","MG","MDG","Madagascar",2017,946.615384615385
+"MA","MAR","Morocco","MG","MDG","Madagascar",2017,20.2884615384615
+"MZ","MOZ","Mozambique","MG","MDG","Madagascar",2017,20.1153846153846
+"NA","NAM","Namibia","MG","MDG","Madagascar",2017,6.05769230769231
+"NE","NER","Niger","MG","MDG","Madagascar",2017,3.11538461538462
+"NG","NGA","Nigeria","MG","MDG","Madagascar",2017,19.6538461538462
+"RW","RWA","Rwanda","MG","MDG","Madagascar",2017,15.8653846153846
+"ST","STP","São Tomé & Príncipe","MG","MDG","Madagascar",2017,0.673076923076923
+"SN","SEN","Senegal","MG","MDG","Madagascar",2017,33.5384615384615
+"SC","SYC","Seychelles","MG","MDG","Madagascar",2017,92.5576923076923
+"SL","SLE","Sierra Leone","MG","MDG","Madagascar",2017,0.615384615384615
+"SO","SOM","Somalia","MG","MDG","Madagascar",2017,0.442307692307692
+"ZA","ZAF","South Africa","MG","MDG","Madagascar",2017,294.884615384615
+"SS","SSD","South Sudan","MG","MDG","Madagascar",2017,0.769230769230769
+"SD","SDN","Sudan","MG","MDG","Madagascar",2017,3.30769230769231
+"TZ","TZA","Tanzania","MG","MDG","Madagascar",2017,42.2307692307692
+"TG","TGO","Togo","MG","MDG","Madagascar",2017,3.75
+"TN","TUN","Tunisia","MG","MDG","Madagascar",2017,11.6346153846154
+"UG","UGA","Uganda","MG","MDG","Madagascar",2017,28.3846153846154
+"ZM","ZMB","Zambia","MG","MDG","Madagascar",2017,12.3653846153846
+"ZW","ZWE","Zimbabwe","MG","MDG","Madagascar",2017,10.3653846153846
+"DZ","DZA","Algeria","MW","MWI","Malawi",2017,0.519230769230769
+"AO","AGO","Angola","MW","MWI","Malawi",2017,11.1923076923077
+"BJ","BEN","Benin","MW","MWI","Malawi",2017,2.73076923076923
+"BW","BWA","Botswana","MW","MWI","Malawi",2017,43.6730769230769
+"BF","BFA","Burkina Faso","MW","MWI","Malawi",2017,1.57692307692308
+"BI","BDI","Burundi","MW","MWI","Malawi",2017,3.01923076923077
+"CM","CMR","Cameroon","MW","MWI","Malawi",2017,7.80769230769231
+"CV","CPV","Cape Verde","MW","MWI","Malawi",2017,0.0769230769230769
+"CF","CAF","Central African Republic","MW","MWI","Malawi",2017,0.442307692307692
+"TD","TCD","Chad","MW","MWI","Malawi",2017,2.30769230769231
+"KM","COM","Comoros","MW","MWI","Malawi",2017,0.365384615384615
+"CG","COG","Congo","MW","MWI","Malawi",2017,1.92307692307692
+"CI","CIV","Côte d’Ivoire","MW","MWI","Malawi",2017,9.61538461538461
+"CD","COD","Democratic Republic of Congo","MW","MWI","Malawi",2017,11.2307692307692
+"DJ","DJI","Djibouti","MW","MWI","Malawi",2017,0.923076923076923
+"EG","EGY","Egypt","MW","MWI","Malawi",2017,8.78846153846154
+"GQ","GNQ","Equatorial Guinea","MW","MWI","Malawi",2017,0.0384615384615385
+"ER","ERI","Eritrea","MW","MWI","Malawi",2017,0.423076923076923
+"SZ","SWZ","Eswatini","MW","MWI","Malawi",2017,8.76923076923077
+"ET","ETH","Ethiopia","MW","MWI","Malawi",2017,47.4230769230769
+"GA","GAB","Gabon","MW","MWI","Malawi",2017,0.711538461538462
+"GM","GMB","Gambia","MW","MWI","Malawi",2017,1.61538461538462
+"GH","GHA","Ghana","MW","MWI","Malawi",2017,23.9807692307692
+"GN","GIN","Guinea","MW","MWI","Malawi",2017,0.423076923076923
+"GW","GNB","Guinea-Bissau","MW","MWI","Malawi",2017,0.134615384615385
+"KE","KEN","Kenya","MW","MWI","Malawi",2017,509.903846153846
+"LS","LSO","Lesotho","MW","MWI","Malawi",2017,14.8076923076923
+"LR","LBR","Liberia","MW","MWI","Malawi",2017,1.19230769230769
+"MG","MDG","Madagascar","MW","MWI","Malawi",2017,4.44230769230769
+"MW","MWI","Malawi","MW","MWI","Malawi",2017,1912.07692307692
+"ML","MLI","Mali","MW","MWI","Malawi",2017,5.42307692307692
+"MR","MRT","Mauritania","MW","MWI","Malawi",2017,0.307692307692308
+"MU","MUS","Mauritius","MW","MWI","Malawi",2017,6.07692307692308
+"MA","MAR","Morocco","MW","MWI","Malawi",2017,1.92307692307692
+"MZ","MOZ","Mozambique","MW","MWI","Malawi",2017,60.6730769230769
+"NA","NAM","Namibia","MW","MWI","Malawi",2017,23.5576923076923
+"NE","NER","Niger","MW","MWI","Malawi",2017,1.76923076923077
+"NG","NGA","Nigeria","MW","MWI","Malawi",2017,37
+"RW","RWA","Rwanda","MW","MWI","Malawi",2017,21.5769230769231
+"ST","STP","São Tomé & Príncipe","MW","MWI","Malawi",2017,0.192307692307692
+"SN","SEN","Senegal","MW","MWI","Malawi",2017,8.28846153846154
+"SC","SYC","Seychelles","MW","MWI","Malawi",2017,4.71153846153846
+"SL","SLE","Sierra Leone","MW","MWI","Malawi",2017,4.23076923076923
+"SO","SOM","Somalia","MW","MWI","Malawi",2017,1.21153846153846
+"ZA","ZAF","South Africa","MW","MWI","Malawi",2017,1786.5
+"SS","SSD","South Sudan","MW","MWI","Malawi",2017,3.13461538461538
+"SD","SDN","Sudan","MW","MWI","Malawi",2017,13.5769230769231
+"TZ","TZA","Tanzania","MW","MWI","Malawi",2017,316.769230769231
+"TG","TGO","Togo","MW","MWI","Malawi",2017,1.86538461538462
+"TN","TUN","Tunisia","MW","MWI","Malawi",2017,1.03846153846154
+"UG","UGA","Uganda","MW","MWI","Malawi",2017,60.7884615384615
+"ZM","ZMB","Zambia","MW","MWI","Malawi",2017,379.326923076923
+"ZW","ZWE","Zimbabwe","MW","MWI","Malawi",2017,194.134615384615
+"DZ","DZA","Algeria","ML","MLI","Mali",2017,232.730769230769
+"AO","AGO","Angola","ML","MLI","Mali",2017,24.9807692307692
+"BJ","BEN","Benin","ML","MLI","Mali",2017,130.442307692308
+"BW","BWA","Botswana","ML","MLI","Mali",2017,1.34615384615385
+"BF","BFA","Burkina Faso","ML","MLI","Mali",2017,188.173076923077
+"BI","BDI","Burundi","ML","MLI","Mali",2017,7.75
+"CM","CMR","Cameroon","ML","MLI","Mali",2017,81.1153846153846
+"CV","CPV","Cape Verde","ML","MLI","Mali",2017,2.53846153846154
+"CF","CAF","Central African Republic","ML","MLI","Mali",2017,20.5192307692308
+"TD","TCD","Chad","ML","MLI","Mali",2017,46.9230769230769
+"KM","COM","Comoros","ML","MLI","Mali",2017,1.5
+"CG","COG","Congo","ML","MLI","Mali",2017,299.769230769231
+"CI","CIV","Côte d’Ivoire","ML","MLI","Mali",2017,586.884615384615
+"CD","COD","Democratic Republic of Congo","ML","MLI","Mali",2017,29.25
+"DJ","DJI","Djibouti","ML","MLI","Mali",2017,1.98076923076923
+"EG","EGY","Egypt","ML","MLI","Mali",2017,26.4615384615385
+"GQ","GNQ","Equatorial Guinea","ML","MLI","Mali",2017,1.25
+"ER","ERI","Eritrea","ML","MLI","Mali",2017,0.0384615384615385
+"SZ","SWZ","Eswatini","ML","MLI","Mali",2017,0.153846153846154
+"ET","ETH","Ethiopia","ML","MLI","Mali",2017,38.4230769230769
+"GA","GAB","Gabon","ML","MLI","Mali",2017,172.634615384615
+"GM","GMB","Gambia","ML","MLI","Mali",2017,17.2884615384615
+"GH","GHA","Ghana","ML","MLI","Mali",2017,112.903846153846
+"GN","GIN","Guinea","ML","MLI","Mali",2017,396.923076923077
+"GW","GNB","Guinea-Bissau","ML","MLI","Mali",2017,5.67307692307692
+"KE","KEN","Kenya","ML","MLI","Mali",2017,44.7307692307692
+"LS","LSO","Lesotho","ML","MLI","Mali",2017,0.211538461538462
+"LR","LBR","Liberia","ML","MLI","Mali",2017,7.75
+"LY","LBY","Libya","ML","MLI","Mali",2017,26.4038461538462
+"MG","MDG","Madagascar","ML","MLI","Mali",2017,5.98076923076923
+"MW","MWI","Malawi","ML","MLI","Mali",2017,2.90384615384615
+"MR","MRT","Mauritania","ML","MLI","Mali",2017,146.480769230769
+"MU","MUS","Mauritius","ML","MLI","Mali",2017,1.51923076923077
+"MA","MAR","Morocco","ML","MLI","Mali",2017,410.480769230769
+"MZ","MOZ","Mozambique","ML","MLI","Mali",2017,13.2692307692308
+"NA","NAM","Namibia","ML","MLI","Mali",2017,7.23076923076923
+"NE","NER","Niger","ML","MLI","Mali",2017,166.153846153846
+"NG","NGA","Nigeria","ML","MLI","Mali",2017,44.7115384615385
+"RW","RWA","Rwanda","ML","MLI","Mali",2017,21.9423076923077
+"ST","STP","São Tomé & Príncipe","ML","MLI","Mali",2017,0.384615384615385
+"SN","SEN","Senegal","ML","MLI","Mali",2017,647.384615384615
+"SC","SYC","Seychelles","ML","MLI","Mali",2017,0.269230769230769
+"SL","SLE","Sierra Leone","ML","MLI","Mali",2017,5.23076923076923
+"SO","SOM","Somalia","ML","MLI","Mali",2017,0.692307692307692
+"ZA","ZAF","South Africa","ML","MLI","Mali",2017,98.1153846153846
+"SS","SSD","South Sudan","ML","MLI","Mali",2017,1.21153846153846
+"SD","SDN","Sudan","ML","MLI","Mali",2017,12.0192307692308
+"TZ","TZA","Tanzania","ML","MLI","Mali",2017,28.9230769230769
+"TG","TGO","Togo","ML","MLI","Mali",2017,67.1730769230769
+"TN","TUN","Tunisia","ML","MLI","Mali",2017,194.5
+"UG","UGA","Uganda","ML","MLI","Mali",2017,19.4615384615385
+"ZM","ZMB","Zambia","ML","MLI","Mali",2017,6.71153846153846
+"ZW","ZWE","Zimbabwe","ML","MLI","Mali",2017,6.53846153846154
+"DZ","DZA","Algeria","MR","MRT","Mauritania",2017,90.9230769230769
+"AO","AGO","Angola","MR","MRT","Mauritania",2017,35.5192307692308
+"BJ","BEN","Benin","MR","MRT","Mauritania",2017,11.6538461538462
+"BW","BWA","Botswana","MR","MRT","Mauritania",2017,0.461538461538462
+"BF","BFA","Burkina Faso","MR","MRT","Mauritania",2017,14.8461538461538
+"BI","BDI","Burundi","MR","MRT","Mauritania",2017,0.596153846153846
+"CM","CMR","Cameroon","MR","MRT","Mauritania",2017,6.96153846153846
+"CV","CPV","Cape Verde","MR","MRT","Mauritania",2017,1.61538461538462
+"CF","CAF","Central African Republic","MR","MRT","Mauritania",2017,7.15384615384615
+"TD","TCD","Chad","MR","MRT","Mauritania",2017,6.19230769230769
+"KM","COM","Comoros","MR","MRT","Mauritania",2017,0.192307692307692
+"CG","COG","Congo","MR","MRT","Mauritania",2017,25.6730769230769
+"CI","CIV","Côte d’Ivoire","MR","MRT","Mauritania",2017,67.7115384615385
+"CD","COD","Democratic Republic of Congo","MR","MRT","Mauritania",2017,6.30769230769231
+"DJ","DJI","Djibouti","MR","MRT","Mauritania",2017,1.38461538461538
+"EG","EGY","Egypt","MR","MRT","Mauritania",2017,35.5192307692308
+"GQ","GNQ","Equatorial Guinea","MR","MRT","Mauritania",2017,1.13461538461538
+"ER","ERI","Eritrea","MR","MRT","Mauritania",2017,0.269230769230769
+"SZ","SWZ","Eswatini","MR","MRT","Mauritania",2017,0.0192307692307692
+"ET","ETH","Ethiopia","MR","MRT","Mauritania",2017,3.73076923076923
+"GA","GAB","Gabon","MR","MRT","Mauritania",2017,10.6538461538462
+"GM","GMB","Gambia","MR","MRT","Mauritania",2017,2.82692307692308
+"GH","GHA","Ghana","MR","MRT","Mauritania",2017,18.4423076923077
+"GN","GIN","Guinea","MR","MRT","Mauritania",2017,25.0576923076923
+"GW","GNB","Guinea-Bissau","MR","MRT","Mauritania",2017,3.86538461538462
+"KE","KEN","Kenya","MR","MRT","Mauritania",2017,4.75
+"LS","LSO","Lesotho","MR","MRT","Mauritania",2017,0.0576923076923077
+"LR","LBR","Liberia","MR","MRT","Mauritania",2017,0.769230769230769
+"LY","LBY","Libya","MR","MRT","Mauritania",2017,6.32692307692308
+"MG","MDG","Madagascar","MR","MRT","Mauritania",2017,0.653846153846154
+"MW","MWI","Malawi","MR","MRT","Mauritania",2017,0.173076923076923
+"ML","MLI","Mali","MR","MRT","Mauritania",2017,123.653846153846
+"MR","MRT","Mauritania","MR","MRT","Mauritania",2017,729.307692307692
+"MU","MUS","Mauritius","MR","MRT","Mauritania",2017,0.711538461538462
+"MA","MAR","Morocco","MR","MRT","Mauritania",2017,752.884615384615
+"MZ","MOZ","Mozambique","MR","MRT","Mauritania",2017,0.211538461538462
+"NA","NAM","Namibia","MR","MRT","Mauritania",2017,0.942307692307692
+"NE","NER","Niger","MR","MRT","Mauritania",2017,14.3269230769231
+"NG","NGA","Nigeria","MR","MRT","Mauritania",2017,2.42307692307692
+"RW","RWA","Rwanda","MR","MRT","Mauritania",2017,1.07692307692308
+"ST","STP","São Tomé & Príncipe","MR","MRT","Mauritania",2017,0.192307692307692
+"SN","SEN","Senegal","MR","MRT","Mauritania",2017,371.942307692308
+"SC","SYC","Seychelles","MR","MRT","Mauritania",2017,0.115384615384615
+"SL","SLE","Sierra Leone","MR","MRT","Mauritania",2017,2.59615384615385
+"SO","SOM","Somalia","MR","MRT","Mauritania",2017,0.557692307692308
+"ZA","ZAF","South Africa","MR","MRT","Mauritania",2017,17.3846153846154
+"SS","SSD","South Sudan","MR","MRT","Mauritania",2017,0.0769230769230769
+"SD","SDN","Sudan","MR","MRT","Mauritania",2017,14.2115384615385
+"TZ","TZA","Tanzania","MR","MRT","Mauritania",2017,2.21153846153846
+"TG","TGO","Togo","MR","MRT","Mauritania",2017,5.88461538461539
+"TN","TUN","Tunisia","MR","MRT","Mauritania",2017,426.480769230769
+"UG","UGA","Uganda","MR","MRT","Mauritania",2017,1.17307692307692
+"ZM","ZMB","Zambia","MR","MRT","Mauritania",2017,0.846153846153846
+"ZW","ZWE","Zimbabwe","MR","MRT","Mauritania",2017,0.134615384615385
+"DZ","DZA","Algeria","MU","MUS","Mauritius",2017,7.57692307692308
+"AO","AGO","Angola","MU","MUS","Mauritius",2017,11.9230769230769
+"BJ","BEN","Benin","MU","MUS","Mauritius",2017,2.59615384615385
+"BW","BWA","Botswana","MU","MUS","Mauritius",2017,29.5576923076923
+"BF","BFA","Burkina Faso","MU","MUS","Mauritius",2017,1.59615384615385
+"BI","BDI","Burundi","MU","MUS","Mauritius",2017,1.65384615384615
+"CM","CMR","Cameroon","MU","MUS","Mauritius",2017,8.75
+"CV","CPV","Cape Verde","MU","MUS","Mauritius",2017,0.5
+"CF","CAF","Central African Republic","MU","MUS","Mauritius",2017,0.5
+"TD","TCD","Chad","MU","MUS","Mauritius",2017,0.865384615384615
+"KM","COM","Comoros","MU","MUS","Mauritius",2017,41.8461538461538
+"CG","COG","Congo","MU","MUS","Mauritius",2017,6.34615384615385
+"CI","CIV","Côte d’Ivoire","MU","MUS","Mauritius",2017,22.3846153846154
+"CD","COD","Democratic Republic of Congo","MU","MUS","Mauritius",2017,15.6730769230769
+"DJ","DJI","Djibouti","MU","MUS","Mauritius",2017,3.96153846153846
+"EG","EGY","Egypt","MU","MUS","Mauritius",2017,19.3461538461538
+"GQ","GNQ","Equatorial Guinea","MU","MUS","Mauritius",2017,0.423076923076923
+"ER","ERI","Eritrea","MU","MUS","Mauritius",2017,0.403846153846154
+"SZ","SWZ","Eswatini","MU","MUS","Mauritius",2017,2.59615384615385
+"ET","ETH","Ethiopia","MU","MUS","Mauritius",2017,9.86538461538461
+"GA","GAB","Gabon","MU","MUS","Mauritius",2017,5.86538461538461
+"GM","GMB","Gambia","MU","MUS","Mauritius",2017,0.557692307692308
+"GH","GHA","Ghana","MU","MUS","Mauritius",2017,16.6538461538462
+"GN","GIN","Guinea","MU","MUS","Mauritius",2017,1.57692307692308
+"GW","GNB","Guinea-Bissau","MU","MUS","Mauritius",2017,0.211538461538462
+"KE","KEN","Kenya","MU","MUS","Mauritius",2017,211.076923076923
+"LS","LSO","Lesotho","MU","MUS","Mauritius",2017,1.92307692307692
+"LR","LBR","Liberia","MU","MUS","Mauritius",2017,0.307692307692308
+"MG","MDG","Madagascar","MU","MUS","Mauritius",2017,874.75
+"MW","MWI","Malawi","MU","MUS","Mauritius",2017,4.55769230769231
+"ML","MLI","Mali","MU","MUS","Mauritius",2017,3.88461538461538
+"MR","MRT","Mauritania","MU","MUS","Mauritius",2017,0.75
+"MU","MUS","Mauritius","MU","MUS","Mauritius",2017,3465.01923076923
+"MA","MAR","Morocco","MU","MUS","Mauritius",2017,18.5769230769231
+"MZ","MOZ","Mozambique","MU","MUS","Mauritius",2017,39.9807692307692
+"NA","NAM","Namibia","MU","MUS","Mauritius",2017,43.9423076923077
+"NE","NER","Niger","MU","MUS","Mauritius",2017,1.40384615384615
+"NG","NGA","Nigeria","MU","MUS","Mauritius",2017,30.4038461538462
+"RW","RWA","Rwanda","MU","MUS","Mauritius",2017,10.7692307692308
+"ST","STP","São Tomé & Príncipe","MU","MUS","Mauritius",2017,0.0576923076923077
+"SN","SEN","Senegal","MU","MUS","Mauritius",2017,13.5192307692308
+"SC","SYC","Seychelles","MU","MUS","Mauritius",2017,259.480769230769
+"SL","SLE","Sierra Leone","MU","MUS","Mauritius",2017,0.557692307692308
+"SO","SOM","Somalia","MU","MUS","Mauritius",2017,0.480769230769231
+"ZA","ZAF","South Africa","MU","MUS","Mauritius",2017,2976.15384615385
+"SS","SSD","South Sudan","MU","MUS","Mauritius",2017,0.653846153846154
+"SD","SDN","Sudan","MU","MUS","Mauritius",2017,3.88461538461538
+"TZ","TZA","Tanzania","MU","MUS","Mauritius",2017,100.326923076923
+"TG","TGO","Togo","MU","MUS","Mauritius",2017,0.557692307692308
+"TN","TUN","Tunisia","MU","MUS","Mauritius",2017,12.25
+"UG","UGA","Uganda","MU","MUS","Mauritius",2017,10.3846153846154
+"ZM","ZMB","Zambia","MU","MUS","Mauritius",2017,19.5961538461538
+"ZW","ZWE","Zimbabwe","MU","MUS","Mauritius",2017,55.6346153846154
+"DZ","DZA","Algeria","MA","MAR","Morocco",2017,2763.5
+"AO","AGO","Angola","MA","MAR","Morocco",2017,59.2692307692308
+"BJ","BEN","Benin","MA","MAR","Morocco",2017,104.25
+"BW","BWA","Botswana","MA","MAR","Morocco",2017,4.17307692307692
+"BF","BFA","Burkina Faso","MA","MAR","Morocco",2017,156.865384615385
+"BI","BDI","Burundi","MA","MAR","Morocco",2017,3.76923076923077
+"CM","CMR","Cameroon","MA","MAR","Morocco",2017,161.230769230769
+"CV","CPV","Cape Verde","MA","MAR","Morocco",2017,40.25
+"CF","CAF","Central African Republic","MA","MAR","Morocco",2017,57.5192307692308
+"TD","TCD","Chad","MA","MAR","Morocco",2017,74.5769230769231
+"KM","COM","Comoros","MA","MAR","Morocco",2017,4.26923076923077
+"CG","COG","Congo","MA","MAR","Morocco",2017,227.653846153846
+"CI","CIV","Côte d’Ivoire","MA","MAR","Morocco",2017,795.442307692308
+"CD","COD","Democratic Republic of Congo","MA","MAR","Morocco",2017,92.5384615384615
+"DJ","DJI","Djibouti","MA","MAR","Morocco",2017,21.8461538461538
+"EG","EGY","Egypt","MA","MAR","Morocco",2017,892.788461538462
+"GQ","GNQ","Equatorial Guinea","MA","MAR","Morocco",2017,59.1730769230769
+"ER","ERI","Eritrea","MA","MAR","Morocco",2017,2.80769230769231
+"SZ","SWZ","Eswatini","MA","MAR","Morocco",2017,0.923076923076923
+"ET","ETH","Ethiopia","MA","MAR","Morocco",2017,43.3076923076923
+"GA","GAB","Gabon","MA","MAR","Morocco",2017,202.307692307692
+"GM","GMB","Gambia","MA","MAR","Morocco",2017,41.4807692307692
+"GH","GHA","Ghana","MA","MAR","Morocco",2017,130.096153846154
+"GN","GIN","Guinea","MA","MAR","Morocco",2017,437.942307692308
+"GW","GNB","Guinea-Bissau","MA","MAR","Morocco",2017,50.4615384615385
+"KE","KEN","Kenya","MA","MAR","Morocco",2017,153.230769230769
+"LS","LSO","Lesotho","MA","MAR","Morocco",2017,1.07692307692308
+"LR","LBR","Liberia","MA","MAR","Morocco",2017,70.7692307692308
+"LY","LBY","Libya","MA","MAR","Morocco",2017,28.2692307692308
+"MG","MDG","Madagascar","MA","MAR","Morocco",2017,20.1730769230769
+"MW","MWI","Malawi","MA","MAR","Morocco",2017,2.48076923076923
+"ML","MLI","Mali","MA","MAR","Morocco",2017,395.923076923077
+"MR","MRT","Mauritania","MA","MAR","Morocco",2017,725.634615384615
+"MU","MUS","Mauritius","MA","MAR","Morocco",2017,28.4615384615385
+"MA","MAR","Morocco","MA","MAR","Morocco",2017,12945.4807692308
+"MZ","MOZ","Mozambique","MA","MAR","Morocco",2017,6.32692307692308
+"NA","NAM","Namibia","MA","MAR","Morocco",2017,3.76923076923077
+"NE","NER","Niger","MA","MAR","Morocco",2017,149.961538461538
+"NG","NGA","Nigeria","MA","MAR","Morocco",2017,122.269230769231
+"RW","RWA","Rwanda","MA","MAR","Morocco",2017,15.4423076923077
+"ST","STP","São Tomé & Príncipe","MA","MAR","Morocco",2017,1.5
+"SN","SEN","Senegal","MA","MAR","Morocco",2017,924.596153846154
+"SC","SYC","Seychelles","MA","MAR","Morocco",2017,14.8461538461538
+"SL","SLE","Sierra Leone","MA","MAR","Morocco",2017,55.0769230769231
+"SO","SOM","Somalia","MA","MAR","Morocco",2017,1.84615384615385
+"ZA","ZAF","South Africa","MA","MAR","Morocco",2017,160.769230769231
+"SS","SSD","South Sudan","MA","MAR","Morocco",2017,6.17307692307692
+"SD","SDN","Sudan","MA","MAR","Morocco",2017,67.9038461538462
+"TZ","TZA","Tanzania","MA","MAR","Morocco",2017,17.8461538461538
+"TG","TGO","Togo","MA","MAR","Morocco",2017,83.8461538461538
+"TN","TUN","Tunisia","MA","MAR","Morocco",2017,1897.90384615385
+"UG","UGA","Uganda","MA","MAR","Morocco",2017,14.1346153846154
+"ZM","ZMB","Zambia","MA","MAR","Morocco",2017,6.71153846153846
+"ZW","ZWE","Zimbabwe","MA","MAR","Morocco",2017,3.63461538461538
+"DZ","DZA","Algeria","MZ","MOZ","Mozambique",2017,2.96153846153846
+"AO","AGO","Angola","MZ","MOZ","Mozambique",2017,255.384615384615
+"BJ","BEN","Benin","MZ","MOZ","Mozambique",2017,2.51923076923077
+"BW","BWA","Botswana","MZ","MOZ","Mozambique",2017,60.5769230769231
+"BF","BFA","Burkina Faso","MZ","MOZ","Mozambique",2017,2.55769230769231
+"BI","BDI","Burundi","MZ","MOZ","Mozambique",2017,4.67307692307692
+"CM","CMR","Cameroon","MZ","MOZ","Mozambique",2017,13.9038461538462
+"CV","CPV","Cape Verde","MZ","MOZ","Mozambique",2017,4.40384615384615
+"CF","CAF","Central African Republic","MZ","MOZ","Mozambique",2017,0.346153846153846
+"TD","TCD","Chad","MZ","MOZ","Mozambique",2017,0.673076923076923
+"KM","COM","Comoros","MZ","MOZ","Mozambique",2017,1.42307692307692
+"CG","COG","Congo","MZ","MOZ","Mozambique",2017,6.23076923076923
+"CI","CIV","Côte d’Ivoire","MZ","MOZ","Mozambique",2017,11.5576923076923
+"CD","COD","Democratic Republic of Congo","MZ","MOZ","Mozambique",2017,21.5
+"DJ","DJI","Djibouti","MZ","MOZ","Mozambique",2017,1.26923076923077
+"EG","EGY","Egypt","MZ","MOZ","Mozambique",2017,28.6538461538462
+"GQ","GNQ","Equatorial Guinea","MZ","MOZ","Mozambique",2017,1.94230769230769
+"ER","ERI","Eritrea","MZ","MOZ","Mozambique",2017,0.25
+"SZ","SWZ","Eswatini","MZ","MOZ","Mozambique",2017,3.86538461538462
+"ET","ETH","Ethiopia","MZ","MOZ","Mozambique",2017,80.2307692307692
+"GA","GAB","Gabon","MZ","MOZ","Mozambique",2017,4.98076923076923
+"GM","GMB","Gambia","MZ","MOZ","Mozambique",2017,0.923076923076923
+"GH","GHA","Ghana","MZ","MOZ","Mozambique",2017,20.7115384615385
+"GN","GIN","Guinea","MZ","MOZ","Mozambique",2017,11.2115384615385
+"GW","GNB","Guinea-Bissau","MZ","MOZ","Mozambique",2017,2.40384615384615
+"KE","KEN","Kenya","MZ","MOZ","Mozambique",2017,267.192307692308
+"LS","LSO","Lesotho","MZ","MOZ","Mozambique",2017,6.67307692307692
+"LR","LBR","Liberia","MZ","MOZ","Mozambique",2017,1.26923076923077
+"LY","LBY","Libya","MZ","MOZ","Mozambique",2017,0.0192307692307692
+"MG","MDG","Madagascar","MZ","MOZ","Mozambique",2017,17.1153846153846
+"MW","MWI","Malawi","MZ","MOZ","Mozambique",2017,77.7307692307692
+"ML","MLI","Mali","MZ","MOZ","Mozambique",2017,8.90384615384615
+"MR","MRT","Mauritania","MZ","MOZ","Mozambique",2017,0.384615384615385
+"MU","MUS","Mauritius","MZ","MOZ","Mozambique",2017,30.4423076923077
+"MA","MAR","Morocco","MZ","MOZ","Mozambique",2017,5.71153846153846
+"MZ","MOZ","Mozambique","MZ","MOZ","Mozambique",2017,8492.40384615385
+"NA","NAM","Namibia","MZ","MOZ","Mozambique",2017,40.7884615384615
+"NE","NER","Niger","MZ","MOZ","Mozambique",2017,0.884615384615385
+"NG","NGA","Nigeria","MZ","MOZ","Mozambique",2017,62.5192307692308
+"RW","RWA","Rwanda","MZ","MOZ","Mozambique",2017,18.0576923076923
+"ST","STP","São Tomé & Príncipe","MZ","MOZ","Mozambique",2017,5.88461538461539
+"SN","SEN","Senegal","MZ","MOZ","Mozambique",2017,17.0576923076923
+"SC","SYC","Seychelles","MZ","MOZ","Mozambique",2017,2.05769230769231
+"SL","SLE","Sierra Leone","MZ","MOZ","Mozambique",2017,2.21153846153846
+"SO","SOM","Somalia","MZ","MOZ","Mozambique",2017,5.51923076923077
+"ZA","ZAF","South Africa","MZ","MOZ","Mozambique",2017,2688.75
+"SS","SSD","South Sudan","MZ","MOZ","Mozambique",2017,1.69230769230769
+"SD","SDN","Sudan","MZ","MOZ","Mozambique",2017,13.4615384615385
+"TZ","TZA","Tanzania","MZ","MOZ","Mozambique",2017,187.461538461538
+"TG","TGO","Togo","MZ","MOZ","Mozambique",2017,1.17307692307692
+"TN","TUN","Tunisia","MZ","MOZ","Mozambique",2017,4.80769230769231
+"UG","UGA","Uganda","MZ","MOZ","Mozambique",2017,41.5576923076923
+"ZM","ZMB","Zambia","MZ","MOZ","Mozambique",2017,86.0769230769231
+"ZW","ZWE","Zimbabwe","MZ","MOZ","Mozambique",2017,151.538461538462
+"DZ","DZA","Algeria","NA","NAM","Namibia",2017,5.40384615384615
+"AO","AGO","Angola","NA","NAM","Namibia",2017,773.192307692308
+"BJ","BEN","Benin","NA","NAM","Namibia",2017,1.32692307692308
+"BW","BWA","Botswana","NA","NAM","Namibia",2017,211.5
+"BF","BFA","Burkina Faso","NA","NAM","Namibia",2017,1.46153846153846
+"BI","BDI","Burundi","NA","NAM","Namibia",2017,0.538461538461538
+"CM","CMR","Cameroon","NA","NAM","Namibia",2017,8.03846153846154
+"CV","CPV","Cape Verde","NA","NAM","Namibia",2017,0.192307692307692
+"CF","CAF","Central African Republic","NA","NAM","Namibia",2017,0.192307692307692
+"TD","TCD","Chad","NA","NAM","Namibia",2017,0.326923076923077
+"KM","COM","Comoros","NA","NAM","Namibia",2017,0.326923076923077
+"CG","COG","Congo","NA","NAM","Namibia",2017,10.0576923076923
+"CI","CIV","Côte d’Ivoire","NA","NAM","Namibia",2017,7.13461538461539
+"CD","COD","Democratic Republic of Congo","NA","NAM","Namibia",2017,22.4807692307692
+"DJ","DJI","Djibouti","NA","NAM","Namibia",2017,0.153846153846154
+"EG","EGY","Egypt","NA","NAM","Namibia",2017,20.8269230769231
+"GQ","GNQ","Equatorial Guinea","NA","NAM","Namibia",2017,0.961538461538462
+"ER","ERI","Eritrea","NA","NAM","Namibia",2017,0.384615384615385
+"SZ","SWZ","Eswatini","NA","NAM","Namibia",2017,13.7692307692308
+"ET","ETH","Ethiopia","NA","NAM","Namibia",2017,95.9807692307692
+"GA","GAB","Gabon","NA","NAM","Namibia",2017,4.38461538461539
+"GM","GMB","Gambia","NA","NAM","Namibia",2017,0.365384615384615
+"GH","GHA","Ghana","NA","NAM","Namibia",2017,30.3269230769231
+"GN","GIN","Guinea","NA","NAM","Namibia",2017,0.692307692307692
+"KE","KEN","Kenya","NA","NAM","Namibia",2017,55.9615384615385
+"LS","LSO","Lesotho","NA","NAM","Namibia",2017,16.8653846153846
+"LR","LBR","Liberia","NA","NAM","Namibia",2017,0.365384615384615
+"LY","LBY","Libya","NA","NAM","Namibia",2017,0.0192307692307692
+"MG","MDG","Madagascar","NA","NAM","Namibia",2017,7.34615384615385
+"MW","MWI","Malawi","NA","NAM","Namibia",2017,41.6538461538462
+"ML","MLI","Mali","NA","NAM","Namibia",2017,9.73076923076923
+"MR","MRT","Mauritania","NA","NAM","Namibia",2017,0.980769230769231
+"MU","MUS","Mauritius","NA","NAM","Namibia",2017,20.2115384615385
+"MA","MAR","Morocco","NA","NAM","Namibia",2017,3.23076923076923
+"MZ","MOZ","Mozambique","NA","NAM","Namibia",2017,42.2307692307692
+"NA","NAM","Namibia","NA","NAM","Namibia",2017,2368
+"NE","NER","Niger","NA","NAM","Namibia",2017,1.13461538461538
+"NG","NGA","Nigeria","NA","NAM","Namibia",2017,47.0384615384615
+"RW","RWA","Rwanda","NA","NAM","Namibia",2017,6.21153846153846
+"ST","STP","São Tomé & Príncipe","NA","NAM","Namibia",2017,0.75
+"SN","SEN","Senegal","NA","NAM","Namibia",2017,6.76923076923077
+"SC","SYC","Seychelles","NA","NAM","Namibia",2017,2.65384615384615
+"SL","SLE","Sierra Leone","NA","NAM","Namibia",2017,0.576923076923077
+"SO","SOM","Somalia","NA","NAM","Namibia",2017,0.173076923076923
+"ZA","ZAF","South Africa","NA","NAM","Namibia",2017,5388.63461538462
+"SS","SSD","South Sudan","NA","NAM","Namibia",2017,1.21153846153846
+"SD","SDN","Sudan","NA","NAM","Namibia",2017,3.57692307692308
+"TZ","TZA","Tanzania","NA","NAM","Namibia",2017,46.9423076923077
+"TG","TGO","Togo","NA","NAM","Namibia",2017,1.13461538461538
+"TN","TUN","Tunisia","NA","NAM","Namibia",2017,3.63461538461538
+"UG","UGA","Uganda","NA","NAM","Namibia",2017,25.8461538461538
+"ZM","ZMB","Zambia","NA","NAM","Namibia",2017,157.057692307692
+"ZW","ZWE","Zimbabwe","NA","NAM","Namibia",2017,227.346153846154
+"DZ","DZA","Algeria","NE","NER","Niger",2017,100.173076923077
+"AO","AGO","Angola","NE","NER","Niger",2017,1.15384615384615
+"BJ","BEN","Benin","NE","NER","Niger",2017,73.9615384615385
+"BW","BWA","Botswana","NE","NER","Niger",2017,0.980769230769231
+"BF","BFA","Burkina Faso","NE","NER","Niger",2017,182.75
+"BI","BDI","Burundi","NE","NER","Niger",2017,4.42307692307692
+"CM","CMR","Cameroon","NE","NER","Niger",2017,30.9038461538462
+"CV","CPV","Cape Verde","NE","NER","Niger",2017,1.42307692307692
+"CF","CAF","Central African Republic","NE","NER","Niger",2017,8.48076923076923
+"TD","TCD","Chad","NE","NER","Niger",2017,35.1153846153846
+"KM","COM","Comoros","NE","NER","Niger",2017,4.11538461538461
+"CG","COG","Congo","NE","NER","Niger",2017,14.1730769230769
+"CI","CIV","Côte d’Ivoire","NE","NER","Niger",2017,138.326923076923
+"CD","COD","Democratic Republic of Congo","NE","NER","Niger",2017,13.1538461538462
+"DJ","DJI","Djibouti","NE","NER","Niger",2017,2.19230769230769
+"EG","EGY","Egypt","NE","NER","Niger",2017,14.2115384615385
+"GQ","GNQ","Equatorial Guinea","NE","NER","Niger",2017,0.884615384615385
+"ER","ERI","Eritrea","NE","NER","Niger",2017,0.153846153846154
+"SZ","SWZ","Eswatini","NE","NER","Niger",2017,0.153846153846154
+"ET","ETH","Ethiopia","NE","NER","Niger",2017,51.8461538461538
+"GA","GAB","Gabon","NE","NER","Niger",2017,9.78846153846154
+"GM","GMB","Gambia","NE","NER","Niger",2017,2.96153846153846
+"GH","GHA","Ghana","NE","NER","Niger",2017,30.1346153846154
+"GN","GIN","Guinea","NE","NER","Niger",2017,16.5192307692308
+"GW","GNB","Guinea-Bissau","NE","NER","Niger",2017,2.75
+"KE","KEN","Kenya","NE","NER","Niger",2017,27.5769230769231
+"LS","LSO","Lesotho","NE","NER","Niger",2017,0.134615384615385
+"LR","LBR","Liberia","NE","NER","Niger",2017,3.07692307692308
+"LY","LBY","Libya","NE","NER","Niger",2017,436.384615384615
+"MG","MDG","Madagascar","NE","NER","Niger",2017,2.44230769230769
+"MW","MWI","Malawi","NE","NER","Niger",2017,1.21153846153846
+"ML","MLI","Mali","NE","NER","Niger",2017,188.865384615385
+"MR","MRT","Mauritania","NE","NER","Niger",2017,12.9807692307692
+"MU","MUS","Mauritius","NE","NER","Niger",2017,0.923076923076923
+"MA","MAR","Morocco","NE","NER","Niger",2017,136.076923076923
+"MZ","MOZ","Mozambique","NE","NER","Niger",2017,1.25
+"NA","NAM","Namibia","NE","NER","Niger",2017,0.961538461538462
+"NE","NER","Niger","NE","NER","Niger",2017,245.980769230769
+"NG","NGA","Nigeria","NE","NER","Niger",2017,41.5
+"RW","RWA","Rwanda","NE","NER","Niger",2017,11.9423076923077
+"ST","STP","São Tomé & Príncipe","NE","NER","Niger",2017,0.211538461538462
+"SN","SEN","Senegal","NE","NER","Niger",2017,238.634615384615
+"SC","SYC","Seychelles","NE","NER","Niger",2017,0.192307692307692
+"SL","SLE","Sierra Leone","NE","NER","Niger",2017,3.38461538461538
+"SO","SOM","Somalia","NE","NER","Niger",2017,0.153846153846154
+"ZA","ZAF","South Africa","NE","NER","Niger",2017,15.8461538461538
+"SS","SSD","South Sudan","NE","NER","Niger",2017,0.538461538461538
+"SD","SDN","Sudan","NE","NER","Niger",2017,12
+"TZ","TZA","Tanzania","NE","NER","Niger",2017,2.73076923076923
+"TG","TGO","Togo","NE","NER","Niger",2017,50.6346153846154
+"TN","TUN","Tunisia","NE","NER","Niger",2017,132
+"UG","UGA","Uganda","NE","NER","Niger",2017,10.0961538461538
+"ZM","ZMB","Zambia","NE","NER","Niger",2017,1.90384615384615
+"ZW","ZWE","Zimbabwe","NE","NER","Niger",2017,1.67307692307692
+"DZ","DZA","Algeria","NG","NGA","Nigeria",2017,23.0576923076923
+"AO","AGO","Angola","NG","NGA","Nigeria",2017,117.019230769231
+"BJ","BEN","Benin","NG","NGA","Nigeria",2017,334.961538461538
+"BW","BWA","Botswana","NG","NGA","Nigeria",2017,33.4615384615385
+"BF","BFA","Burkina Faso","NG","NGA","Nigeria",2017,58.3076923076923
+"BI","BDI","Burundi","NG","NGA","Nigeria",2017,6.51923076923077
+"CM","CMR","Cameroon","NG","NGA","Nigeria",2017,428.692307692308
+"CV","CPV","Cape Verde","NG","NGA","Nigeria",2017,9.34615384615385
+"CF","CAF","Central African Republic","NG","NGA","Nigeria",2017,6.48076923076923
+"TD","TCD","Chad","NG","NGA","Nigeria",2017,229.730769230769
+"KM","COM","Comoros","NG","NGA","Nigeria",2017,0.538461538461538
+"CG","COG","Congo","NG","NGA","Nigeria",2017,36.3076923076923
+"CI","CIV","Côte d’Ivoire","NG","NGA","Nigeria",2017,610.576923076923
+"CD","COD","Democratic Republic of Congo","NG","NGA","Nigeria",2017,47.7307692307692
+"DJ","DJI","Djibouti","NG","NGA","Nigeria",2017,2.5
+"EG","EGY","Egypt","NG","NGA","Nigeria",2017,379.403846153846
+"GQ","GNQ","Equatorial Guinea","NG","NGA","Nigeria",2017,117.865384615385
+"ER","ERI","Eritrea","NG","NGA","Nigeria",2017,0.673076923076923
+"SZ","SWZ","Eswatini","NG","NGA","Nigeria",2017,7.34615384615385
+"ET","ETH","Ethiopia","NG","NGA","Nigeria",2017,375.692307692308
+"GA","GAB","Gabon","NG","NGA","Nigeria",2017,326.519230769231
+"GM","GMB","Gambia","NG","NGA","Nigeria",2017,131.115384615385
+"GH","GHA","Ghana","NG","NGA","Nigeria",2017,3277.75
+"GN","GIN","Guinea","NG","NGA","Nigeria",2017,45.9038461538462
+"GW","GNB","Guinea-Bissau","NG","NGA","Nigeria",2017,10.3461538461538
+"KE","KEN","Kenya","NG","NGA","Nigeria",2017,493.596153846154
+"LS","LSO","Lesotho","NG","NGA","Nigeria",2017,4.76923076923077
+"LR","LBR","Liberia","NG","NGA","Nigeria",2017,127.538461538462
+"LY","LBY","Libya","NG","NGA","Nigeria",2017,21.1538461538462
+"MG","MDG","Madagascar","NG","NGA","Nigeria",2017,5.38461538461539
+"MW","MWI","Malawi","NG","NGA","Nigeria",2017,30.3461538461538
+"ML","MLI","Mali","NG","NGA","Nigeria",2017,41.5576923076923
+"MR","MRT","Mauritania","NG","NGA","Nigeria",2017,3.71153846153846
+"MU","MUS","Mauritius","NG","NGA","Nigeria",2017,44.7692307692308
+"MA","MAR","Morocco","NG","NGA","Nigeria",2017,170.307692307692
+"MZ","MOZ","Mozambique","NG","NGA","Nigeria",2017,60.75
+"NA","NAM","Namibia","NG","NGA","Nigeria",2017,55.2115384615385
+"NE","NER","Niger","NG","NGA","Nigeria",2017,49.8269230769231
+"NG","NGA","Nigeria","NG","NGA","Nigeria",2017,55289.3846153846
+"RW","RWA","Rwanda","NG","NGA","Nigeria",2017,76.6538461538462
+"ST","STP","São Tomé & Príncipe","NG","NGA","Nigeria",2017,4.34615384615385
+"SN","SEN","Senegal","NG","NGA","Nigeria",2017,443.826923076923
+"SC","SYC","Seychelles","NG","NGA","Nigeria",2017,14.3076923076923
+"SL","SLE","Sierra Leone","NG","NGA","Nigeria",2017,104
+"SO","SOM","Somalia","NG","NGA","Nigeria",2017,0.730769230769231
+"ZA","ZAF","South Africa","NG","NGA","Nigeria",2017,1918.80769230769
+"SS","SSD","South Sudan","NG","NGA","Nigeria",2017,9
+"SD","SDN","Sudan","NG","NGA","Nigeria",2017,243.326923076923
+"TZ","TZA","Tanzania","NG","NGA","Nigeria",2017,174.25
+"TG","TGO","Togo","NG","NGA","Nigeria",2017,174.153846153846
+"TN","TUN","Tunisia","NG","NGA","Nigeria",2017,26.6346153846154
+"UG","UGA","Uganda","NG","NGA","Nigeria",2017,161.134615384615
+"ZM","ZMB","Zambia","NG","NGA","Nigeria",2017,79.7115384615385
+"ZW","ZWE","Zimbabwe","NG","NGA","Nigeria",2017,62.5
+"DZ","DZA","Algeria","RW","RWA","Rwanda",2017,4.44230769230769
+"AO","AGO","Angola","RW","RWA","Rwanda",2017,5.61538461538461
+"BJ","BEN","Benin","RW","RWA","Rwanda",2017,35.1538461538462
+"BW","BWA","Botswana","RW","RWA","Rwanda",2017,7.98076923076923
+"BF","BFA","Burkina Faso","RW","RWA","Rwanda",2017,17.9807692307692
+"BI","BDI","Burundi","RW","RWA","Rwanda",2017,426.769230769231
+"CM","CMR","Cameroon","RW","RWA","Rwanda",2017,115.923076923077
+"CV","CPV","Cape Verde","RW","RWA","Rwanda",2017,0.423076923076923
+"CF","CAF","Central African Republic","RW","RWA","Rwanda",2017,23.4230769230769
+"TD","TCD","Chad","RW","RWA","Rwanda",2017,12.5769230769231
+"KM","COM","Comoros","RW","RWA","Rwanda",2017,4.23076923076923
+"CG","COG","Congo","RW","RWA","Rwanda",2017,60.6730769230769
+"CI","CIV","Côte d’Ivoire","RW","RWA","Rwanda",2017,42.9423076923077
+"CD","COD","Democratic Republic of Congo","RW","RWA","Rwanda",2017,67.4615384615385
+"DJ","DJI","Djibouti","RW","RWA","Rwanda",2017,18.1346153846154
+"EG","EGY","Egypt","RW","RWA","Rwanda",2017,33.1153846153846
+"GQ","GNQ","Equatorial Guinea","RW","RWA","Rwanda",2017,1.05769230769231
+"ER","ERI","Eritrea","RW","RWA","Rwanda",2017,2.36538461538462
+"SZ","SWZ","Eswatini","RW","RWA","Rwanda",2017,2.09615384615385
+"ET","ETH","Ethiopia","RW","RWA","Rwanda",2017,239.346153846154
+"GA","GAB","Gabon","RW","RWA","Rwanda",2017,131.423076923077
+"GM","GMB","Gambia","RW","RWA","Rwanda",2017,3.21153846153846
+"GH","GHA","Ghana","RW","RWA","Rwanda",2017,70.9230769230769
+"GN","GIN","Guinea","RW","RWA","Rwanda",2017,10.1538461538462
+"GW","GNB","Guinea-Bissau","RW","RWA","Rwanda",2017,0.557692307692308
+"KE","KEN","Kenya","RW","RWA","Rwanda",2017,1154.78846153846
+"LS","LSO","Lesotho","RW","RWA","Rwanda",2017,3.01923076923077
+"LR","LBR","Liberia","RW","RWA","Rwanda",2017,6.48076923076923
+"LY","LBY","Libya","RW","RWA","Rwanda",2017,0.0576923076923077
+"MG","MDG","Madagascar","RW","RWA","Rwanda",2017,14.0961538461538
+"MW","MWI","Malawi","RW","RWA","Rwanda",2017,23.5
+"ML","MLI","Mali","RW","RWA","Rwanda",2017,20.9423076923077
+"MR","MRT","Mauritania","RW","RWA","Rwanda",2017,0.826923076923077
+"MU","MUS","Mauritius","RW","RWA","Rwanda",2017,9.30769230769231
+"MA","MAR","Morocco","RW","RWA","Rwanda",2017,17.4807692307692
+"MZ","MOZ","Mozambique","RW","RWA","Rwanda",2017,20.6153846153846
+"NA","NAM","Namibia","RW","RWA","Rwanda",2017,5.53846153846154
+"NE","NER","Niger","RW","RWA","Rwanda",2017,12
+"NG","NGA","Nigeria","RW","RWA","Rwanda",2017,115.961538461538
+"RW","RWA","Rwanda","RW","RWA","Rwanda",2017,401.538461538462
+"ST","STP","São Tomé & Príncipe","RW","RWA","Rwanda",2017,0.961538461538462
+"SN","SEN","Senegal","RW","RWA","Rwanda",2017,51.25
+"SC","SYC","Seychelles","RW","RWA","Rwanda",2017,15.6346153846154
+"SL","SLE","Sierra Leone","RW","RWA","Rwanda",2017,5.67307692307692
+"SO","SOM","Somalia","RW","RWA","Rwanda",2017,7.53846153846154
+"ZA","ZAF","South Africa","RW","RWA","Rwanda",2017,275.596153846154
+"SS","SSD","South Sudan","RW","RWA","Rwanda",2017,28.9615384615385
+"SD","SDN","Sudan","RW","RWA","Rwanda",2017,36.2692307692308
+"TZ","TZA","Tanzania","RW","RWA","Rwanda",2017,448.346153846154
+"TG","TGO","Togo","RW","RWA","Rwanda",2017,10.9038461538462
+"TN","TUN","Tunisia","RW","RWA","Rwanda",2017,11.6730769230769
+"UG","UGA","Uganda","RW","RWA","Rwanda",2017,463.692307692308
+"ZM","ZMB","Zambia","RW","RWA","Rwanda",2017,125.403846153846
+"ZW","ZWE","Zimbabwe","RW","RWA","Rwanda",2017,72.3461538461538
+"AO","AGO","Angola","ST","STP","São Tomé & Príncipe",2017,222.230769230769
+"BJ","BEN","Benin","ST","STP","São Tomé & Príncipe",2017,0.25
+"BW","BWA","Botswana","ST","STP","São Tomé & Príncipe",2017,0.403846153846154
+"BF","BFA","Burkina Faso","ST","STP","São Tomé & Príncipe",2017,0.596153846153846
+"BI","BDI","Burundi","ST","STP","São Tomé & Príncipe",2017,0.0961538461538462
+"CM","CMR","Cameroon","ST","STP","São Tomé & Príncipe",2017,3.19230769230769
+"CV","CPV","Cape Verde","ST","STP","São Tomé & Príncipe",2017,4.32692307692308
+"TD","TCD","Chad","ST","STP","São Tomé & Príncipe",2017,0.384615384615385
+"KM","COM","Comoros","ST","STP","São Tomé & Príncipe",2017,0.0384615384615385
+"CG","COG","Congo","ST","STP","São Tomé & Príncipe",2017,2.51923076923077
+"CI","CIV","Côte d’Ivoire","ST","STP","São Tomé & Príncipe",2017,2.23076923076923
+"CD","COD","Democratic Republic of Congo","ST","STP","São Tomé & Príncipe",2017,0.288461538461538
+"DJ","DJI","Djibouti","ST","STP","São Tomé & Príncipe",2017,0.0384615384615385
+"EG","EGY","Egypt","ST","STP","São Tomé & Príncipe",2017,0.25
+"GQ","GNQ","Equatorial Guinea","ST","STP","São Tomé & Príncipe",2017,41.75
+"ET","ETH","Ethiopia","ST","STP","São Tomé & Príncipe",2017,0.423076923076923
+"GA","GAB","Gabon","ST","STP","São Tomé & Príncipe",2017,197.634615384615
+"GH","GHA","Ghana","ST","STP","São Tomé & Príncipe",2017,85.6346153846154
+"GN","GIN","Guinea","ST","STP","São Tomé & Príncipe",2017,0.0769230769230769
+"GW","GNB","Guinea-Bissau","ST","STP","São Tomé & Príncipe",2017,0.5
+"KE","KEN","Kenya","ST","STP","São Tomé & Príncipe",2017,1.53846153846154
+"LR","LBR","Liberia","ST","STP","São Tomé & Príncipe",2017,0.0384615384615385
+"MG","MDG","Madagascar","ST","STP","São Tomé & Príncipe",2017,0.346153846153846
+"MW","MWI","Malawi","ST","STP","São Tomé & Príncipe",2017,0.230769230769231
+"ML","MLI","Mali","ST","STP","São Tomé & Príncipe",2017,0.365384615384615
+"MR","MRT","Mauritania","ST","STP","São Tomé & Príncipe",2017,0.153846153846154
+"MU","MUS","Mauritius","ST","STP","São Tomé & Príncipe",2017,0.403846153846154
+"MA","MAR","Morocco","ST","STP","São Tomé & Príncipe",2017,1.51923076923077
+"MZ","MOZ","Mozambique","ST","STP","São Tomé & Príncipe",2017,5.53846153846154
+"NA","NAM","Namibia","ST","STP","São Tomé & Príncipe",2017,0.596153846153846
+"NE","NER","Niger","ST","STP","São Tomé & Príncipe",2017,0.0576923076923077
+"NG","NGA","Nigeria","ST","STP","São Tomé & Príncipe",2017,36.0769230769231
+"RW","RWA","Rwanda","ST","STP","São Tomé & Príncipe",2017,0.788461538461538
+"ST","STP","São Tomé & Príncipe","ST","STP","São Tomé & Príncipe",2017,263.576923076923
+"SN","SEN","Senegal","ST","STP","São Tomé & Príncipe",2017,2.13461538461538
+"SC","SYC","Seychelles","ST","STP","São Tomé & Príncipe",2017,0.0384615384615385
+"SL","SLE","Sierra Leone","ST","STP","São Tomé & Príncipe",2017,0.134615384615385
+"ZA","ZAF","South Africa","ST","STP","São Tomé & Príncipe",2017,10.25
+"TZ","TZA","Tanzania","ST","STP","São Tomé & Príncipe",2017,0.0384615384615385
+"TG","TGO","Togo","ST","STP","São Tomé & Príncipe",2017,1.11538461538462
+"TN","TUN","Tunisia","ST","STP","São Tomé & Príncipe",2017,0.192307692307692
+"UG","UGA","Uganda","ST","STP","São Tomé & Príncipe",2017,0.0769230769230769
+"ZM","ZMB","Zambia","ST","STP","São Tomé & Príncipe",2017,0.461538461538462
+"ZW","ZWE","Zimbabwe","ST","STP","São Tomé & Príncipe",2017,0.192307692307692
+"DZ","DZA","Algeria","SN","SEN","Senegal",2017,143.326923076923
+"AO","AGO","Angola","SN","SEN","Senegal",2017,18.2692307692308
+"BJ","BEN","Benin","SN","SEN","Senegal",2017,365.788461538462
+"BW","BWA","Botswana","SN","SEN","Senegal",2017,13.5192307692308
+"BF","BFA","Burkina Faso","SN","SEN","Senegal",2017,284.826923076923
+"BI","BDI","Burundi","SN","SEN","Senegal",2017,20.2692307692308
+"CM","CMR","Cameroon","SN","SEN","Senegal",2017,193
+"CV","CPV","Cape Verde","SN","SEN","Senegal",2017,238.25
+"CF","CAF","Central African Republic","SN","SEN","Senegal",2017,38.2692307692308
+"TD","TCD","Chad","SN","SEN","Senegal",2017,90.6923076923077
+"KM","COM","Comoros","SN","SEN","Senegal",2017,13.4615384615385
+"CG","COG","Congo","SN","SEN","Senegal",2017,212.788461538462
+"CI","CIV","Côte d’Ivoire","SN","SEN","Senegal",2017,944.288461538462
+"CD","COD","Democratic Republic of Congo","SN","SEN","Senegal",2017,68.0192307692308
+"DJ","DJI","Djibouti","SN","SEN","Senegal",2017,14.8653846153846
+"EG","EGY","Egypt","SN","SEN","Senegal",2017,63.2884615384615
+"GQ","GNQ","Equatorial Guinea","SN","SEN","Senegal",2017,62.2307692307692
+"ER","ERI","Eritrea","SN","SEN","Senegal",2017,0.153846153846154
+"SZ","SWZ","Eswatini","SN","SEN","Senegal",2017,1.15384615384615
+"ET","ETH","Ethiopia","SN","SEN","Senegal",2017,69
+"GA","GAB","Gabon","SN","SEN","Senegal",2017,239.211538461538
+"GM","GMB","Gambia","SN","SEN","Senegal",2017,692.615384615385
+"GH","GHA","Ghana","SN","SEN","Senegal",2017,357.634615384615
+"GN","GIN","Guinea","SN","SEN","Senegal",2017,820.038461538462
+"GW","GNB","Guinea-Bissau","SN","SEN","Senegal",2017,289.865384615385
+"KE","KEN","Kenya","SN","SEN","Senegal",2017,113.903846153846
+"LS","LSO","Lesotho","SN","SEN","Senegal",2017,4.55769230769231
+"LR","LBR","Liberia","SN","SEN","Senegal",2017,32.7692307692308
+"LY","LBY","Libya","SN","SEN","Senegal",2017,1.09615384615385
+"MG","MDG","Madagascar","SN","SEN","Senegal",2017,23.9230769230769
+"MW","MWI","Malawi","SN","SEN","Senegal",2017,15
+"ML","MLI","Mali","SN","SEN","Senegal",2017,620.365384615385
+"MR","MRT","Mauritania","SN","SEN","Senegal",2017,354.423076923077
+"MU","MUS","Mauritius","SN","SEN","Senegal",2017,16.1153846153846
+"MA","MAR","Morocco","SN","SEN","Senegal",2017,786.653846153846
+"MZ","MOZ","Mozambique","SN","SEN","Senegal",2017,26.0192307692308
+"NA","NAM","Namibia","SN","SEN","Senegal",2017,6.55769230769231
+"NE","NER","Niger","SN","SEN","Senegal",2017,232.5
+"NG","NGA","Nigeria","SN","SEN","Senegal",2017,511.673076923077
+"RW","RWA","Rwanda","SN","SEN","Senegal",2017,41.3076923076923
+"ST","STP","São Tomé & Príncipe","SN","SEN","Senegal",2017,2.40384615384615
+"SN","SEN","Senegal","SN","SEN","Senegal",2017,706.980769230769
+"SC","SYC","Seychelles","SN","SEN","Senegal",2017,16.7115384615385
+"SL","SLE","Sierra Leone","SN","SEN","Senegal",2017,67.4230769230769
+"SO","SOM","Somalia","SN","SEN","Senegal",2017,1.23076923076923
+"ZA","ZAF","South Africa","SN","SEN","Senegal",2017,318.153846153846
+"SS","SSD","South Sudan","SN","SEN","Senegal",2017,3.76923076923077
+"SD","SDN","Sudan","SN","SEN","Senegal",2017,33.8461538461538
+"TZ","TZA","Tanzania","SN","SEN","Senegal",2017,45.1923076923077
+"TG","TGO","Togo","SN","SEN","Senegal",2017,148.038461538462
+"TN","TUN","Tunisia","SN","SEN","Senegal",2017,116.557692307692
+"UG","UGA","Uganda","SN","SEN","Senegal",2017,29.9423076923077
+"ZM","ZMB","Zambia","SN","SEN","Senegal",2017,17.75
+"ZW","ZWE","Zimbabwe","SN","SEN","Senegal",2017,20.1730769230769
+"DZ","DZA","Algeria","SC","SYC","Seychelles",2017,2.25
+"AO","AGO","Angola","SC","SYC","Seychelles",2017,1.86538461538462
+"BJ","BEN","Benin","SC","SYC","Seychelles",2017,0.769230769230769
+"BW","BWA","Botswana","SC","SYC","Seychelles",2017,5.63461538461539
+"BF","BFA","Burkina Faso","SC","SYC","Seychelles",2017,0.25
+"BI","BDI","Burundi","SC","SYC","Seychelles",2017,1.17307692307692
+"CM","CMR","Cameroon","SC","SYC","Seychelles",2017,4.86538461538461
+"CV","CPV","Cape Verde","SC","SYC","Seychelles",2017,0.346153846153846
+"CF","CAF","Central African Republic","SC","SYC","Seychelles",2017,0.134615384615385
+"TD","TCD","Chad","SC","SYC","Seychelles",2017,0.192307692307692
+"KM","COM","Comoros","SC","SYC","Seychelles",2017,3.11538461538462
+"CG","COG","Congo","SC","SYC","Seychelles",2017,2.05769230769231
+"CI","CIV","Côte d’Ivoire","SC","SYC","Seychelles",2017,53.7884615384615
+"CD","COD","Democratic Republic of Congo","SC","SYC","Seychelles",2017,1.40384615384615
+"DJ","DJI","Djibouti","SC","SYC","Seychelles",2017,3.21153846153846
+"EG","EGY","Egypt","SC","SYC","Seychelles",2017,8.05769230769231
+"GQ","GNQ","Equatorial Guinea","SC","SYC","Seychelles",2017,0.269230769230769
+"ER","ERI","Eritrea","SC","SYC","Seychelles",2017,0.480769230769231
+"SZ","SWZ","Eswatini","SC","SYC","Seychelles",2017,1.26923076923077
+"ET","ETH","Ethiopia","SC","SYC","Seychelles",2017,108.576923076923
+"GA","GAB","Gabon","SC","SYC","Seychelles",2017,0.75
+"GM","GMB","Gambia","SC","SYC","Seychelles",2017,0.25
+"GH","GHA","Ghana","SC","SYC","Seychelles",2017,5.25
+"GN","GIN","Guinea","SC","SYC","Seychelles",2017,0.25
+"GW","GNB","Guinea-Bissau","SC","SYC","Seychelles",2017,0.134615384615385
+"KE","KEN","Kenya","SC","SYC","Seychelles",2017,189.942307692308
+"LS","LSO","Lesotho","SC","SYC","Seychelles",2017,0.307692307692308
+"LR","LBR","Liberia","SC","SYC","Seychelles",2017,0.0961538461538462
+"MG","MDG","Madagascar","SC","SYC","Seychelles",2017,76.1538461538462
+"MW","MWI","Malawi","SC","SYC","Seychelles",2017,2.57692307692308
+"ML","MLI","Mali","SC","SYC","Seychelles",2017,0.288461538461538
+"MR","MRT","Mauritania","SC","SYC","Seychelles",2017,0.211538461538462
+"MU","MUS","Mauritius","SC","SYC","Seychelles",2017,206.903846153846
+"MA","MAR","Morocco","SC","SYC","Seychelles",2017,5.96153846153846
+"MZ","MOZ","Mozambique","SC","SYC","Seychelles",2017,2.13461538461538
+"NA","NAM","Namibia","SC","SYC","Seychelles",2017,3.23076923076923
+"NE","NER","Niger","SC","SYC","Seychelles",2017,0.365384615384615
+"NG","NGA","Nigeria","SC","SYC","Seychelles",2017,16.6923076923077
+"RW","RWA","Rwanda","SC","SYC","Seychelles",2017,19.6538461538462
+"ST","STP","São Tomé & Príncipe","SC","SYC","Seychelles",2017,0.173076923076923
+"SN","SEN","Senegal","SC","SYC","Seychelles",2017,21.9038461538462
+"SC","SYC","Seychelles","SC","SYC","Seychelles",2017,4004.51923076923
+"SL","SLE","Sierra Leone","SC","SYC","Seychelles",2017,0.307692307692308
+"SO","SOM","Somalia","SC","SYC","Seychelles",2017,1.15384615384615
+"ZA","ZAF","South Africa","SC","SYC","Seychelles",2017,391.461538461538
+"SS","SSD","South Sudan","SC","SYC","Seychelles",2017,0.711538461538462
+"SD","SDN","Sudan","SC","SYC","Seychelles",2017,11.2884615384615
+"TZ","TZA","Tanzania","SC","SYC","Seychelles",2017,54.7115384615385
+"TG","TGO","Togo","SC","SYC","Seychelles",2017,0.403846153846154
+"TN","TUN","Tunisia","SC","SYC","Seychelles",2017,5.51923076923077
+"UG","UGA","Uganda","SC","SYC","Seychelles",2017,25.6153846153846
+"ZM","ZMB","Zambia","SC","SYC","Seychelles",2017,15.4423076923077
+"ZW","ZWE","Zimbabwe","SC","SYC","Seychelles",2017,11.25
+"DZ","DZA","Algeria","SL","SLE","Sierra Leone",2017,0.75
+"AO","AGO","Angola","SL","SLE","Sierra Leone",2017,1.15384615384615
+"BJ","BEN","Benin","SL","SLE","Sierra Leone",2017,4.34615384615385
+"BW","BWA","Botswana","SL","SLE","Sierra Leone",2017,1.5
+"BF","BFA","Burkina Faso","SL","SLE","Sierra Leone",2017,5.25
+"BI","BDI","Burundi","SL","SLE","Sierra Leone",2017,0.576923076923077
+"CM","CMR","Cameroon","SL","SLE","Sierra Leone",2017,9.34615384615385
+"CV","CPV","Cape Verde","SL","SLE","Sierra Leone",2017,1.71153846153846
+"CF","CAF","Central African Republic","SL","SLE","Sierra Leone",2017,0.826923076923077
+"TD","TCD","Chad","SL","SLE","Sierra Leone",2017,0.769230769230769
+"KM","COM","Comoros","SL","SLE","Sierra Leone",2017,0.0769230769230769
+"CG","COG","Congo","SL","SLE","Sierra Leone",2017,1.51923076923077
+"CI","CIV","Côte d’Ivoire","SL","SLE","Sierra Leone",2017,45.0961538461538
+"CD","COD","Democratic Republic of Congo","SL","SLE","Sierra Leone",2017,4.01923076923077
+"DJ","DJI","Djibouti","SL","SLE","Sierra Leone",2017,0.403846153846154
+"EG","EGY","Egypt","SL","SLE","Sierra Leone",2017,5.76923076923077
+"GQ","GNQ","Equatorial Guinea","SL","SLE","Sierra Leone",2017,0.365384615384615
+"ER","ERI","Eritrea","SL","SLE","Sierra Leone",2017,0.173076923076923
+"SZ","SWZ","Eswatini","SL","SLE","Sierra Leone",2017,0.211538461538462
+"ET","ETH","Ethiopia","SL","SLE","Sierra Leone",2017,15.5576923076923
+"GA","GAB","Gabon","SL","SLE","Sierra Leone",2017,0.557692307692308
+"GM","GMB","Gambia","SL","SLE","Sierra Leone",2017,69
+"GH","GHA","Ghana","SL","SLE","Sierra Leone",2017,254.192307692308
+"GN","GIN","Guinea","SL","SLE","Sierra Leone",2017,18.8653846153846
+"GW","GNB","Guinea-Bissau","SL","SLE","Sierra Leone",2017,0.653846153846154
+"KE","KEN","Kenya","SL","SLE","Sierra Leone",2017,57.7884615384615
+"LS","LSO","Lesotho","SL","SLE","Sierra Leone",2017,0.480769230769231
+"LR","LBR","Liberia","SL","SLE","Sierra Leone",2017,63.5961538461538
+"LY","LBY","Libya","SL","SLE","Sierra Leone",2017,1.44230769230769
+"MG","MDG","Madagascar","SL","SLE","Sierra Leone",2017,0.634615384615385
+"MW","MWI","Malawi","SL","SLE","Sierra Leone",2017,3.78846153846154
+"ML","MLI","Mali","SL","SLE","Sierra Leone",2017,5.01923076923077
+"MR","MRT","Mauritania","SL","SLE","Sierra Leone",2017,10.5961538461538
+"MU","MUS","Mauritius","SL","SLE","Sierra Leone",2017,1.03846153846154
+"MA","MAR","Morocco","SL","SLE","Sierra Leone",2017,53.2115384615385
+"MZ","MOZ","Mozambique","SL","SLE","Sierra Leone",2017,2.92307692307692
+"NA","NAM","Namibia","SL","SLE","Sierra Leone",2017,1.21153846153846
+"NE","NER","Niger","SL","SLE","Sierra Leone",2017,5.19230769230769
+"NG","NGA","Nigeria","SL","SLE","Sierra Leone",2017,100.634615384615
+"RW","RWA","Rwanda","SL","SLE","Sierra Leone",2017,2.98076923076923
+"ST","STP","São Tomé & Príncipe","SL","SLE","Sierra Leone",2017,0.0961538461538462
+"SN","SEN","Senegal","SL","SLE","Sierra Leone",2017,69.0961538461538
+"SC","SYC","Seychelles","SL","SLE","Sierra Leone",2017,0.596153846153846
+"SO","SOM","Somalia","SL","SLE","Sierra Leone",2017,0.173076923076923
+"ZA","ZAF","South Africa","SL","SLE","Sierra Leone",2017,42.2884615384615
+"SS","SSD","South Sudan","SL","SLE","Sierra Leone",2017,2.15384615384615
+"SD","SDN","Sudan","SL","SLE","Sierra Leone",2017,3.96153846153846
+"TZ","TZA","Tanzania","SL","SLE","Sierra Leone",2017,10.8846153846154
+"TG","TGO","Togo","SL","SLE","Sierra Leone",2017,6.48076923076923
+"TN","TUN","Tunisia","SL","SLE","Sierra Leone",2017,5.26923076923077
+"UG","UGA","Uganda","SL","SLE","Sierra Leone",2017,16.0384615384615
+"ZM","ZMB","Zambia","SL","SLE","Sierra Leone",2017,4.05769230769231
+"ZW","ZWE","Zimbabwe","SL","SLE","Sierra Leone",2017,5.42307692307692
+"DZ","DZA","Algeria","SO","SOM","Somalia",2017,0.769230769230769
+"AO","AGO","Angola","SO","SOM","Somalia",2017,0.269230769230769
+"BJ","BEN","Benin","SO","SOM","Somalia",2017,0.0576923076923077
+"BW","BWA","Botswana","SO","SOM","Somalia",2017,0.115384615384615
+"BI","BDI","Burundi","SO","SOM","Somalia",2017,0.538461538461538
+"CM","CMR","Cameroon","SO","SOM","Somalia",2017,0.173076923076923
+"CF","CAF","Central African Republic","SO","SOM","Somalia",2017,0.0961538461538462
+"KM","COM","Comoros","SO","SOM","Somalia",2017,0.0961538461538462
+"CG","COG","Congo","SO","SOM","Somalia",2017,0.0961538461538462
+"CI","CIV","Côte d’Ivoire","SO","SOM","Somalia",2017,1.32692307692308
+"CD","COD","Democratic Republic of Congo","SO","SOM","Somalia",2017,0.576923076923077
+"DJ","DJI","Djibouti","SO","SOM","Somalia",2017,606.096153846154
+"EG","EGY","Egypt","SO","SOM","Somalia",2017,30.1923076923077
+"ER","ERI","Eritrea","SO","SOM","Somalia",2017,0.0769230769230769
+"SZ","SWZ","Eswatini","SO","SOM","Somalia",2017,0.0192307692307692
+"ET","ETH","Ethiopia","SO","SOM","Somalia",2017,267.480769230769
+"GA","GAB","Gabon","SO","SOM","Somalia",2017,0.115384615384615
+"GM","GMB","Gambia","SO","SOM","Somalia",2017,0.0769230769230769
+"GH","GHA","Ghana","SO","SOM","Somalia",2017,0.653846153846154
+"GN","GIN","Guinea","SO","SOM","Somalia",2017,0.0576923076923077
+"KE","KEN","Kenya","SO","SOM","Somalia",2017,1107.05769230769
+"LR","LBR","Liberia","SO","SOM","Somalia",2017,0.269230769230769
+"LY","LBY","Libya","SO","SOM","Somalia",2017,0.0192307692307692
+"MG","MDG","Madagascar","SO","SOM","Somalia",2017,0.269230769230769
+"MW","MWI","Malawi","SO","SOM","Somalia",2017,0.826923076923077
+"ML","MLI","Mali","SO","SOM","Somalia",2017,0.980769230769231
+"MR","MRT","Mauritania","SO","SOM","Somalia",2017,0.461538461538462
+"MU","MUS","Mauritius","SO","SOM","Somalia",2017,0.288461538461538
+"MA","MAR","Morocco","SO","SOM","Somalia",2017,2.25
+"MZ","MOZ","Mozambique","SO","SOM","Somalia",2017,3.84615384615385
+"NA","NAM","Namibia","SO","SOM","Somalia",2017,0.0961538461538462
+"NE","NER","Niger","SO","SOM","Somalia",2017,0.269230769230769
+"NG","NGA","Nigeria","SO","SOM","Somalia",2017,0.480769230769231
+"RW","RWA","Rwanda","SO","SOM","Somalia",2017,7.21153846153846
+"SN","SEN","Senegal","SO","SOM","Somalia",2017,1.51923076923077
+"SC","SYC","Seychelles","SO","SOM","Somalia",2017,0.903846153846154
+"SO","SOM","Somalia","SO","SOM","Somalia",2017,1879
+"ZA","ZAF","South Africa","SO","SOM","Somalia",2017,33.25
+"SS","SSD","South Sudan","SO","SOM","Somalia",2017,2
+"SD","SDN","Sudan","SO","SOM","Somalia",2017,46.3076923076923
+"TZ","TZA","Tanzania","SO","SOM","Somalia",2017,5.34615384615385
+"TG","TGO","Togo","SO","SOM","Somalia",2017,0.211538461538462
+"TN","TUN","Tunisia","SO","SOM","Somalia",2017,1.57692307692308
+"UG","UGA","Uganda","SO","SOM","Somalia",2017,35.6923076923077
+"ZM","ZMB","Zambia","SO","SOM","Somalia",2017,1.84615384615385
+"ZW","ZWE","Zimbabwe","SO","SOM","Somalia",2017,3.25
+"DZ","DZA","Algeria","ZA","ZAF","South Africa",2017,73.0384615384615
+"AO","AGO","Angola","ZA","ZAF","South Africa",2017,2164.38461538462
+"BJ","BEN","Benin","ZA","ZAF","South Africa",2017,87.0961538461538
+"BW","BWA","Botswana","ZA","ZAF","South Africa",2017,3000.76923076923
+"BF","BFA","Burkina Faso","ZA","ZAF","South Africa",2017,65.6538461538462
+"BI","BDI","Burundi","ZA","ZAF","South Africa",2017,69.6153846153846
+"CM","CMR","Cameroon","ZA","ZAF","South Africa",2017,216.480769230769
+"CV","CPV","Cape Verde","ZA","ZAF","South Africa",2017,5.36538461538461
+"CF","CAF","Central African Republic","ZA","ZAF","South Africa",2017,19.4038461538462
+"TD","TCD","Chad","ZA","ZAF","South Africa",2017,46.4038461538462
+"KM","COM","Comoros","ZA","ZAF","South Africa",2017,27.9423076923077
+"CG","COG","Congo","ZA","ZAF","South Africa",2017,270.134615384615
+"CI","CIV","Côte d’Ivoire","ZA","ZAF","South Africa",2017,284.519230769231
+"CD","COD","Democratic Republic of Congo","ZA","ZAF","South Africa",2017,1104.51923076923
+"DJ","DJI","Djibouti","ZA","ZAF","South Africa",2017,35.5576923076923
+"EG","EGY","Egypt","ZA","ZAF","South Africa",2017,472.326923076923
+"GQ","GNQ","Equatorial Guinea","ZA","ZAF","South Africa",2017,25.5769230769231
+"ER","ERI","Eritrea","ZA","ZAF","South Africa",2017,27.2115384615385
+"SZ","SWZ","Eswatini","ZA","ZAF","South Africa",2017,266.442307692308
+"ET","ETH","Ethiopia","ZA","ZAF","South Africa",2017,545.730769230769
+"GA","GAB","Gabon","ZA","ZAF","South Africa",2017,372.173076923077
+"GM","GMB","Gambia","ZA","ZAF","South Africa",2017,18.6538461538462
+"GH","GHA","Ghana","ZA","ZAF","South Africa",2017,983.096153846154
+"GN","GIN","Guinea","ZA","ZAF","South Africa",2017,53.8846153846154
+"GW","GNB","Guinea-Bissau","ZA","ZAF","South Africa",2017,3.61538461538462
+"KE","KEN","Kenya","ZA","ZAF","South Africa",2017,2329.63461538462
+"LS","LSO","Lesotho","ZA","ZAF","South Africa",2017,347.942307692308
+"LR","LBR","Liberia","ZA","ZAF","South Africa",2017,34.5
+"LY","LBY","Libya","ZA","ZAF","South Africa",2017,0.538461538461538
+"MG","MDG","Madagascar","ZA","ZAF","South Africa",2017,299.384615384615
+"MW","MWI","Malawi","ZA","ZAF","South Africa",2017,1782.51923076923
+"ML","MLI","Mali","ZA","ZAF","South Africa",2017,92.75
+"MR","MRT","Mauritania","ZA","ZAF","South Africa",2017,19.3653846153846
+"MU","MUS","Mauritius","ZA","ZAF","South Africa",2017,2937.46153846154
+"MA","MAR","Morocco","ZA","ZAF","South Africa",2017,138.384615384615
+"MZ","MOZ","Mozambique","ZA","ZAF","South Africa",2017,2515.61538461538
+"NA","NAM","Namibia","ZA","ZAF","South Africa",2017,5887.98076923077
+"NE","NER","Niger","ZA","ZAF","South Africa",2017,18.1538461538462
+"NG","NGA","Nigeria","ZA","ZAF","South Africa",2017,1920.34615384615
+"RW","RWA","Rwanda","ZA","ZAF","South Africa",2017,245.173076923077
+"ST","STP","São Tomé & Príncipe","ZA","ZAF","South Africa",2017,14
+"SN","SEN","Senegal","ZA","ZAF","South Africa",2017,374.019230769231
+"SC","SYC","Seychelles","ZA","ZAF","South Africa",2017,370.846153846154
+"SL","SLE","Sierra Leone","ZA","ZAF","South Africa",2017,55.4423076923077
+"SO","SOM","Somalia","ZA","ZAF","South Africa",2017,15.9807692307692
+"ZA","ZAF","South Africa","ZA","ZAF","South Africa",2017,249189.403846154
+"SS","SSD","South Sudan","ZA","ZAF","South Africa",2017,71.5384615384615
+"SD","SDN","Sudan","ZA","ZAF","South Africa",2017,127.403846153846
+"TZ","TZA","Tanzania","ZA","ZAF","South Africa",2017,1908.38461538462
+"TG","TGO","Togo","ZA","ZAF","South Africa",2017,68.2884615384615
+"TN","TUN","Tunisia","ZA","ZAF","South Africa",2017,81.6923076923077
+"UG","UGA","Uganda","ZA","ZAF","South Africa",2017,763.519230769231
+"ZM","ZMB","Zambia","ZA","ZAF","South Africa",2017,3739.86538461538
+"ZW","ZWE","Zimbabwe","ZA","ZAF","South Africa",2017,6086.32692307692
+"DZ","DZA","Algeria","SS","SSD","South Sudan",2017,0.346153846153846
+"AO","AGO","Angola","SS","SSD","South Sudan",2017,0.25
+"BJ","BEN","Benin","SS","SSD","South Sudan",2017,0.326923076923077
+"BW","BWA","Botswana","SS","SSD","South Sudan",2017,1.84615384615385
+"BF","BFA","Burkina Faso","SS","SSD","South Sudan",2017,0.788461538461538
+"BI","BDI","Burundi","SS","SSD","South Sudan",2017,3
+"CM","CMR","Cameroon","SS","SSD","South Sudan",2017,3.78846153846154
+"CV","CPV","Cape Verde","SS","SSD","South Sudan",2017,0.0769230769230769
+"CF","CAF","Central African Republic","SS","SSD","South Sudan",2017,0.692307692307692
+"TD","TCD","Chad","SS","SSD","South Sudan",2017,0.75
+"KM","COM","Comoros","SS","SSD","South Sudan",2017,0.0192307692307692
+"CG","COG","Congo","SS","SSD","South Sudan",2017,1.48076923076923
+"CI","CIV","Côte d’Ivoire","SS","SSD","South Sudan",2017,2.28846153846154
+"CD","COD","Democratic Republic of Congo","SS","SSD","South Sudan",2017,3.09615384615385
+"DJ","DJI","Djibouti","SS","SSD","South Sudan",2017,5.90384615384615
+"EG","EGY","Egypt","SS","SSD","South Sudan",2017,155.692307692308
+"GQ","GNQ","Equatorial Guinea","SS","SSD","South Sudan",2017,0.403846153846154
+"ER","ERI","Eritrea","SS","SSD","South Sudan",2017,12.7307692307692
+"SZ","SWZ","Eswatini","SS","SSD","South Sudan",2017,0.230769230769231
+"ET","ETH","Ethiopia","SS","SSD","South Sudan",2017,182.788461538462
+"GA","GAB","Gabon","SS","SSD","South Sudan",2017,0.461538461538462
+"GM","GMB","Gambia","SS","SSD","South Sudan",2017,0.884615384615385
+"GH","GHA","Ghana","SS","SSD","South Sudan",2017,7.40384615384615
+"GN","GIN","Guinea","SS","SSD","South Sudan",2017,0.192307692307692
+"KE","KEN","Kenya","SS","SSD","South Sudan",2017,866.75
+"LS","LSO","Lesotho","SS","SSD","South Sudan",2017,0.634615384615385
+"LR","LBR","Liberia","SS","SSD","South Sudan",2017,1.55769230769231
+"MG","MDG","Madagascar","SS","SSD","South Sudan",2017,0.75
+"MW","MWI","Malawi","SS","SSD","South Sudan",2017,4.15384615384615
+"ML","MLI","Mali","SS","SSD","South Sudan",2017,0.903846153846154
+"MR","MRT","Mauritania","SS","SSD","South Sudan",2017,0.0576923076923077
+"MU","MUS","Mauritius","SS","SSD","South Sudan",2017,0.615384615384615
+"MA","MAR","Morocco","SS","SSD","South Sudan",2017,6.01923076923077
+"MZ","MOZ","Mozambique","SS","SSD","South Sudan",2017,2.21153846153846
+"NA","NAM","Namibia","SS","SSD","South Sudan",2017,0.884615384615385
+"NE","NER","Niger","SS","SSD","South Sudan",2017,0.538461538461538
+"NG","NGA","Nigeria","SS","SSD","South Sudan",2017,10.5576923076923
+"RW","RWA","Rwanda","SS","SSD","South Sudan",2017,37.3653846153846
+"SN","SEN","Senegal","SS","SSD","South Sudan",2017,3.30769230769231
+"SC","SYC","Seychelles","SS","SSD","South Sudan",2017,0.384615384615385
+"SL","SLE","Sierra Leone","SS","SSD","South Sudan",2017,1.53846153846154
+"SO","SOM","Somalia","SS","SSD","South Sudan",2017,1.80769230769231
+"ZA","ZAF","South Africa","SS","SSD","South Sudan",2017,55.1730769230769
+"SS","SSD","South Sudan","SS","SSD","South Sudan",2017,106.961538461538
+"SD","SDN","Sudan","SS","SSD","South Sudan",2017,469.269230769231
+"TZ","TZA","Tanzania","SS","SSD","South Sudan",2017,40.0192307692308
+"TG","TGO","Togo","SS","SSD","South Sudan",2017,0.192307692307692
+"TN","TUN","Tunisia","SS","SSD","South Sudan",2017,1.03846153846154
+"UG","UGA","Uganda","SS","SSD","South Sudan",2017,567.269230769231
+"ZM","ZMB","Zambia","SS","SSD","South Sudan",2017,6.75
+"ZW","ZWE","Zimbabwe","SS","SSD","South Sudan",2017,17.5192307692308
+"DZ","DZA","Algeria","SD","SDN","Sudan",2017,32.7884615384615
+"AO","AGO","Angola","SD","SDN","Sudan",2017,13.9615384615385
+"BJ","BEN","Benin","SD","SDN","Sudan",2017,3.63461538461538
+"BW","BWA","Botswana","SD","SDN","Sudan",2017,1.92307692307692
+"BF","BFA","Burkina Faso","SD","SDN","Sudan",2017,13.25
+"BI","BDI","Burundi","SD","SDN","Sudan",2017,16.8269230769231
+"CM","CMR","Cameroon","SD","SDN","Sudan",2017,11.5961538461538
+"CV","CPV","Cape Verde","SD","SDN","Sudan",2017,0.0769230769230769
+"CF","CAF","Central African Republic","SD","SDN","Sudan",2017,4.73076923076923
+"TD","TCD","Chad","SD","SDN","Sudan",2017,136.942307692308
+"KM","COM","Comoros","SD","SDN","Sudan",2017,21.7692307692308
+"CG","COG","Congo","SD","SDN","Sudan",2017,19.4230769230769
+"CI","CIV","Côte d’Ivoire","SD","SDN","Sudan",2017,19.8076923076923
+"CD","COD","Democratic Republic of Congo","SD","SDN","Sudan",2017,24.9038461538462
+"DJ","DJI","Djibouti","SD","SDN","Sudan",2017,84.4615384615385
+"EG","EGY","Egypt","SD","SDN","Sudan",2017,3821.96153846154
+"GQ","GNQ","Equatorial Guinea","SD","SDN","Sudan",2017,1.30769230769231
+"ER","ERI","Eritrea","SD","SDN","Sudan",2017,310.096153846154
+"SZ","SWZ","Eswatini","SD","SDN","Sudan",2017,0.538461538461538
+"ET","ETH","Ethiopia","SD","SDN","Sudan",2017,494.038461538462
+"GA","GAB","Gabon","SD","SDN","Sudan",2017,1.19230769230769
+"GM","GMB","Gambia","SD","SDN","Sudan",2017,3.61538461538462
+"GH","GHA","Ghana","SD","SDN","Sudan",2017,44.7115384615385
+"GN","GIN","Guinea","SD","SDN","Sudan",2017,2.55769230769231
+"GW","GNB","Guinea-Bissau","SD","SDN","Sudan",2017,0.211538461538462
+"KE","KEN","Kenya","SD","SDN","Sudan",2017,277.5
+"LS","LSO","Lesotho","SD","SDN","Sudan",2017,0.769230769230769
+"LR","LBR","Liberia","SD","SDN","Sudan",2017,2.21153846153846
+"LY","LBY","Libya","SD","SDN","Sudan",2017,377.5
+"MG","MDG","Madagascar","SD","SDN","Sudan",2017,2.42307692307692
+"MW","MWI","Malawi","SD","SDN","Sudan",2017,15.2692307692308
+"ML","MLI","Mali","SD","SDN","Sudan",2017,8.61538461538461
+"MR","MRT","Mauritania","SD","SDN","Sudan",2017,15.5384615384615
+"MU","MUS","Mauritius","SD","SDN","Sudan",2017,0.884615384615385
+"MA","MAR","Morocco","SD","SDN","Sudan",2017,78.4038461538462
+"MZ","MOZ","Mozambique","SD","SDN","Sudan",2017,10.9038461538462
+"NA","NAM","Namibia","SD","SDN","Sudan",2017,4.11538461538461
+"NE","NER","Niger","SD","SDN","Sudan",2017,11.8269230769231
+"NG","NGA","Nigeria","SD","SDN","Sudan",2017,299.096153846154
+"RW","RWA","Rwanda","SD","SDN","Sudan",2017,41.1923076923077
+"SN","SEN","Senegal","SD","SDN","Sudan",2017,40.5961538461538
+"SC","SYC","Seychelles","SD","SDN","Sudan",2017,10.1153846153846
+"SL","SLE","Sierra Leone","SD","SDN","Sudan",2017,9.28846153846154
+"SO","SOM","Somalia","SD","SDN","Sudan",2017,40.25
+"ZA","ZAF","South Africa","SD","SDN","Sudan",2017,124.5
+"SS","SSD","South Sudan","SD","SDN","Sudan",2017,506.173076923077
+"SD","SDN","Sudan","SD","SDN","Sudan",2017,11642.1923076923
+"TZ","TZA","Tanzania","SD","SDN","Sudan",2017,98.7692307692308
+"TG","TGO","Togo","SD","SDN","Sudan",2017,3.28846153846154
+"TN","TUN","Tunisia","SD","SDN","Sudan",2017,80.5384615384615
+"UG","UGA","Uganda","SD","SDN","Sudan",2017,238.596153846154
+"ZM","ZMB","Zambia","SD","SDN","Sudan",2017,40.4615384615385
+"ZW","ZWE","Zimbabwe","SD","SDN","Sudan",2017,32.5961538461538
+"DZ","DZA","Algeria","TZ","TZA","Tanzania",2017,15.7115384615385
+"AO","AGO","Angola","TZ","TZA","Tanzania",2017,31.5192307692308
+"BJ","BEN","Benin","TZ","TZA","Tanzania",2017,9.53846153846154
+"BW","BWA","Botswana","TZ","TZA","Tanzania",2017,58.8076923076923
+"BF","BFA","Burkina Faso","TZ","TZA","Tanzania",2017,10.2307692307692
+"BI","BDI","Burundi","TZ","TZA","Tanzania",2017,128.711538461538
+"CM","CMR","Cameroon","TZ","TZA","Tanzania",2017,45.3461538461538
+"CV","CPV","Cape Verde","TZ","TZA","Tanzania",2017,0.153846153846154
+"CF","CAF","Central African Republic","TZ","TZA","Tanzania",2017,3.51923076923077
+"TD","TCD","Chad","TZ","TZA","Tanzania",2017,9.13461538461539
+"KM","COM","Comoros","TZ","TZA","Tanzania",2017,448.192307692308
+"CG","COG","Congo","TZ","TZA","Tanzania",2017,19.9230769230769
+"CI","CIV","Côte d’Ivoire","TZ","TZA","Tanzania",2017,45.5
+"CD","COD","Democratic Republic of Congo","TZ","TZA","Tanzania",2017,119.096153846154
+"DJ","DJI","Djibouti","TZ","TZA","Tanzania",2017,32.8269230769231
+"EG","EGY","Egypt","TZ","TZA","Tanzania",2017,178.307692307692
+"GQ","GNQ","Equatorial Guinea","TZ","TZA","Tanzania",2017,1.23076923076923
+"ER","ERI","Eritrea","TZ","TZA","Tanzania",2017,3.98076923076923
+"SZ","SWZ","Eswatini","TZ","TZA","Tanzania",2017,12.2884615384615
+"ET","ETH","Ethiopia","TZ","TZA","Tanzania",2017,483.057692307692
+"GA","GAB","Gabon","TZ","TZA","Tanzania",2017,12.0192307692308
+"GM","GMB","Gambia","TZ","TZA","Tanzania",2017,4.75
+"GH","GHA","Ghana","TZ","TZA","Tanzania",2017,79.5961538461538
+"GN","GIN","Guinea","TZ","TZA","Tanzania",2017,4.61538461538461
+"GW","GNB","Guinea-Bissau","TZ","TZA","Tanzania",2017,0.634615384615385
+"KE","KEN","Kenya","TZ","TZA","Tanzania",2017,2915.07692307692
+"LS","LSO","Lesotho","TZ","TZA","Tanzania",2017,11.7115384615385
+"LR","LBR","Liberia","TZ","TZA","Tanzania",2017,5.30769230769231
+"LY","LBY","Libya","TZ","TZA","Tanzania",2017,0.211538461538462
+"MG","MDG","Madagascar","TZ","TZA","Tanzania",2017,41
+"MW","MWI","Malawi","TZ","TZA","Tanzania",2017,321.173076923077
+"ML","MLI","Mali","TZ","TZA","Tanzania",2017,31.0192307692308
+"MR","MRT","Mauritania","TZ","TZA","Tanzania",2017,1.51923076923077
+"MU","MUS","Mauritius","TZ","TZA","Tanzania",2017,40.4807692307692
+"MA","MAR","Morocco","TZ","TZA","Tanzania",2017,22.8846153846154
+"MZ","MOZ","Mozambique","TZ","TZA","Tanzania",2017,198.596153846154
+"NA","NAM","Namibia","TZ","TZA","Tanzania",2017,37.2692307692308
+"NE","NER","Niger","TZ","TZA","Tanzania",2017,3.05769230769231
+"NG","NGA","Nigeria","TZ","TZA","Tanzania",2017,167.057692307692
+"RW","RWA","Rwanda","TZ","TZA","Tanzania",2017,460.769230769231
+"ST","STP","São Tomé & Príncipe","TZ","TZA","Tanzania",2017,0.0769230769230769
+"SN","SEN","Senegal","TZ","TZA","Tanzania",2017,57.6153846153846
+"SC","SYC","Seychelles","TZ","TZA","Tanzania",2017,37.6730769230769
+"SL","SLE","Sierra Leone","TZ","TZA","Tanzania",2017,9.82692307692308
+"SO","SOM","Somalia","TZ","TZA","Tanzania",2017,4.67307692307692
+"ZA","ZAF","South Africa","TZ","TZA","Tanzania",2017,1913.63461538462
+"SS","SSD","South Sudan","TZ","TZA","Tanzania",2017,29.3653846153846
+"SD","SDN","Sudan","TZ","TZA","Tanzania",2017,94.0769230769231
+"TZ","TZA","Tanzania","TZ","TZA","Tanzania",2017,25639.5576923077
+"TG","TGO","Togo","TZ","TZA","Tanzania",2017,4.78846153846154
+"TN","TUN","Tunisia","TZ","TZA","Tanzania",2017,16.9423076923077
+"UG","UGA","Uganda","TZ","TZA","Tanzania",2017,684.423076923077
+"ZM","ZMB","Zambia","TZ","TZA","Tanzania",2017,350.365384615385
+"ZW","ZWE","Zimbabwe","TZ","TZA","Tanzania",2017,323.461538461538
+"DZ","DZA","Algeria","TG","TGO","Togo",2017,4.01923076923077
+"AO","AGO","Angola","TG","TGO","Togo",2017,3.09615384615385
+"BJ","BEN","Benin","TG","TGO","Togo",2017,69.8076923076923
+"BW","BWA","Botswana","TG","TGO","Togo",2017,0.788461538461538
+"BF","BFA","Burkina Faso","TG","TGO","Togo",2017,126.826923076923
+"BI","BDI","Burundi","TG","TGO","Togo",2017,4.78846153846154
+"CM","CMR","Cameroon","TG","TGO","Togo",2017,85.5384615384615
+"CV","CPV","Cape Verde","TG","TGO","Togo",2017,1.63461538461538
+"CF","CAF","Central African Republic","TG","TGO","Togo",2017,14.9230769230769
+"TD","TCD","Chad","TG","TGO","Togo",2017,27.1153846153846
+"KM","COM","Comoros","TG","TGO","Togo",2017,1.01923076923077
+"CG","COG","Congo","TG","TGO","Togo",2017,36.4807692307692
+"CI","CIV","Côte d’Ivoire","TG","TGO","Togo",2017,352.057692307692
+"CD","COD","Democratic Republic of Congo","TG","TGO","Togo",2017,21.8076923076923
+"DJ","DJI","Djibouti","TG","TGO","Togo",2017,1.48076923076923
+"EG","EGY","Egypt","TG","TGO","Togo",2017,9.94230769230769
+"GQ","GNQ","Equatorial Guinea","TG","TGO","Togo",2017,86.75
+"ER","ERI","Eritrea","TG","TGO","Togo",2017,0.192307692307692
+"SZ","SWZ","Eswatini","TG","TGO","Togo",2017,0.0384615384615385
+"ET","ETH","Ethiopia","TG","TGO","Togo",2017,33.7115384615385
+"GA","GAB","Gabon","TG","TGO","Togo",2017,84.8076923076923
+"GM","GMB","Gambia","TG","TGO","Togo",2017,7.23076923076923
+"GH","GHA","Ghana","TG","TGO","Togo",2017,43.3076923076923
+"GN","GIN","Guinea","TG","TGO","Togo",2017,35.0192307692308
+"GW","GNB","Guinea-Bissau","TG","TGO","Togo",2017,25.25
+"KE","KEN","Kenya","TG","TGO","Togo",2017,19.9230769230769
+"LS","LSO","Lesotho","TG","TGO","Togo",2017,0.384615384615385
+"LR","LBR","Liberia","TG","TGO","Togo",2017,7.07692307692308
+"LY","LBY","Libya","TG","TGO","Togo",2017,20.3653846153846
+"MG","MDG","Madagascar","TG","TGO","Togo",2017,3.40384615384615
+"MW","MWI","Malawi","TG","TGO","Togo",2017,1.46153846153846
+"ML","MLI","Mali","TG","TGO","Togo",2017,72.5961538461538
+"MR","MRT","Mauritania","TG","TGO","Togo",2017,4.09615384615385
+"MU","MUS","Mauritius","TG","TGO","Togo",2017,1
+"MA","MAR","Morocco","TG","TGO","Togo",2017,82.3846153846154
+"MZ","MOZ","Mozambique","TG","TGO","Togo",2017,1.69230769230769
+"NA","NAM","Namibia","TG","TGO","Togo",2017,0.634615384615385
+"NE","NER","Niger","TG","TGO","Togo",2017,62.1538461538462
+"NG","NGA","Nigeria","TG","TGO","Togo",2017,181.653846153846
+"RW","RWA","Rwanda","TG","TGO","Togo",2017,10.4038461538462
+"ST","STP","São Tomé & Príncipe","TG","TGO","Togo",2017,1.5
+"SN","SEN","Senegal","TG","TGO","Togo",2017,144.461538461538
+"SC","SYC","Seychelles","TG","TGO","Togo",2017,0.192307692307692
+"SL","SLE","Sierra Leone","TG","TGO","Togo",2017,7.55769230769231
+"SO","SOM","Somalia","TG","TGO","Togo",2017,0.0384615384615385
+"ZA","ZAF","South Africa","TG","TGO","Togo",2017,70.1346153846154
+"SS","SSD","South Sudan","TG","TGO","Togo",2017,0.307692307692308
+"SD","SDN","Sudan","TG","TGO","Togo",2017,3.57692307692308
+"TZ","TZA","Tanzania","TG","TGO","Togo",2017,5.76923076923077
+"TN","TUN","Tunisia","TG","TGO","Togo",2017,14.75
+"UG","UGA","Uganda","TG","TGO","Togo",2017,5.88461538461539
+"ZM","ZMB","Zambia","TG","TGO","Togo",2017,2.78846153846154
+"ZW","ZWE","Zimbabwe","TG","TGO","Togo",2017,2.21153846153846
+"DZ","DZA","Algeria","TN","TUN","Tunisia",2017,2803.46153846154
+"AO","AGO","Angola","TN","TUN","Tunisia",2017,17.7884615384615
+"BJ","BEN","Benin","TN","TUN","Tunisia",2017,21.8076923076923
+"BW","BWA","Botswana","TN","TUN","Tunisia",2017,1.65384615384615
+"BF","BFA","Burkina Faso","TN","TUN","Tunisia",2017,77.2884615384615
+"BI","BDI","Burundi","TN","TUN","Tunisia",2017,6.73076923076923
+"CM","CMR","Cameroon","TN","TUN","Tunisia",2017,66.7307692307692
+"CV","CPV","Cape Verde","TN","TUN","Tunisia",2017,2.76923076923077
+"CF","CAF","Central African Republic","TN","TUN","Tunisia",2017,4.13461538461539
+"TD","TCD","Chad","TN","TUN","Tunisia",2017,44.6346153846154
+"KM","COM","Comoros","TN","TUN","Tunisia",2017,1.21153846153846
+"CG","COG","Congo","TN","TUN","Tunisia",2017,35.5769230769231
+"CI","CIV","Côte d’Ivoire","TN","TUN","Tunisia",2017,284.5
+"CD","COD","Democratic Republic of Congo","TN","TUN","Tunisia",2017,52.9423076923077
+"DJ","DJI","Djibouti","TN","TUN","Tunisia",2017,18.0384615384615
+"EG","EGY","Egypt","TN","TUN","Tunisia",2017,784.923076923077
+"GQ","GNQ","Equatorial Guinea","TN","TUN","Tunisia",2017,3.69230769230769
+"ER","ERI","Eritrea","TN","TUN","Tunisia",2017,4.36538461538461
+"SZ","SWZ","Eswatini","TN","TUN","Tunisia",2017,0.0576923076923077
+"ET","ETH","Ethiopia","TN","TUN","Tunisia",2017,23.8653846153846
+"GA","GAB","Gabon","TN","TUN","Tunisia",2017,46.5576923076923
+"GM","GMB","Gambia","TN","TUN","Tunisia",2017,7.82692307692308
+"GH","GHA","Ghana","TN","TUN","Tunisia",2017,23.2692307692308
+"GN","GIN","Guinea","TN","TUN","Tunisia",2017,40.6538461538462
+"GW","GNB","Guinea-Bissau","TN","TUN","Tunisia",2017,4.94230769230769
+"KE","KEN","Kenya","TN","TUN","Tunisia",2017,40.2115384615385
+"LS","LSO","Lesotho","TN","TUN","Tunisia",2017,0.442307692307692
+"LR","LBR","Liberia","TN","TUN","Tunisia",2017,3.40384615384615
+"LY","LBY","Libya","TN","TUN","Tunisia",2017,7143.34615384615
+"MG","MDG","Madagascar","TN","TUN","Tunisia",2017,10.2692307692308
+"MW","MWI","Malawi","TN","TUN","Tunisia",2017,0.942307692307692
+"ML","MLI","Mali","TN","TUN","Tunisia",2017,185.461538461538
+"MR","MRT","Mauritania","TN","TUN","Tunisia",2017,393.096153846154
+"MU","MUS","Mauritius","TN","TUN","Tunisia",2017,17.8461538461538
+"MA","MAR","Morocco","TN","TUN","Tunisia",2017,1851.86538461538
+"MZ","MOZ","Mozambique","TN","TUN","Tunisia",2017,3.75
+"NA","NAM","Namibia","TN","TUN","Tunisia",2017,4.03846153846154
+"NE","NER","Niger","TN","TUN","Tunisia",2017,161.903846153846
+"NG","NGA","Nigeria","TN","TUN","Tunisia",2017,26.3076923076923
+"RW","RWA","Rwanda","TN","TUN","Tunisia",2017,10.2692307692308
+"ST","STP","São Tomé & Príncipe","TN","TUN","Tunisia",2017,0.153846153846154
+"SN","SEN","Senegal","TN","TUN","Tunisia",2017,143.096153846154
+"SC","SYC","Seychelles","TN","TUN","Tunisia",2017,14.9230769230769
+"SL","SLE","Sierra Leone","TN","TUN","Tunisia",2017,4.42307692307692
+"SO","SOM","Somalia","TN","TUN","Tunisia",2017,1.23076923076923
+"ZA","ZAF","South Africa","TN","TUN","Tunisia",2017,80.9615384615385
+"SS","SSD","South Sudan","TN","TUN","Tunisia",2017,0.711538461538462
+"SD","SDN","Sudan","TN","TUN","Tunisia",2017,82.6923076923077
+"TZ","TZA","Tanzania","TN","TUN","Tunisia",2017,11.8846153846154
+"TG","TGO","Togo","TN","TUN","Tunisia",2017,17.7307692307692
+"TN","TUN","Tunisia","TN","TUN","Tunisia",2017,2501.76923076923
+"UG","UGA","Uganda","TN","TUN","Tunisia",2017,11.5384615384615
+"ZM","ZMB","Zambia","TN","TUN","Tunisia",2017,3.88461538461538
+"ZW","ZWE","Zimbabwe","TN","TUN","Tunisia",2017,32.8269230769231
+"DZ","DZA","Algeria","UG","UGA","Uganda",2017,8.25
+"AO","AGO","Angola","UG","UGA","Uganda",2017,16.1346153846154
+"BJ","BEN","Benin","UG","UGA","Uganda",2017,13.1538461538462
+"BW","BWA","Botswana","UG","UGA","Uganda",2017,31.4038461538462
+"BF","BFA","Burkina Faso","UG","UGA","Uganda",2017,12.2115384615385
+"BI","BDI","Burundi","UG","UGA","Uganda",2017,102.230769230769
+"CM","CMR","Cameroon","UG","UGA","Uganda",2017,34.4038461538462
+"CV","CPV","Cape Verde","UG","UGA","Uganda",2017,0.596153846153846
+"CF","CAF","Central African Republic","UG","UGA","Uganda",2017,30.9230769230769
+"TD","TCD","Chad","UG","UGA","Uganda",2017,13.8653846153846
+"KM","COM","Comoros","UG","UGA","Uganda",2017,9.51923076923077
+"CG","COG","Congo","UG","UGA","Uganda",2017,16.5576923076923
+"CI","CIV","Côte d’Ivoire","UG","UGA","Uganda",2017,35.6538461538462
+"CD","COD","Democratic Republic of Congo","UG","UGA","Uganda",2017,107.480769230769
+"DJ","DJI","Djibouti","UG","UGA","Uganda",2017,53.5961538461538
+"EG","EGY","Egypt","UG","UGA","Uganda",2017,99.1346153846154
+"GQ","GNQ","Equatorial Guinea","UG","UGA","Uganda",2017,3.17307692307692
+"ER","ERI","Eritrea","UG","UGA","Uganda",2017,26.0192307692308
+"SZ","SWZ","Eswatini","UG","UGA","Uganda",2017,10.1538461538462
+"ET","ETH","Ethiopia","UG","UGA","Uganda",2017,409.365384615385
+"GA","GAB","Gabon","UG","UGA","Uganda",2017,11.5384615384615
+"GM","GMB","Gambia","UG","UGA","Uganda",2017,6.61538461538461
+"GH","GHA","Ghana","UG","UGA","Uganda",2017,87.3269230769231
+"GN","GIN","Guinea","UG","UGA","Uganda",2017,5.75
+"GW","GNB","Guinea-Bissau","UG","UGA","Uganda",2017,0.826923076923077
+"KE","KEN","Kenya","UG","UGA","Uganda",2017,2488.59615384615
+"LS","LSO","Lesotho","UG","UGA","Uganda",2017,9.40384615384615
+"LR","LBR","Liberia","UG","UGA","Uganda",2017,15.1538461538462
+"LY","LBY","Libya","UG","UGA","Uganda",2017,0.25
+"MG","MDG","Madagascar","UG","UGA","Uganda",2017,18
+"MW","MWI","Malawi","UG","UGA","Uganda",2017,59.7115384615385
+"ML","MLI","Mali","UG","UGA","Uganda",2017,24.4807692307692
+"MR","MRT","Mauritania","UG","UGA","Uganda",2017,1.03846153846154
+"MU","MUS","Mauritius","UG","UGA","Uganda",2017,13.25
+"MA","MAR","Morocco","UG","UGA","Uganda",2017,15
+"MZ","MOZ","Mozambique","UG","UGA","Uganda",2017,37.6346153846154
+"NA","NAM","Namibia","UG","UGA","Uganda",2017,20.0769230769231
+"NE","NER","Niger","UG","UGA","Uganda",2017,9.13461538461539
+"NG","NGA","Nigeria","UG","UGA","Uganda",2017,144.769230769231
+"RW","RWA","Rwanda","UG","UGA","Uganda",2017,506.653846153846
+"ST","STP","São Tomé & Príncipe","UG","UGA","Uganda",2017,0.192307692307692
+"SN","SEN","Senegal","UG","UGA","Uganda",2017,42.3846153846154
+"SC","SYC","Seychelles","UG","UGA","Uganda",2017,21.2115384615385
+"SL","SLE","Sierra Leone","UG","UGA","Uganda",2017,19.2692307692308
+"SO","SOM","Somalia","UG","UGA","Uganda",2017,40.6153846153846
+"ZA","ZAF","South Africa","UG","UGA","Uganda",2017,757.711538461538
+"SS","SSD","South Sudan","UG","UGA","Uganda",2017,555.480769230769
+"SD","SDN","Sudan","UG","UGA","Uganda",2017,248.519230769231
+"TZ","TZA","Tanzania","UG","UGA","Uganda",2017,730.057692307692
+"TG","TGO","Togo","UG","UGA","Uganda",2017,6.25
+"TN","TUN","Tunisia","UG","UGA","Uganda",2017,19.9423076923077
+"UG","UGA","Uganda","UG","UGA","Uganda",2017,420.673076923077
+"ZM","ZMB","Zambia","UG","UGA","Uganda",2017,120.365384615385
+"ZW","ZWE","Zimbabwe","UG","UGA","Uganda",2017,79.2307692307692
+"DZ","DZA","Algeria","ZM","ZMB","Zambia",2017,4.53846153846154
+"AO","AGO","Angola","ZM","ZMB","Zambia",2017,105.576923076923
+"BJ","BEN","Benin","ZM","ZMB","Zambia",2017,8.48076923076923
+"BW","BWA","Botswana","ZM","ZMB","Zambia",2017,91.1538461538462
+"BF","BFA","Burkina Faso","ZM","ZMB","Zambia",2017,5.48076923076923
+"BI","BDI","Burundi","ZM","ZMB","Zambia",2017,32.5
+"CM","CMR","Cameroon","ZM","ZMB","Zambia",2017,21.9423076923077
+"CV","CPV","Cape Verde","ZM","ZMB","Zambia",2017,0.153846153846154
+"CF","CAF","Central African Republic","ZM","ZMB","Zambia",2017,3.90384615384615
+"TD","TCD","Chad","ZM","ZMB","Zambia",2017,0.884615384615385
+"KM","COM","Comoros","ZM","ZMB","Zambia",2017,5.61538461538461
+"CG","COG","Congo","ZM","ZMB","Zambia",2017,10.3846153846154
+"CI","CIV","Côte d’Ivoire","ZM","ZMB","Zambia",2017,22.9807692307692
+"CD","COD","Democratic Republic of Congo","ZM","ZMB","Zambia",2017,61.8653846153846
+"DJ","DJI","Djibouti","ZM","ZMB","Zambia",2017,12.8846153846154
+"EG","EGY","Egypt","ZM","ZMB","Zambia",2017,44.4423076923077
+"GQ","GNQ","Equatorial Guinea","ZM","ZMB","Zambia",2017,1.48076923076923
+"ER","ERI","Eritrea","ZM","ZMB","Zambia",2017,2.28846153846154
+"SZ","SWZ","Eswatini","ZM","ZMB","Zambia",2017,16.4423076923077
+"ET","ETH","Ethiopia","ZM","ZMB","Zambia",2017,155.5
+"GA","GAB","Gabon","ZM","ZMB","Zambia",2017,11.25
+"GM","GMB","Gambia","ZM","ZMB","Zambia",2017,1.75
+"GH","GHA","Ghana","ZM","ZMB","Zambia",2017,60.5576923076923
+"GN","GIN","Guinea","ZM","ZMB","Zambia",2017,2.69230769230769
+"GW","GNB","Guinea-Bissau","ZM","ZMB","Zambia",2017,0.173076923076923
+"KE","KEN","Kenya","ZM","ZMB","Zambia",2017,459.038461538462
+"LS","LSO","Lesotho","ZM","ZMB","Zambia",2017,17.8461538461538
+"LR","LBR","Liberia","ZM","ZMB","Zambia",2017,2.65384615384615
+"LY","LBY","Libya","ZM","ZMB","Zambia",2017,0.0576923076923077
+"MG","MDG","Madagascar","ZM","ZMB","Zambia",2017,17.7307692307692
+"MW","MWI","Malawi","ZM","ZMB","Zambia",2017,411.173076923077
+"ML","MLI","Mali","ZM","ZMB","Zambia",2017,7.48076923076923
+"MR","MRT","Mauritania","ZM","ZMB","Zambia",2017,2.17307692307692
+"MU","MUS","Mauritius","ZM","ZMB","Zambia",2017,24.5
+"MA","MAR","Morocco","ZM","ZMB","Zambia",2017,8.25
+"MZ","MOZ","Mozambique","ZM","ZMB","Zambia",2017,92.0576923076923
+"NA","NAM","Namibia","ZM","ZMB","Zambia",2017,160.269230769231
+"NE","NER","Niger","ZM","ZMB","Zambia",2017,2.84615384615385
+"NG","NGA","Nigeria","ZM","ZMB","Zambia",2017,87.8461538461538
+"RW","RWA","Rwanda","ZM","ZMB","Zambia",2017,103.346153846154
+"ST","STP","São Tomé & Príncipe","ZM","ZMB","Zambia",2017,0.461538461538462
+"SN","SEN","Senegal","ZM","ZMB","Zambia",2017,17.6923076923077
+"SC","SYC","Seychelles","ZM","ZMB","Zambia",2017,18.8461538461538
+"SL","SLE","Sierra Leone","ZM","ZMB","Zambia",2017,4.80769230769231
+"SO","SOM","Somalia","ZM","ZMB","Zambia",2017,2.65384615384615
+"ZA","ZAF","South Africa","ZM","ZMB","Zambia",2017,3796.03846153846
+"SS","SSD","South Sudan","ZM","ZMB","Zambia",2017,5.53846153846154
+"SD","SDN","Sudan","ZM","ZMB","Zambia",2017,39.3653846153846
+"TZ","TZA","Tanzania","ZM","ZMB","Zambia",2017,329.826923076923
+"TG","TGO","Togo","ZM","ZMB","Zambia",2017,2.75
+"TN","TUN","Tunisia","ZM","ZMB","Zambia",2017,4.44230769230769
+"UG","UGA","Uganda","ZM","ZMB","Zambia",2017,130.769230769231
+"ZM","ZMB","Zambia","ZM","ZMB","Zambia",2017,2051.13461538462
+"ZW","ZWE","Zimbabwe","ZM","ZMB","Zambia",2017,663.461538461538
+"DZ","DZA","Algeria","ZW","ZWE","Zimbabwe",2017,6.42307692307692
+"AO","AGO","Angola","ZW","ZWE","Zimbabwe",2017,82.8269230769231
+"BJ","BEN","Benin","ZW","ZWE","Zimbabwe",2017,3.30769230769231
+"BW","BWA","Botswana","ZW","ZWE","Zimbabwe",2017,126
+"BF","BFA","Burkina Faso","ZW","ZWE","Zimbabwe",2017,2.38461538461538
+"BI","BDI","Burundi","ZW","ZWE","Zimbabwe",2017,12.5961538461538
+"CM","CMR","Cameroon","ZW","ZWE","Zimbabwe",2017,18.7115384615385
+"CV","CPV","Cape Verde","ZW","ZWE","Zimbabwe",2017,0.173076923076923
+"CF","CAF","Central African Republic","ZW","ZWE","Zimbabwe",2017,1.13461538461538
+"TD","TCD","Chad","ZW","ZWE","Zimbabwe",2017,1.03846153846154
+"KM","COM","Comoros","ZW","ZWE","Zimbabwe",2017,1.5
+"CG","COG","Congo","ZW","ZWE","Zimbabwe",2017,15.9615384615385
+"CI","CIV","Côte d’Ivoire","ZW","ZWE","Zimbabwe",2017,17.8076923076923
+"CD","COD","Democratic Republic of Congo","ZW","ZWE","Zimbabwe",2017,37.5
+"DJ","DJI","Djibouti","ZW","ZWE","Zimbabwe",2017,1.96153846153846
+"EG","EGY","Egypt","ZW","ZWE","Zimbabwe",2017,32.9038461538462
+"GQ","GNQ","Equatorial Guinea","ZW","ZWE","Zimbabwe",2017,1.07692307692308
+"ER","ERI","Eritrea","ZW","ZWE","Zimbabwe",2017,3.80769230769231
+"SZ","SWZ","Eswatini","ZW","ZWE","Zimbabwe",2017,21.3846153846154
+"ET","ETH","Ethiopia","ZW","ZWE","Zimbabwe",2017,135.096153846154
+"GA","GAB","Gabon","ZW","ZWE","Zimbabwe",2017,9.65384615384615
+"GM","GMB","Gambia","ZW","ZWE","Zimbabwe",2017,2.21153846153846
+"GH","GHA","Ghana","ZW","ZWE","Zimbabwe",2017,42.9615384615385
+"GN","GIN","Guinea","ZW","ZWE","Zimbabwe",2017,1.65384615384615
+"GW","GNB","Guinea-Bissau","ZW","ZWE","Zimbabwe",2017,0.211538461538462
+"KE","KEN","Kenya","ZW","ZWE","Zimbabwe",2017,331.5
+"LS","LSO","Lesotho","ZW","ZWE","Zimbabwe",2017,20.4615384615385
+"LR","LBR","Liberia","ZW","ZWE","Zimbabwe",2017,3.57692307692308
+"LY","LBY","Libya","ZW","ZWE","Zimbabwe",2017,0.0192307692307692
+"MG","MDG","Madagascar","ZW","ZWE","Zimbabwe",2017,12.9038461538462
+"MW","MWI","Malawi","ZW","ZWE","Zimbabwe",2017,223.346153846154
+"ML","MLI","Mali","ZW","ZWE","Zimbabwe",2017,8.86538461538461
+"MR","MRT","Mauritania","ZW","ZWE","Zimbabwe",2017,0.692307692307692
+"MU","MUS","Mauritius","ZW","ZWE","Zimbabwe",2017,27.0769230769231
+"MA","MAR","Morocco","ZW","ZWE","Zimbabwe",2017,5.21153846153846
+"MZ","MOZ","Mozambique","ZW","ZWE","Zimbabwe",2017,154.730769230769
+"NA","NAM","Namibia","ZW","ZWE","Zimbabwe",2017,240.115384615385
+"NE","NER","Niger","ZW","ZWE","Zimbabwe",2017,1.48076923076923
+"NG","NGA","Nigeria","ZW","ZWE","Zimbabwe",2017,55.7307692307692
+"RW","RWA","Rwanda","ZW","ZWE","Zimbabwe",2017,61.0961538461538
+"ST","STP","São Tomé & Príncipe","ZW","ZWE","Zimbabwe",2017,0.0961538461538462
+"SN","SEN","Senegal","ZW","ZWE","Zimbabwe",2017,12.4615384615385
+"SC","SYC","Seychelles","ZW","ZWE","Zimbabwe",2017,8.25
+"SL","SLE","Sierra Leone","ZW","ZWE","Zimbabwe",2017,5.75
+"SO","SOM","Somalia","ZW","ZWE","Zimbabwe",2017,3.15384615384615
+"ZA","ZAF","South Africa","ZW","ZWE","Zimbabwe",2017,6318.51923076923
+"SS","SSD","South Sudan","ZW","ZWE","Zimbabwe",2017,20.1346153846154
+"SD","SDN","Sudan","ZW","ZWE","Zimbabwe",2017,33.8461538461538
+"TZ","TZA","Tanzania","ZW","ZWE","Zimbabwe",2017,318.615384615385
+"TG","TGO","Togo","ZW","ZWE","Zimbabwe",2017,1.94230769230769
+"TN","TUN","Tunisia","ZW","ZWE","Zimbabwe",2017,5.75
+"UG","UGA","Uganda","ZW","ZWE","Zimbabwe",2017,91.5192307692308
+"ZM","ZMB","Zambia","ZW","ZWE","Zimbabwe",2017,683.634615384615
+"ZW","ZWE","Zimbabwe","ZW","ZWE","Zimbabwe",2017,3839

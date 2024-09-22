@@ -1,0 +1,18 @@
+"region","country","iso_code","cases_total","cases_imported","deaths_total","cfr","year"
+"AFRO","Benin","BEN",433,0,2,0.005,2022
+"AFRO","Burkina Faso","BFA",4,0,0,0,2022
+"AFRO","Burundi","BDI",25,0,0,0,2022
+"AFRO","Cameroon","CMR",14431,15,279,0.019,2022
+"AFRO","Democratic Republic of Congo","COD",18961,0,298,0.016,2022
+"AFRO","Ethiopia","ETH",846,0,27,0.032,2022
+"AFRO","Kenya","KEN",3525,0,64,0.018,2022
+"AFRO","Liberia","LBR",367,0,0,0,2022
+"AFRO","Malawi","MWI",17488,186,576,0.033,2022
+"AFRO","Mozambique","MOZ",4378,NA,22,0.005,2022
+"AFRO","Nigeria","NGA",23839,0,597,0.025,2022
+"AFRO","Rwanda","RWA",24,0,0,0,2022
+"AFRO","Somalia","SOM",15653,0,88,0.006,2022
+"AFRO","South Africa","ZAF",1,0,0,0,2022
+"AFRO","South Sudan","SSD",424,0,1,0.002,2022
+"AFRO","Zambia","ZMB",34,0,0,0,2022
+"AFRO","Zimbabwe","ZWE",4,1,1,0.25,2022
