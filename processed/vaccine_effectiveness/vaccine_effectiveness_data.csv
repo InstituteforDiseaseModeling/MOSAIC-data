@@ -1,0 +1,6 @@
+"day","effectiveness","effectiveness_hi","effectiveness_lo","day_min","day_max","source"
+60,0.873,0.99,0.702,NA,NA,"Azman et al (2016)"
+93.5,0.4,0.6,0.11,7,180,"Qadri et al (2016)"
+368.5,0.39,0.52,0.23,7,730,"Qadri et al (2018)"
+435,0.527,0.674,0.314,360,510,"Malembaka et al (2024)"
+900,0.447,0.594,0.248,720,1080,"Malembaka et al (2024)"

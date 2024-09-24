@@ -1,0 +1,4 @@
+"day","effectiveness","effectiveness_hi","effectiveness_lo","source"
+90,0.95,0.95,0.95,"Assumption"
+1080,0.65,0.81,0.37,"Ali et al (2011)"
+1260,0.61,0.81,0.21,"Clemens et al (1991)"
