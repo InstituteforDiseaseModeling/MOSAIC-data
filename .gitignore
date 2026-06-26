@@ -1,3 +1,6 @@
 **.DS_Store
 raw/
 README.html
+
+# Regenerable raw per-country climate intermediates (rebuilt by process_open_meteo_data); keep weekly parquets only
+processed/climate/climate_data_*
