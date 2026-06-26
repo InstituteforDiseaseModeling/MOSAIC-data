@@ -4,3 +4,10 @@ README.html
 
 # Regenerable raw per-country climate intermediates (rebuilt by process_open_meteo_data); keep weekly parquets only
 processed/climate/climate_data_*
+
+# Regenerable derived artifacts (rebuilt by compile_suitability_data / downscale / process_*)
+*suitability_data.csv
+*_daily_combined.csv
+UN_world_population_prospects_daily.csv
+processed/climate/daily/
+processed/DEM/
