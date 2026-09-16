@@ -13,7 +13,9 @@ MOSAIC-data/
 │   ├── climate/          # Processed climate data
 │   ├── demographics/     # Processed demographic data
 │   ├── elevation/        # Processed elevation data
+│   ├── EMDAT/weekly/     # EM-DAT hazard events -> country-week panels (flood, cyclone)
 │   ├── ENSO/             # Processed ENSO data (climate oscillations)
+│   ├── IDMC/weekly/      # IDMC displacement events -> country-week panels (conflict, disaster)
 │   ├── OAG/              # Processed flight mobility data
 │   ├── shapefiles/       # Processed shapefiles for geographical regions
 │   ├── WASH/             # Processed Water, Sanitation, and Hygiene (WASH) data
