@@ -12,3 +12,6 @@ processed/climate/climate_data_*
 UN_world_population_prospects_daily.csv
 processed/climate/daily/
 processed/DEM/
+
+# Frozen suitability panels (>100 MB; regenerable by compile_suitability_data)
+*_suitability_data_frozen_*.csv
