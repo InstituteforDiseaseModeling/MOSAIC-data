@@ -5725,8 +5725,8 @@
 "BDI",2022-12-12,2022-12-18,2022,50,12,"Burundi",8.07388595678884,0.0553004872253058,"AI","AI",NA,0.475,"fourier_country_k2"
 "BDI",2022-12-19,2022-12-25,2022,51,12,"Burundi",7.13785369486107,0.0488826070407555,"AI","AI",NA,0.475,"fourier_country_k2"
 "BDI",2022-12-26,2023-01-01,2022,52,12,"Burundi",6.29585152967877,0.0431168902005936,"AI","AI",NA,0.475,"fourier_country_k2"
-"BDI",2023-01-02,2023-01-08,2023,1,1,"Burundi",24,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"BDI",2023-01-09,2023-01-15,2023,2,1,"Burundi",25,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"BDI",2023-01-02,2023-01-08,2023,1,1,"Burundi",25,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"BDI",2023-01-09,2023-01-15,2023,2,1,"Burundi",24,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "BDI",2023-01-16,2023-01-22,2023,3,1,"Burundi",12,0,"WHO","WHO",NA,1,NA
 "BDI",2023-01-23,2023-01-29,2023,4,1,"Burundi",20,0,"WHO","WHO",NA,1,NA
 "BDI",2023-01-30,2023-02-05,2023,5,1,"Burundi",13,0,"WHO","WHO",NA,1,NA
@@ -20658,9 +20658,9 @@
 "CIV",2025-06-30,2025-07-06,2025,27,6,"Côte d’Ivoire",9,0,"WHO","WHO",NA,1,NA
 "CIV",2025-07-07,2025-07-13,2025,28,7,"Côte d’Ivoire",140,6,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "CIV",2025-07-14,2025-07-20,2025,29,7,"Côte d’Ivoire",140,6,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"CIV",2025-07-21,2025-07-27,2025,30,7,"Côte d’Ivoire",28,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
-"CIV",2025-07-28,2025-08-03,2025,31,7,"Côte d’Ivoire",29,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
-"CIV",2025-08-04,2025-08-10,2025,32,8,"Côte d’Ivoire",29,1,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"CIV",2025-07-21,2025-07-27,2025,30,7,"Côte d’Ivoire",29,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"CIV",2025-07-28,2025-08-03,2025,31,7,"Côte d’Ivoire",28,1,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"CIV",2025-08-04,2025-08-10,2025,32,8,"Côte d’Ivoire",29,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
 "CIV",2025-08-11,2025-08-17,2025,33,8,"Côte d’Ivoire",28,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
 "CIV",2025-08-18,2025-08-24,2025,34,8,"Côte d’Ivoire",NA,NA,NA,NA,NA,NA,NA
 "CIV",2025-08-25,2025-08-31,2025,35,8,"Côte d’Ivoire",NA,NA,NA,NA,NA,NA,NA
@@ -44298,8 +44298,8 @@
 "GHA",2024-09-23,2024-09-29,2024,39,9,"Ghana",0,0,"WHO","WHO",NA,1,NA
 "GHA",2024-09-30,2024-10-06,2024,40,9,"Ghana",0,0,"WHO","WHO",NA,1,NA
 "GHA",2024-10-07,2024-10-13,2024,41,10,"Ghana",9,0,"WHO","WHO",NA,1,NA
-"GHA",2024-10-14,2024-10-20,2024,42,10,"Ghana",376,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"GHA",2024-10-21,2024-10-27,2024,43,10,"Ghana",377,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"GHA",2024-10-14,2024-10-20,2024,42,10,"Ghana",377,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"GHA",2024-10-21,2024-10-27,2024,43,10,"Ghana",376,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "GHA",2024-10-28,2024-11-03,2024,44,10,"Ghana",377,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "GHA",2024-11-04,2024-11-10,2024,45,11,"Ghana",376,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "GHA",2024-11-11,2024-11-17,2024,46,11,"Ghana",209,4,"WHO","WHO",NA,1,NA
@@ -59067,14 +59067,14 @@
 "KEN",2024-02-19,2024-02-25,2024,8,2,"Kenya",18,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-02-26,2024-03-03,2024,9,2,"Kenya",4,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-03-04,2024-03-10,2024,10,3,"Kenya",4,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"KEN",2024-03-11,2024-03-17,2024,11,3,"Kenya",4,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"KEN",2024-03-18,2024-03-24,2024,12,3,"Kenya",5,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
+"KEN",2024-03-11,2024-03-17,2024,11,3,"Kenya",5,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
+"KEN",2024-03-18,2024-03-24,2024,12,3,"Kenya",4,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-03-25,2024-03-31,2024,13,3,"Kenya",4,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-04-01,2024-04-07,2024,14,4,"Kenya",4,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-04-08,2024-04-14,2024,15,4,"Kenya",10,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-04-15,2024-04-21,2024,16,4,"Kenya",10,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"KEN",2024-04-22,2024-04-28,2024,17,4,"Kenya",10,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"KEN",2024-04-29,2024-05-05,2024,18,4,"Kenya",9,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
+"KEN",2024-04-22,2024-04-28,2024,17,4,"Kenya",10,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
+"KEN",2024-04-29,2024-05-05,2024,18,4,"Kenya",9,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-05-06,2024-05-12,2024,19,5,"Kenya",10,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-05-13,2024-05-19,2024,20,5,"Kenya",10,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-05-20,2024-05-26,2024,21,5,"Kenya",8,0,"WHO","WHO",NA,1,NA
@@ -59086,8 +59086,8 @@
 "KEN",2024-07-01,2024-07-07,2024,27,7,"Kenya",8,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-07-08,2024-07-14,2024,28,7,"Kenya",8,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "KEN",2024-07-15,2024-07-21,2024,29,7,"Kenya",45,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"KEN",2024-07-22,2024-07-28,2024,30,7,"Kenya",45,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"KEN",2024-07-29,2024-08-04,2024,31,7,"Kenya",46,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"KEN",2024-07-22,2024-07-28,2024,30,7,"Kenya",46,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"KEN",2024-07-29,2024-08-04,2024,31,7,"Kenya",45,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "KEN",2024-08-05,2024-08-11,2024,32,8,"Kenya",45,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "KEN",2024-08-12,2024-08-18,2024,33,8,"Kenya",0,0,"WHO","WHO",NA,1,NA
 "KEN",2024-08-19,2024-08-25,2024,34,8,"Kenya",0,0,"WHO","WHO",NA,1,NA
@@ -59133,8 +59133,8 @@
 "KEN",2025-05-26,2025-06-01,2025,22,5,"Kenya",40,1,"WHO","WHO",NA,1,NA
 "KEN",2025-06-02,2025-06-08,2025,23,6,"Kenya",25,2,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "KEN",2025-06-09,2025-06-15,2025,24,6,"Kenya",25,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"KEN",2025-06-16,2025-06-22,2025,25,6,"Kenya",24,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"KEN",2025-06-23,2025-06-29,2025,26,6,"Kenya",25,2,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"KEN",2025-06-16,2025-06-22,2025,25,6,"Kenya",24,2,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"KEN",2025-06-23,2025-06-29,2025,26,6,"Kenya",25,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "KEN",2025-06-30,2025-07-06,2025,27,6,"Kenya",5,0,"WHO","WHO",NA,1,NA
 "KEN",2025-07-07,2025-07-13,2025,28,7,"Kenya",0,0,"WHO","WHO",NA,1,NA
 "KEN",2025-07-14,2025-07-20,2025,29,7,"Kenya",2,0,"WHO","WHO",NA,1,NA
@@ -79837,10 +79837,10 @@
 "NAM",2025-02-03,2025-02-09,2025,6,2,"Namibia",NA,NA,NA,NA,NA,NA,NA
 "NAM",2025-02-10,2025-02-16,2025,7,2,"Namibia",NA,NA,NA,NA,NA,NA,NA
 "NAM",2025-02-17,2025-02-23,2025,8,2,"Namibia",NA,NA,NA,NA,NA,NA,NA
-"NAM",2025-02-24,2025-03-02,2025,9,2,"Namibia",NA,NA,NA,NA,NA,NA,NA
-"NAM",2025-03-03,2025-03-09,2025,10,3,"Namibia",7,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
-"NAM",2025-03-10,2025-03-16,2025,11,3,"Namibia",8,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
-"NAM",2025-03-17,2025-03-23,2025,12,3,"Namibia",7,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"NAM",2025-02-24,2025-03-02,2025,9,2,"Namibia",6,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"NAM",2025-03-03,2025-03-09,2025,10,3,"Namibia",5,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"NAM",2025-03-10,2025-03-16,2025,11,3,"Namibia",6,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
+"NAM",2025-03-17,2025-03-23,2025,12,3,"Namibia",5,0,"WHO","WHO",NA,0.9,"who_catchup_curated"
 "NAM",2025-03-24,2025-03-30,2025,13,3,"Namibia",0,0,"WHO","WHO",NA,1,NA
 "NAM",2025-03-31,2025-04-06,2025,14,3,"Namibia",0,0,"WHO","WHO",NA,1,NA
 "NAM",2025-04-07,2025-04-13,2025,15,4,"Namibia",0,0,"WHO","WHO",NA,1,NA
@@ -85671,9 +85671,9 @@
 "NGA",2023-06-12,2023-06-18,2023,24,6,"Nigeria",41,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "NGA",2023-06-19,2023-06-25,2023,25,6,"Nigeria",40,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "NGA",2023-06-26,2023-07-02,2023,26,6,"Nigeria",40,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"NGA",2023-07-03,2023-07-09,2023,27,7,"Nigeria",64,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"NGA",2023-07-10,2023-07-16,2023,28,7,"Nigeria",64,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"NGA",2023-07-17,2023-07-23,2023,29,7,"Nigeria",65,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"NGA",2023-07-03,2023-07-09,2023,27,7,"Nigeria",64,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"NGA",2023-07-10,2023-07-16,2023,28,7,"Nigeria",65,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"NGA",2023-07-17,2023-07-23,2023,29,7,"Nigeria",64,1,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "NGA",2023-07-24,2023-07-30,2023,30,7,"Nigeria",64,0,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "NGA",2023-07-31,2023-08-06,2023,31,7,"Nigeria",138,7,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "NGA",2023-08-07,2023-08-13,2023,32,8,"Nigeria",138,7,"WHO","WHO",NA,0.9,"who_catchup_uniform"
@@ -115267,8 +115267,8 @@
 "TZA",2023-05-15,2023-05-21,2023,20,5,"Tanzania",29,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "TZA",2023-05-22,2023-05-28,2023,21,5,"Tanzania",28,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "TZA",2023-05-29,2023-06-04,2023,22,5,"Tanzania",29,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"TZA",2023-06-05,2023-06-11,2023,23,6,"Tanzania",28,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
-"TZA",2023-06-12,2023-06-18,2023,24,6,"Tanzania",28,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
+"TZA",2023-06-05,2023-06-11,2023,23,6,"Tanzania",28,1,"WHO","WHO",NA,0.8,"who_catchup_uniform"
+"TZA",2023-06-12,2023-06-18,2023,24,6,"Tanzania",28,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "TZA",2023-06-19,2023-06-25,2023,25,6,"Tanzania",29,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "TZA",2023-06-26,2023-07-02,2023,26,6,"Tanzania",28,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
 "TZA",2023-07-03,2023-07-09,2023,27,7,"Tanzania",29,0,"WHO","WHO",NA,0.8,"who_catchup_uniform"
@@ -121172,27 +121172,27 @@
 "ZAF",2023-01-30,2023-02-05,2023,5,1,"South Africa",2,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-02-06,2023-02-12,2023,6,2,"South Africa",1,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-02-13,2023-02-19,2023,7,2,"South Africa",4,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-02-20,2023-02-26,2023,8,2,"South Africa",1,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-02-20,2023-02-26,2023,8,2,"South Africa",1,1,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-02-27,2023-03-05,2023,9,2,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-03-06,2023-03-12,2023,10,3,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-03-13,2023-03-19,2023,11,3,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-03-20,2023-03-26,2023,12,3,"South Africa",4,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-03-27,2023-04-02,2023,13,3,"South Africa",1,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-04-03,2023-04-09,2023,14,4,"South Africa",2,1,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-04-10,2023-04-16,2023,15,4,"South Africa",4,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-04-03,2023-04-09,2023,14,4,"South Africa",1,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-04-10,2023-04-16,2023,15,4,"South Africa",5,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-04-17,2023-04-23,2023,16,4,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-04-24,2023-04-30,2023,17,4,"South Africa",6,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-05-01,2023-05-07,2023,18,5,"South Africa",49,2,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-05-08,2023-05-14,2023,19,5,"South Africa",73,2,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-05-15,2023-05-21,2023,20,5,"South Africa",272,9,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-05-22,2023-05-28,2023,21,5,"South Africa",394,13,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-05-29,2023-06-04,2023,22,5,"South Africa",234,8,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-06-05,2023-06-11,2023,23,6,"South Africa",173,6,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-06-12,2023-06-18,2023,24,6,"South Africa",133,5,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-06-19,2023-06-25,2023,25,6,"South Africa",29,1,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-06-26,2023-07-02,2023,26,6,"South Africa",6,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-07-03,2023-07-09,2023,27,7,"South Africa",2,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
-"ZAF",2023-07-10,2023-07-16,2023,28,7,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-04-24,2023-04-30,2023,17,4,"South Africa",4,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-05-01,2023-05-07,2023,18,5,"South Africa",41,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-05-08,2023-05-14,2023,19,5,"South Africa",68,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-05-15,2023-05-21,2023,20,5,"South Africa",220,10,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-05-22,2023-05-28,2023,21,5,"South Africa",432,13,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-05-29,2023-06-04,2023,22,5,"South Africa",249,5,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-06-05,2023-06-11,2023,23,6,"South Africa",180,6,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-06-12,2023-06-18,2023,24,6,"South Africa",129,5,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-06-19,2023-06-25,2023,25,6,"South Africa",39,3,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-06-26,2023-07-02,2023,26,6,"South Africa",5,3,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-07-03,2023-07-09,2023,27,7,"South Africa",3,1,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
+"ZAF",2023-07-10,2023-07-16,2023,28,7,"South Africa",1,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-07-17,2023-07-23,2023,29,7,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-07-24,2023-07-30,2023,30,7,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
 "ZAF",2023-07-31,2023-08-06,2023,31,7,"South Africa",0,0,"WHO","WHO",NA,0.9,"who_catchup_curated_shaped"
@@ -124159,8 +124159,8 @@
 "ZMB",2023-08-07,2023-08-13,2023,32,8,"Zambia",11,0,"WHO","WHO",NA,1,NA
 "ZMB",2023-08-14,2023-08-20,2023,33,8,"Zambia",0,0,"WHO","WHO",NA,1,NA
 "ZMB",2023-08-21,2023-08-27,2023,34,8,"Zambia",15,0,"WHO","WHO",NA,1,NA
-"ZMB",2023-08-28,2023-09-03,2023,35,8,"Zambia",52,2,"WHO","WHO",NA,0.9,"who_catchup_uniform"
-"ZMB",2023-09-04,2023-09-10,2023,36,9,"Zambia",53,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"ZMB",2023-08-28,2023-09-03,2023,35,8,"Zambia",53,3,"WHO","WHO",NA,0.9,"who_catchup_uniform"
+"ZMB",2023-09-04,2023-09-10,2023,36,9,"Zambia",52,2,"WHO","WHO",NA,0.9,"who_catchup_uniform"
 "ZMB",2023-09-11,2023-09-17,2023,37,9,"Zambia",19,0,"WHO","WHO",NA,1,NA
 "ZMB",2023-09-18,2023-09-24,2023,38,9,"Zambia",9,0,"WHO","WHO",NA,1,NA
 "ZMB",2023-09-25,2023-10-01,2023,39,9,"Zambia",0,0,"WHO","WHO",NA,1,NA
