@@ -17,7 +17,7 @@
 #   2026-08-01 = 1.29 (NOAA), 2026-09-01 = 1.8762091049382714 (NMME counterfactual),
 #   2026-10-01 = 2.129681327160494 (NMME, as published).
 ST  <- "/Users/johngiles/MOSAIC/MOSAIC-pkg/claude/v0101_rebuild/psi"
-SRC <- "/Users/johngiles/MOSAIC/MOSAIC-data/processed/enso"
+SRC <- "/Users/johngiles/MOSAIC/MOSAIC-data/processed/ENSO"
 OUT <- file.path(ST, "nino4", "enso_C"); dir.create(OUT, recursive = TRUE, showWarnings = FALSE)
 suppressMessages(library(data.table))
 

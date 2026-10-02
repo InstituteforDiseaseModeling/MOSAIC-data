@@ -93,7 +93,7 @@ September value existed.
 | file | what |
 |---|---|
 | `PROVENANCE.md` | full provenance: outputs, panel, ENSO input, fit, release-panel addendum |
-| `MD5SUMS.txt` | md5 of every file in the bundle (staging manifest, copied verbatim) |
+| `MD5SUMS.txt` | md5 of every file in the bundle (staging manifest; see the notes below) |
 | `compile_panel.R` | panel compile script (arg 1 `DATA_ENSO`, arg 2 scratch dir) |
 | `compile_panel_C.log`, `compile_panel_C_rebuild_check.log` | compile log and its bitwise rebuild |
 | `enso_C/enso_weekly.csv` | the variant ENSO input |
@@ -103,12 +103,19 @@ September value existed.
 
 ## Notes on `MD5SUMS.txt`
 
-These notes refer to the staging manifest, copied verbatim.
+`MD5SUMS.txt` is the staging manifest, copied verbatim apart from the `build_nino4_C.R` line.
 - **The last line points outside this bundle.** It records the release panel's md5 at its
   staging path on the laptop. The panel is not committed.
 - **The `PROVENANCE.md` line is current.** It is the md5 of the file as committed,
   `c30166dab1a38f0cf844bb5c366f72e9`. The last sentence of PROVENANCE.md section 6 quotes
   `f1454329...`, the md5 before that section was appended, and is out of date.
+- **The `build_nino4_C.R` line is the corrected script,** `2be3d6c07373a8c86aa73026b48b750a`.
+  As run, the script read `processed/enso` in lower case, which resolves only on a
+  case-insensitive file system such as the laptop's; the directory is `processed/ENSO`, and the
+  committed script now reads it there. That path is the only change. PROVENANCE.md section 3
+  quotes the md5 of the script as run, `74554f4e50a699d9371eca67e52d064b`, and
+  `build_nino4_C.log` is that run's output. The corrected script reproduces
+  `enso_C/enso_weekly.csv` byte for byte, with the same log.
 
 ## Reproduce
 
