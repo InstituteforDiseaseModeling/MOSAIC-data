@@ -1,0 +1,60 @@
+MOSAIC 1.1.0 RemoteSha from /home/jgiles/R/lib_v110_psi/MOSAIC 
+R_LIBS = /home/jgiles/R/lib_v110_psi  MOSAIC_PSI_CORE_BUDGET = 85 
+root_directory set to:
+~/MOSAIC
+Retrieve with getOption('root_directory')
+run DB  source panel: /home/jgiles/psi_v110/panel_D/cholera_country_weekly_suitability_data.csv  md5: 1917488487daf33187e98f4c9be46a83  seed_base: 121 
+Auto-detected fit_date_stop (cutoff; last week with cases + complete ENSO): 2026-10-01
+Auto-detected pred_date_stop: 2027-04-29
+lstm_v2: fit_date_start=2015-01-01  cutoff(fit_date_stop)=2026-10-01
+lstm_v2: prediction window 2018-01-01 -> 2027-04-29
+lstm_v2: feature_set='v7.3' (38 candidates), region_map='snf_k5', n_seeds=10
+Loading source CSV: /home/jgiles/psi_v110/panel_D/cholera_country_weekly_suitability_data.csv
+  all_mosaic pool resolved to 40 countries
+  confidence_weight: 13569 rows < 1.0 (WILL be applied)
+  Using response_var='target_D_rate_per_country_floored' (pre-computed [0,1] target)
+  region_map: 40 countries mapped to 5 zones
+  [rolling_cv] 12 RW steps (gap=4w, step=1mo, test=5mo, subsample=6)
+    first: train_end=2020-11-15 test=[2020-12-13, 2021-05-12]
+    last : train_end=2026-05-15 test=[2026-06-12, 2026-09-30]
+  [ensemble] parallel seed fitting: 10 PSOCK worker(s), 8 TF intra-op threads each
+2026-10-07 14:13:53.289208: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:13:53.313671: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:13:54.105486: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:13:55.479314: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:13:56.935299: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:13:59.339694: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:14:00.702047: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:14:02.752857: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:14:06.203684: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+2026-10-07 14:14:07.493040: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+  seed 121 ok: val_loss=0.5225 val_metric=0.0882 epochs=4
+  seed 132 ok: val_loss=0.5307 val_metric=0.0886 epochs=5
+  seed 143 ok: val_loss=0.5236 val_metric=0.0911 epochs=3
+  seed 154 ok: val_loss=0.5300 val_metric=0.0910 epochs=2
+  seed 165 ok: val_loss=0.5124 val_metric=0.0881 epochs=4
+  seed 176 ok: val_loss=0.5434 val_metric=0.0876 epochs=4
+  seed 187 ok: val_loss=0.5268 val_metric=0.0891 epochs=4
+  seed 198 ok: val_loss=0.5403 val_metric=0.0886 epochs=6
+  seed 209 ok: val_loss=0.5262 val_metric=0.0895 epochs=4
+  seed 220 ok: val_loss=0.5281 val_metric=0.0861 epochs=8
+Applied per-country logit-scale bias correction -> psi.
+Dropped 0 trailing carry-forward-filled daily prediction rows (kept 136240 across 40 locations).
+Predictions saved to: /home/jgiles/psi_v110/DB/out/pred_psi_suitability_week.csv
+Predictions saved to: /home/jgiles/psi_v110/DB/out/pred_psi_suitability_day.csv
+Observed data and metadata saved to: /home/jgiles/psi_v110/DB/out/data_psi_suitability.csv
+2026-10-07 14:42:55.647855: E external/local_xla/xla/stream_executor/cuda/cuda_platform.cc:51] failed call to cuInit: INTERNAL: CUDA error: Failed call to cuInit: UNKNOWN ERROR (303)
+Model configuration saved to: /home/jgiles/psi_v110/DB/out/psi_suitability_config.json
+Warning messages:
+1: calibrate_psi_predictions: 11 country/countries had < 8 outbreak (non-zero observed) week(s) within the training window, no/low logit-pred variance, or a rank-deficient fit; used identity correction for those. 
+2: calibrate_psi_predictions: 7 country/countries had their affine correction guarded (slope or offset clamped, or an inflated amplitude shrunk toward identity). 
+3: calibrate_psi_predictions: 3 country/countries (CAF, ERI, UGA) had a clamped outbreak-week slope below amp_range[1] = 0.5, which would shrink psi's logit-scale amplitude below that fraction of the model's; fit not applied (identity) for those. 
+4: check_psi_amplitude: 5 country/countries have distorted psi amplitude (collapsed or inflated): BDI (inflated, amp_ratio=2.00); GIN (collapsed, amp_ratio=1.00); LBR (inflated, amp_ratio=2.00); NER (inflated, amp_ratio=2.00); SEN (collapsed, amp_ratio=1.00). Inspect the bias correction (see calibrate_psi_predictions diagnostics). 
+ELAPSED_MIN 30.3 
+Warning messages:
+1: calibrate_psi_predictions: 11 country/countries had < 8 outbreak (non-zero observed) week(s) within the training window, no/low logit-pred variance, or a rank-deficient fit; used identity correction for those.
+2: calibrate_psi_predictions: 7 country/countries had their affine correction guarded (slope or offset clamped, or an inflated amplitude shrunk toward identity).
+3: calibrate_psi_predictions: 3 country/countries (CAF, ERI, UGA) had a clamped outbreak-week slope below amp_range[1] = 0.5, which would shrink psi's logit-scale amplitude below that fraction of the model's; fit not applied (identity) for those.
+4: check_psi_amplitude: 5 country/countries have distorted psi amplitude (collapsed or inflated): BDI (inflated, amp_ratio=2.00); GIN (collapsed, amp_ratio=1.00); LBR (inflated, amp_ratio=2.00); NER (inflated, amp_ratio=2.00); SEN (collapsed, amp_ratio=1.00). Inspect the bias correction (see calibrate_psi_predictions diagnostics).
+DONE
+EXIT 0

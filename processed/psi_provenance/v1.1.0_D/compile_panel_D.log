@@ -1,0 +1,122 @@
+MOSAIC (load_all) 1.1.0 sha 6fc1b57f1 
+root_directory set to:
+/Users/johngiles/MOSAIC
+Retrieve with getOption('root_directory')
+[1] TRUE
+input: /Users/johngiles/MOSAIC/MOSAIC-pkg/claude/psi_v110/panel_D/weekly/cholera_surveillance_weekly_combined.csv  md5: e8fd8695b3c2d778b216d07966ab0b25 
+input: /Users/johngiles/MOSAIC/MOSAIC-data/processed/psi_provenance/v0.101.0_C3/enso_C/enso_weekly.csv  md5: 7805ecfe8513c0d328e5726d49d14d58 
+input: /Users/johngiles/MOSAIC/MOSAIC-pkg/model/input/param_epidemic_peaks.csv  md5: 9849dce87dd3ddcb56a60c6169280dba 
+Loading climate data...
+Loading ENSO and IOD data...
+Loading combined weekly cholera cases data (WHO+JHU+SUPP)...
+Determining optimal date range...
+  - Using start year: 2000 (from date_start = 2000-01-01)
+  - Latest ENSO data: 2027 (using max date from raw ENSO dataset)
+  - Final date range: 2000-2027
+Filtering datasets to optimal date range and MOSAIC countries...
+  - Filtered to 40 MOSAIC countries: AGO, BDI, BEN, BFA, BWA, CAF, CIV, CMR
+    ... and 32 more countries
+Merging datasets...
+After merge: 58440 observations, columns: iso_code, year, week, date_start, date_stop, month, country, cases, deaths, source
+  - Filtered to ENSO data availability: 56840 observations retained
+Adding enhanced covariates for count-based modeling...
+  - Adding demographic variables...
+  - Adding per-capita rate and candidate response variables...
+  - Adding socioeconomic indicators...
+  - Adding EM-DAT flood occurrence indicators...
+  - Adding EM-DAT cyclone occurrence indicators...
+  - Adding WASH indicators...
+    - Filled 2842 NA values in Piped_Water with mean: 33.95
+    - Filled 2842 NA values in Other_Improved_Water with mean: 34.72
+    - Filled 2842 NA values in Septic_or_Sewer_Sanitation with mean: 10.16
+    - Filled 2842 NA values in Other_Improved_Sanitation with mean: 34.02
+    - Filled 2842 NA values in Unimproved_Water with mean: 20.13
+    - Filled 2842 NA values in Surface_Water with mean: 11.21
+    - Filled 2842 NA values in Unimproved_Sanitation with mean: 25.08
+    - Filled 2842 NA values in Open_Defecation with mean: 30.75
+  - Calculating derived climate indices...
+  - Adding temporal features...
+  - Adding interaction terms...
+  - Adding geographic variables...
+    - Regional classification file not found, creating basic regions based on WHO regions
+Enhanced covariates added. Total columns: 94
+Handling NA values in all covariates...
+  - Handling time series variables...
+  - Handling static/slow-changing variables...
+  - Handled NA values in 3 variables
+    - poverty_ratio: 10330 NAs filled using mean
+    - population_density: 624 NAs filled using mean
+    - GDP: 416 NAs filled using mean
+  - All NA values successfully imputed
+Creating environmental suitability indicator (cases_binary)...
+  - Using epidemic peak-based method (deterministic)
+    * Loading epidemic peaks from est_epidemic_peaks() analysis...
+    * Creating deterministic outbreak-based suitability periods...
+    * Using exact peak_start to peak_stop dates without modifications...
+Loaded epidemic peaks data: 223 peak periods across 34 countries
+Applying epidemic peak-based suitability indicators:
+  - Countries with epidemic peaks: 32 (AGO, BDI, BEN, BFA, CAF, CIV)
+    ... and 26 more
+  - Countries without peaks (remain unsuitable): 8 (BWA, ERI, GAB, GMB, GNQ, MRT)
+    ... and 2 more
+Epidemic peak-based environmental suitability applied:
+  - Total observations: 56840
+  - Peak periods applied: 217
+  - Suitable periods: 834 (1.5%)
+  - Countries with peaks: 32, without peaks: 8
+    * Epidemic peak-based environmental suitability indicator completed!
+Creating enhanced time series covariates...
+  - Forecast mode enabled: 9 month horizon (39 weeks)
+  - Using 43-week lag for epidemic memory variables
+  - Adding rolling window variables...
+  - Calculating standardized anomalies...
+  - Adding climate extremes indicators...
+  - Adding enhanced interaction terms...
+  - Adding time-lagged climate variables...
+    - Added climate/anomaly/ENSO/IOD time-lagged variables (extended grid)
+Enhanced covariates added. Total columns: 284
+Imputing flood probability with binomial GAM...
+Imputing flood probability via enriched binomial GAM...
+  Training rows: 53120 (active fraction: 0.062)
+  Deviance explained: 30.2%
+  Rolling-year CV mean AUC: 0.818 (n=3 folds)
+  Diagnostics written to: /Users/johngiles/MOSAIC/MOSAIC-pkg/claude/psi_v110/panel_D/figs/flood_imputation
+Imputing cyclone probability with wind/coastal binomial GAM...
+Imputing cyclone probability via wind/coastal binomial GAM...
+  Training rows: 54200 (active fraction: 0.0013, 72 active weeks)
+  Deviance explained: 49.9%
+  Rolling-year CV mean AUC: 0.975 (n=3 folds)
+  Diagnostics written to: /Users/johngiles/MOSAIC/MOSAIC-pkg/claude/psi_v110/panel_D/figs/cyclone_imputation
+Imputing drought probability with teleconnection binomial GAM...
+Imputing drought probability via teleconnection binomial GAM...
+  Label: 12w-rollmean(spei_approx) <= -0.80 -> 8633 positive / 56400 labeled weeks (15.3%), 38 countries
+  Training rows: 54200 (active fraction: 0.153)
+  Deviance explained: 28.5%
+  Rolling-year CV mean AUC: 0.841 (n=3 folds)
+  Diagnostics written to: /Users/johngiles/MOSAIC/MOSAIC-pkg/claude/psi_v110/panel_D/figs/drought_imputation
+  - Forecast mode validated: dataset ready for 9-month forecasting
+=== DATASET SUMMARY ===
+Countries: 40 (AGO, BDI, BEN, BFA, BWA, CAF, CIV, CMR ... and 32 more)
+Covariate period: 2000-01-06 to 2027-04-29 (27.3 years)
+Observed case period: 2000-01-06 to 2026-09-17 (26.7 years)
+Observations: 56,840 total
+Cases: 3,622,460 total cases, 91,212.09 deaths
+Case weeks: 23,689 (41.7% of observations)
+Covariates: 292 total
+  - Temporal: 11
+  - Climate: 194
+  - Demographics/Health: 7
+  - WASH: 8
+  - ENSO: 4
+  - Interactions: 18
+  - Time lags: 159
+  - Geographic: 4
+Variables with >10% missing data: 14
+MODE: Forecast (9-month horizon)
+LAGS: Time-lagged climate variables included (1-36 week lags)
+=======================
+Processed suitability data saved here: /Users/johngiles/MOSAIC/MOSAIC-pkg/claude/psi_v110/panel_D/weekly/cholera_country_weekly_suitability_data.csv
+ELAPSED_MIN 2.5 
+PANEL /Users/johngiles/MOSAIC/MOSAIC-pkg/claude/psi_v110/panel_D/weekly/cholera_country_weekly_suitability_data.csv  md5: 1917488487daf33187e98f4c9be46a83  bytes: 227907201 
+rows 56840 cols 300 | last observed cases week: 2026-10-01 
+DONE
